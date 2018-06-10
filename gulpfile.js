@@ -74,6 +74,14 @@ gulp.task('js', () => {
     .pipe(gulp.dest('./'))
 })
 
+gulp.task('css-prod', function () {
+  
+});
+
+gulp.task('js-prod', () => {
+  
+})
+
 /**
  * Watch scss files for changes & recompile
  * Watch html/md files, run jekyll & reload BrowserSync
@@ -90,7 +98,7 @@ gulp.task('watch', function () {
  */
 gulp.task('default', ['browser-sync', 'watch']);
 
-gulp.task('deploy', ['jekyll-build', 'css-prod', 'js-prod', 'image-min'], function () {
+gulp.task('deploy', ['jekyll-build', 'sass', 'js'], function () {
     return gulp.src('./_site/**/*')
         .pipe(deploy());
 });
