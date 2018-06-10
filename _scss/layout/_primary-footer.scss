@@ -1,8 +1,0 @@
-.primary-footer {
-	display: grid;
-	grid-gap: calculate-rem(32px);
-	max-width: calculate-rem(393px);
-	width: 80%;
-	@extend %spacer-large
-	
-}

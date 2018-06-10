@@ -1,8 +1,0 @@
-.profile-image {
-	max-width: calculate-rem(320px);
-	width: 100%;
-	border-radius: 100%;
-	@media (max-width: $medium) {
-		width: 65%;
-	}
-}

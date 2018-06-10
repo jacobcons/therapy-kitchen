@@ -1,6 +1,0 @@
-Gulp -
-	sass - prefix, compile
-	js - one js file with browserify and routing
-	image - minify in dist directory
-	watch - browsersync
-	prod - minify, polyfill, image-min
