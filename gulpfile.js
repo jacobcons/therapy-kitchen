@@ -98,7 +98,7 @@ gulp.task('watch', function () {
  */
 gulp.task('default', ['browser-sync', 'watch']);
 
-gulp.task('deploy', ['jekyll-build', 'sass', 'js'], function () {
+gulp.task('deploy', ['sass', 'js', 'jekyll-build'], function () {
     return gulp.src('./_site/**/*')
         .pipe(deploy());
 });
