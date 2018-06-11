@@ -6,11 +6,13 @@ var cp          = require('child_process');
 const browserify = require('browserify');
 const source = require('vinyl-source-stream');
 const flatten = require('gulp-flatten');
-const deploy = require('gulp-gh-pages');
 var jekyll   = process.platform === 'win32' ? 'jekyll.bat' : 'jekyll';
 var messages = {
     jekyllBuild: '<span style="color: grey">Running:</span> $ jekyll build'
 };
+const cleanCss = require('gulp-clean-css');
+const minify  = require('gulp-babel-minify');
+const deploy = require('gulp-gh-pages');
 
 /**
  * Build the Jekyll Site
@@ -75,11 +77,15 @@ gulp.task('js', () => {
 })
 
 gulp.task('css-prod', function () {
-  
+  return gulp.src('./site/main.css', { base: './' })
+    .pipe(cleanCss())
+    .pipe(gulp.dest('.'))
 });
 
 gulp.task('js-prod', () => {
-  
+  return gulp.src('./site/main.css', { base: './' })
+    .pipe(minify())
+    .pipe(gulp.dest('.'))
 })
 
 /**
@@ -98,7 +104,9 @@ gulp.task('watch', function () {
  */
 gulp.task('default', ['browser-sync', 'watch']);
 
-gulp.task('deploy', ['sass', 'js', 'jekyll-build'], function () {
+gulp.task('prod', ['css-prod', 'js-prod']);
+
+gulp.task('deploy', ['prod'], function () {
     return gulp.src('./_site/**/*')
         .pipe(deploy());
 });
