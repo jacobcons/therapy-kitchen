@@ -6,17 +6,11 @@ var cp          = require('child_process');
 const browserify = require('browserify');
 const source = require('vinyl-source-stream');
 const flatten = require('gulp-flatten');
+const deploy = require('gulp-gh-pages');
 var jekyll   = process.platform === 'win32' ? 'jekyll.bat' : 'jekyll';
 var messages = {
     jekyllBuild: '<span style="color: grey">Running:</span> $ jekyll build'
 };
-const cleanCss = require('gulp-clean-css');
-const buffer = require('vinyl-buffer');
-const minify  = require('gulp-babel-minify');
-const deploy = require('gulp-gh-pages');
-const paths = {
-  js: '_js/main.js',
-}
 
 /**
  * Build the Jekyll Site
@@ -37,7 +31,7 @@ gulp.task('jekyll-rebuild', ['jekyll-build'], function () {
 /**
  * Wait for jekyll-build, then launch the Server
  */
-gulp.task('browser-sync', ['sass', 'js', 'jekyll-build'], function() {
+gulp.task('browser-sync', ['jekyll-build', 'sass', 'js'], function() {
     browserSync({
         server: {
             baseDir: '_site'
@@ -63,7 +57,7 @@ gulp.task('sass', function () {
 });
 
 gulp.task('js', () => {
-  return browserify(paths.js)
+  return browserify('_js/main.js')
     .transform('babelify', {
       presets: ['import-export'],
       global: true,
@@ -73,35 +67,11 @@ gulp.task('js', () => {
       console.log(err.message);
       this.emit('end');
     })
-    .pipe(source(paths.js))
+    .pipe(source('_js/main.js'))
     .pipe(flatten())
     .pipe(gulp.dest('_site'))
     .pipe(browserSync.reload({stream:true}))
     .pipe(gulp.dest('./'))
-})
-
-gulp.task('css-prod', function () {
-  return gulp.src('_site/main.css', { base: './' })
-    .pipe(cleanCss())
-    .pipe(gulp.dest('.'))
-});
-
-gulp.task('js-prod', () => {
-  return browserify(paths.js)
-    .transform('babelify', {
-      presets: ['env'],
-      global: true,
-    })
-    .bundle()
-    .on('error', function(err) {
-      console.log(err.message);
-      this.emit('end');
-    })
-    .pipe(source(paths.js))
-    .pipe(buffer())
-    .pipe(flatten())
-    .pipe(minify())
-    .pipe(gulp.dest('_site'))
 })
 
 /**
@@ -110,7 +80,7 @@ gulp.task('js-prod', () => {
  */
 gulp.task('watch', function () {
     gulp.watch('_scss/**/*.scss', ['sass']);
-    gulp.watch(paths.js, ['js']);
+    gulp.watch('_js/main.js', ['js']);
     gulp.watch(['pages/*.html', '_layouts/*.html', '_posts/*', '_includes/*.html', '_includes/**/*.svg'], ['jekyll-rebuild']);
 });
 
@@ -120,9 +90,7 @@ gulp.task('watch', function () {
  */
 gulp.task('default', ['browser-sync', 'watch']);
 
-gulp.task('prod', ['css-prod', 'js-prod']);
-
-gulp.task('deploy', ['sass', 'js', 'jekyll-build'], function () {
+gulp.task('deploy', ['jekyll-build', 'css-prod', 'js-prod'], function () {
     return gulp.src('./_site/**/*')
         .pipe(deploy());
 });
