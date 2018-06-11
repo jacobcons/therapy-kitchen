@@ -11,8 +11,12 @@ var messages = {
     jekyllBuild: '<span style="color: grey">Running:</span> $ jekyll build'
 };
 const cleanCss = require('gulp-clean-css');
+const buffer = require('vinyl-buffer');
 const minify  = require('gulp-babel-minify');
 const deploy = require('gulp-gh-pages');
+const paths = {
+  js: '_js/main.js',
+}
 
 /**
  * Build the Jekyll Site
@@ -59,7 +63,7 @@ gulp.task('sass', function () {
 });
 
 gulp.task('js', () => {
-  return browserify('_js/main.js')
+  return browserify(paths.js)
     .transform('babelify', {
       presets: ['import-export'],
       global: true,
@@ -69,7 +73,7 @@ gulp.task('js', () => {
       console.log(err.message);
       this.emit('end');
     })
-    .pipe(source('_js/main.js'))
+    .pipe(source(paths.js))
     .pipe(flatten())
     .pipe(gulp.dest('_site'))
     .pipe(browserSync.reload({stream:true}))
@@ -83,9 +87,21 @@ gulp.task('css-prod', function () {
 });
 
 gulp.task('js-prod', () => {
-  return gulp.src('_site/main.js', { base: './' })
+  return browserify(paths.js)
+    .transform('babelify', {
+      presets: ['env'],
+      global: true,
+    })
+    .bundle()
+    .on('error', function(err) {
+      console.log(err.message);
+      this.emit('end');
+    })
+    .pipe(source(paths.js))
+    .pipe(buffer())
+    .pipe(flatten())
     .pipe(minify())
-    .pipe(gulp.dest('.'))
+    .pipe(gulp.dest('_site'))
 })
 
 /**
@@ -94,7 +110,7 @@ gulp.task('js-prod', () => {
  */
 gulp.task('watch', function () {
     gulp.watch('_scss/**/*.scss', ['sass']);
-    gulp.watch('_js/main.js', ['js']);
+    gulp.watch(paths.js, ['js']);
     gulp.watch(['pages/*.html', '_layouts/*.html', '_posts/*', '_includes/*.html', '_includes/**/*.svg'], ['jekyll-rebuild']);
 });
 
@@ -106,7 +122,7 @@ gulp.task('default', ['browser-sync', 'watch']);
 
 gulp.task('prod', ['css-prod', 'js-prod']);
 
-gulp.task('deploy', ['prod'], function () {
+gulp.task('deploy', ['sass', 'js', 'jekyll-rebuild'], function () {
     return gulp.src('./_site/**/*')
         .pipe(deploy());
 });
