@@ -122,7 +122,7 @@ gulp.task('default', ['browser-sync', 'watch']);
 
 gulp.task('prod', ['css-prod', 'js-prod']);
 
-gulp.task('deploy', ['sass', 'js', 'jekyll-rebuild'], function () {
+gulp.task('deploy', ['sass', 'js', 'jekyll-build'], function () {
     return gulp.src('./_site/**/*')
         .pipe(deploy());
 });
