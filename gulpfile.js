@@ -77,13 +77,13 @@ gulp.task('js', () => {
 })
 
 gulp.task('css-prod', function () {
-  return gulp.src('./site/main.css', { base: './' })
+  return gulp.src('_site/main.css', { base: './' })
     .pipe(cleanCss())
     .pipe(gulp.dest('.'))
 });
 
 gulp.task('js-prod', () => {
-  return gulp.src('./site/main.css', { base: './' })
+  return gulp.src('_site/main.js', { base: './' })
     .pipe(minify())
     .pipe(gulp.dest('.'))
 })
