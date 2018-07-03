@@ -1,10 +1,266 @@
-===MAIN LAYOUT===
+===INCLUDES===
+header.primary-header
+	h1.logo
+	nav.primary-nav
+		a.primary-nav__link.primary-header__link
+		a.primary-nav__link.primary-header__link.primary-header__link--has-sub-nav
+			nav.sub-nav
+				a.primary-nav__link.sub-nav__link
 
+footer.primary-footer
+	nav.primary-nav
+		a.primary-nav__link.primary-footer__link
+		a.primary-nav__link.primary-footer__link.primary-footer__link--has-sub-nav
+			nav.sub-nav
+				a.primary-nav__link.sub-nav__link
+	nav.primary-nav
+		a.primary-nav__link.primary-footer__link
+		a.primary-nav__link.primary-footer__link.primary-footer__link--has-sub-nav
+			nav.sub-nav
+				a.primary-nav__link.sub-nav__link
+	.flex-col
+		a.contact-detail
+		a.contact-detail
+		svg.social-icon
+		svg.social-icon
+===TEXT-NARROW-WRAPPER===
+section.primary-section
+	.wrapper.wrapper--narrow
+		p.t5
+===3-CARDS===
+section.primary-section
+	.wrapper
+		.grid-3-1
+			.card.card--bg-image
+				.card__content
+					h2
+					p
+					.card__footer
+						a.t3
+===2-COL-BOX-GRID===
+section.primary-section
+	.wrapper
+		.grid-2-1
+			.box
+				h2
+				p
+				ul.box__list
+					li
+===TIMELINE===
+ul.timeline
+	li.timeline__row
+		span.timeline__date
+		span.timeline__text
+===CENTER-IMAGE==
+.flex.flex--center
+	img
+===CENTER-LIST===
+section.primary-section
+	.wrapper.text-center
+		h2.primary-section__title
+		ul.t5
+			li
+===TEXT-TABLE==
+section.primary-section
+	.wrapper.wrapper--narrow
+		h2.primary-section__title
+		.grid-2-1
+			p
+			table
+				tr
+					th
+				tr
+				 td
+===NARROW-WRAPPER-LIST===
+section.primary-section
+	.wrapper.wrapper--narrow
+		h2.t1.primary-section__title
+		ul.t5
+			li
+===SLIDER===
+section.primary-section
+	.slider.js-slider-triples
+		img.slider__image	
+===BLOG===
+section.primary-section
+	.wrapper
+		.grid-3-1
+			.grid-2-1
+				.card
+					.card__content
+						h2.t3
+						p
+						.card__footer
+							a.t4
+							span
+			.l-filters
+				.filter
+					h2
+					ul
+						li
+===CONTACT-FORM===
+copy from oakka
 
 ===INDEX===
+section.primary-section
+	wrapper.wrapper--narrow
+		p.t5
+	
+section.primary-section
+	.wrapper
+		.grid-3-1
+			.card.card--bg-image
+				.card__content.flex-col
+					h2.t2
+					p
+					.card__footer
+						a.t3
+===ABOUT===
+section.primary-section
+	.wrapper
+		.grid-2-1
+			div
+				h2.t2
+				p
+			div
+				h2.t2
+				ul.timeline
+					li.timeline__row
+						span.timeline__date
+						span.timeline__text
+		image.flex.flex--center
+===THERAPY===
+section.primary-section
+	.wrapper
+		.grid-2-1
+			.box
+				h2.box__title
+				p.small-text
+
+section.primary-section
+	h2
+		ul.text-center
+			li
+			
+section.primary-section
+	.wrapper.wrapper--narrow
+		h2
+		.grid-2-1
+			p.small-text
+			table
+				tr
+					th
+				tr
+				 td
+===KITCHEN-THERAPY===
+section.primary-section
+	.wrapper.wrapper--narrow
+		p
+
+section.primary-section
+	.wrapper
+		.grid-3-1
+			.card.card--bg-image
+				.card__content.flex-col
+					h2.t2
+					p
+					a.t3
+
+section.primary-section
+	.wrapper.wrapper--narrow
+		h2
+		ul
+			li
+
+section.primary-section
+	.slider.js-slider-triples
+		img.slider__image
+
+section.primary-section
+	.wrapper.wrapper--narrow
+		h2
+		p
+	.wrapper
+		.grid-2-1
+			.box
+				.box__title
+				p.small-text
+				ul.box__list.small-text
+					li
+
+section.primary-section
+	h2
+	TESTIMONIALS
+===COOKERY===
+section.primary-section
+	.wrapper.wrapper--narrow
+		i
+			p
+			
+section.primary-section
+	.wrapper.wrapper--narrow	
+		p
+
+section.primary-section
+	.wrapper.wrapper--narrow
+		h2
+		p
+	.wrapper
+		.grid-2-1
+			.box
+				.box__title
+				p.small-text
+				
+section.primary-section
+	h2
+		ul.text-center
+			li
+
+section.primary-section
+	h2
+	TESTIMONIALS
+===BLOG===
+section.primary-section
+	.wrapper
+		.grid-3-1
+			.grid-2-1
+				.card.card--small-text
+					.card__title
+					.card__text
+					.card__more
+					.card__date
+			.l-filters
+				.filter
+					h2.filter__title
+					ul.small-text
+						li		
+			
+			
+===RAND===
+section.primary-section
+	.wrapper.text-center
+		h2.primary-section__title
+		ul
+			li
+
+.card.card--small
+	.card__content
+		header.card__header
+			h2.card__title
+			p.card__text
+		footer.card__footer
+			a.card__more
+			span.card__date
+
+.box
+	h3.box__title
+	p
+	ul.box__list
+		li
 	
 	
-===CONTACT===
+				
+				
 
 		
 
