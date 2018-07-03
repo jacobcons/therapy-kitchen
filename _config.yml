@@ -1,5 +1,5 @@
 ---
-title: Oakka
+title: Therapy Kitchen
 timezone: UTC
 collections:
   posts:
@@ -19,14 +19,5 @@ defaults:
     path: ''
     type: pages
   values:
-    layout: default
-    page-title: ''
-exclude:
-- notes
-- node_modules
-permalink: date
-contact:
-  email: hello@oakkadesign.co.uk
-  tel: '07738590748'
-gems:
-- jekyll-sitemap
+    layout: page
+permalink: pretty
