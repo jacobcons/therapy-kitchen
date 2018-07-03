@@ -19,5 +19,14 @@ defaults:
     path: ''
     type: pages
   values:
-    layout: page
-permalink: pretty
+    layout: default
+    page-title: ''
+exclude:
+- notes
+- node_modules
+permalink: date
+contact:
+  email: hello@oakkadesign.co.uk
+  tel: '07738590748'
+gems:
+- jekyll-sitemap
