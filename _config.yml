@@ -21,6 +21,7 @@ defaults:
   values:
     layout: default
     page-title: ''
+    meta-desc: ''
 exclude:
 - notes
 - node_modules
