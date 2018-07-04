@@ -4,11 +4,12 @@ date: 2018-07-04 11:21:00 Z
 text-boxes:
 - title: 
   body-copy: 
-areas-of-specialism:
+list:
   title: 
-  areas:
+  items:
   - 
-what-to-expect:
+text-and-table:
+  title: 
   text-box: 
   table:
   - cost: 
