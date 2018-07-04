@@ -1,7 +1,7 @@
 ---
 title: About
 date: 2018-07-03 14:03:00 Z
-position: 1
+position: 2
 text-boxes:
 - title: 
   body-copy: 
