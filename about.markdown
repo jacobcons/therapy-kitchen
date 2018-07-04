@@ -7,5 +7,6 @@ text-boxes:
 Qualifications:
 - title: 
   year: 
+portfolio-image: 
 ---
 
