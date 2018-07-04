@@ -1,14 +1,29 @@
 ---
 title: Kitchen therapy
 date: 2018-07-04 11:24:00 Z
-intro: 
-cards:
-- title: 
+what-is-it:
   desc: 
-  bg-image: 
-list:
+  aspects:
+  - title: 
+    desc: 
+    bg-image: 
+what-to-expect:
   title: 
-  items: 
-Field name: 
+  list:
+  - 
+slider-images:
+- 
+who-is-it-for:
+  title: 
+  desc: 
+  examples:
+  - title: 
+    desc: 
+    list:
+    - 
+testimonials:
+- quote: 
+  author: 
+  date: 
 ---
 
