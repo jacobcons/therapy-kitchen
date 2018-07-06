@@ -27,7 +27,7 @@ text-boxes:
     love.  To this end, I am compiling a therapeutic cook book, based around imaginative,
     intuitive cooking and how this can inspire wider creative confidence in the world
     outside the kitchen (I’m told there is one…)
-Qualifications:
+qualifications:
 - title: Accredited Member British Association of Counselling and Psychotherapy (BACP)
   year: 2016
 - title: Foundation in Systemic Family Therapy, St Georges’ University Hospital, Tooting
