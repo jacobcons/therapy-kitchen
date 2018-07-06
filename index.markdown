@@ -28,5 +28,6 @@ services:
     of our human experience. Building creative confidence through the natural art
     of cooking.
   bg-image: "/uploads/cookery.jpg"
+layout: index
 ---
 
