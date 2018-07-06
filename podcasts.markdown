@@ -10,5 +10,6 @@ podcasts:
   link: www.bbc.co.uk/programmes/b07h69n9
 - name: Dr Gabor Mate – the one you feed
   link: www.oneyoufeed.net/gabor-mate/
+layout: podcasts
 ---
 
