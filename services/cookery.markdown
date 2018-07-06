@@ -48,5 +48,6 @@ testimonials:
 - quote: 
   author: 
   date: 
+layout: cookery
 ---
 
