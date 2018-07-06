@@ -50,5 +50,6 @@ what-to-expect:
     for: Individuals
   - cost: "£40-£50"
     for: Couples
+layout: therapy
 ---
 
