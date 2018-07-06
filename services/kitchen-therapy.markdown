@@ -93,5 +93,6 @@ testimonials:
 - quote: 
   author: 
   date: 
+layout: kitchen-therapy
 ---
 
