@@ -4,21 +4,13 @@
 	
 body {
 	color: $mid-gray;
-	font-family: 'Open sans', sans-serif;
+	font-family: Georgia, serif;
 	margin: 0;
 }
   
 h1, h2, h3, h4, h5, h6 {
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Playfair Display', serif;
 	color: $main-theme-color;
-}
-
-h2 {
-	@include font-size(42px)
-	margin: calculate-rem(32px) 0;
-	@media (max-width: $small) {
-		@include font-size(36px);
-	}
 }
 	
 p {

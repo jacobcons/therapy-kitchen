@@ -1,6 +1,13 @@
-<nav class="{{ include.nav-class }}">
-  {% assign sortedPages = site.pages | sort:"position" %}
+<nav class="{{ include.nav-classes }}">
+  {% assign sortedPages = site.html_pages | sort:"position" %}
   {% for page in sortedPages %}
-    <a class="{{ include.link-class }}" href="{{ page.url }}">{{ page.title }}</a>
+    <a class="{{ include.link-classes }} {% if page.pages.size > 1 %}{{ include.link-has-sub-nav-classes }}{% endif %}" href="{{ page.url }}">{{ page.title }}</a>
+    {% if page.pages.size > 1 %}
+  		<nav class="sub-nav">
+  			{% for subpage in page.pages %}
+  			<a class="primary-nav__link sub-nav__link" href="{{ subpage.url }}">{{subpage.title}}</a>
+  			{% endfor %}
+  		</nav>
+		{% endif %}
   {% endfor %}
 </nav>

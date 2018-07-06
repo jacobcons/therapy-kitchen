@@ -1,42 +1,26 @@
 /* Colors */
 /* Dimensions */
 /* Breakpoints */
-@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400|PT+Sans|Raleway:300,400,600");
-.contact-form-grid, .primary-header, .primary-section {
+@import url("https://fonts.googleapis.com/css?family=Playfair+Display:900");
+.primary-section {
   margin: 4.5rem 0; }
   @media (max-width: 31.875rem) {
-    .contact-form-grid, .primary-header, .primary-section {
+    .primary-section {
       margin: 3rem 0; } }
-
-.primary-footer {
-  margin: 8.5rem auto; }
-  @media (max-width: 31.875rem) {
-    .primary-footer {
-      margin: 4rem auto; } }
 
 *, *::before, *::after {
   box-sizing: border-box; }
 
 body {
-  color: rgba(0, 0, 0, 0.49);
-  font-family: 'Open sans', sans-serif;
+  color: rgba(0, 0, 0, 0.45);
+  font-family: Georgia, serif;
   margin: 0; }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Playfair Display', serif;
   color: #D6A94A; }
 
-h2 {
-  font-size: 42px;
-  font-size: 2.625rem;
-  margin: 2rem 0; }
-  @media (max-width: 31.875rem) {
-    h2 {
-      font-size: 36px;
-      font-size: 2.25rem; } }
-
 p {
-  font-weight: lighter;
   line-height: 1.5em;
   font-size: 16px;
   font-size: 1rem; }
@@ -65,7 +49,7 @@ svg:hover path {
 .text-left {
   text-align: left; }
 
-.text-center, .title {
+.text-center {
   text-align: center; }
 
 .text-right {
@@ -79,56 +63,9 @@ svg:hover path {
   display: table;
   clear: both; }
 
-.flex, .the-team-grid__item {
-  display: -ms-flexbox;
-  display: flex; }
-
-.flex--space-between {
-  -ms-flex-pack: justify;
-      justify-content: space-between; }
-
-.flex--center, .the-team-grid__item {
-  -ms-flex-pack: center;
-      justify-content: center;
-  -ms-flex-align: center;
-      align-items: center; }
-
 .logo {
-  font-family: 'PT Sans', sans-serif;
-  color: rgba(0, 0, 0, 0.31);
-  text-transform: uppercase;
-  font-size: 84px;
-  font-size: 5.25rem;
-  font-weight: normal;
-  margin: 1.125rem 0;
-  letter-spacing: 0.48em;
-  padding-left: 0.48em;
-  line-height: 100%; }
-  @media (max-width: 41.875rem) {
-    .logo {
-      font-size: 48px;
-      font-size: 3rem; } }
-
-.contact-detail {
-  color: #D6A94A;
-  text-decoration: underline;
-  font-family: 'Raleway', sans-serif;
-  font-size: 16px;
-  font-size: 1rem; }
-  @media (max-width: 31.875rem) {
-    .contact-detail {
-      font-size: 15px;
-      font-size: 0.9375rem; } }
-
-.mission-statement {
-  max-width: 62.125rem;
-  margin: 0 auto;
-  font-size: 20px;
-  font-size: 1.25rem; }
-  @media (max-width: 31.875rem) {
-    .mission-statement {
-      font-size: 16px;
-      font-size: 1rem; } }
+  font-size: 64px;
+  font-size: 4rem; }
 
 .btn {
   color: #D6A94A;
@@ -156,7 +93,7 @@ svg:hover path {
     right: 0;
     bottom: 0;
     left: 0;
-    background: linear-gradient(rgba(0, 0, 0, 0.49), transparent); }
+    background: linear-gradient(rgba(0, 0, 0, 0.45), transparent); }
 
 .card__content {
   position: relative; }
@@ -173,7 +110,7 @@ svg:hover path {
 
 .input-field__text-input {
   border: none;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.49);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.45);
   outline: none;
   height: 2rem;
   width: 100%;
@@ -197,7 +134,7 @@ textarea.input-field__text-input {
   resize: none; }
 
 .input-field__label {
-  color: rgba(0, 0, 0, 0.49);
+  color: rgba(0, 0, 0, 0.45);
   font-size: 15px;
   font-size: 0.9375rem;
   transition: all .2s ease-out;
@@ -233,14 +170,6 @@ textarea.input-field__text-input {
   top: 8px;
   right: 15px; }
 
-.profile-image {
-  max-width: 20rem;
-  width: 100%;
-  border-radius: 100%; }
-  @media (max-width: 41.875rem) {
-    .profile-image {
-      width: 65%; } }
-
 .slider__image {
   min-height: 30vh;
   object-fit: cover; }
@@ -251,79 +180,31 @@ textarea.input-field__text-input {
     width: 1.875rem;
     height: 1.875rem; }
 
-.the-team-grid {
-  display: grid;
-  grid-row-gap: 4.5rem; }
-  @media (max-width: 41.875rem) {
-    .the-team-grid {
-      grid-row-gap: 2rem; } }
-
-.the-team-grid__row {
-  display: grid;
-  grid-template-columns: repeat(2, 41.67%);
-  -ms-flex-pack: center;
-      justify-content: center;
-  grid-column-gap: 2.25rem; }
-  @media (max-width: 41.875rem) {
-    .the-team-grid__row {
-      grid-template-columns: repeat(1, 1fr); }
-      .the-team-grid__row:nth-child(1) .the-team-grid__item:nth-child(2) {
-        grid-row: 1; } }
-
-.services-grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr); }
-  @media (max-width: 56.25rem) {
-    .services-grid {
-      grid-template-columns: repeat(2, 1fr); } }
-  @media (max-width: 41.875rem) {
-    .services-grid {
-      grid-template-columns: repeat(1, 1fr); } }
-
-.contact-form-grid {
-  display: grid;
-  grid-template-columns: repeat(2, [col-start] 1fr);
-  grid-gap: 4rem 2.25rem; }
-  @media (max-width: 31.875rem) {
-    .contact-form-grid {
-      grid-gap: 1.5rem; }
-      .contact-form-grid .contact-form-grid__item {
-        grid-column: col-start / span 2; } }
-
-.contact-form-grid__full {
-  grid-column: col-start / span 2; }
-
-.primary-footer {
-  display: grid;
-  grid-gap: 2rem;
-  max-width: 24.5625rem;
-  width: 80%; }
-
 .primary-header {
-  display: -ms-flexbox;
-  display: flex;
-  -ms-flex-direction: column;
-      flex-direction: column;
-  text-align: center; }
+  text-align: center;
+  margin: 4.5rem 0; }
 
 .primary-nav__link {
-  color: rgba(0, 0, 0, 0.49);
-  font-family: 'Raleway', sans-serif;
+  color: rgba(0, 0, 0, 0.45);
   text-decoration: none;
-  font-size: 16px;
-  font-size: 1rem; }
+  font-size: 18px;
+  font-size: 1.125rem; }
   .primary-nav__link:hover {
     color: #D6A94A; }
+  .primary-nav__link:after {
+    content: '//';
+    font-family: Georgia;
+    font-style: italic;
+    font-size: 13px;
+    font-size: 0.8125rem;
+    margin: 0 0.875rem;
+    color: rgba(0, 0, 0, 0.45); }
+  .primary-nav__link:last-child:after {
+    content: none; }
   @media (max-width: 31.875rem) {
     .primary-nav__link {
-      font-size: 15px;
-      font-size: 0.9375rem; } }
-
-.primary-nav__link--margin {
-  margin: 0 1.375rem; }
-  @media (max-width: 31.875rem) {
-    .primary-nav__link--margin {
-      margin: 0 0.5625rem; } }
+      font-size: 16px;
+      font-size: 1rem; } }
 
 .tns-outer {
   padding: 0 !important; }

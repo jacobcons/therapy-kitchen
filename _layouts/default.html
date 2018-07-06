@@ -5,14 +5,15 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <title>{{ page.page-title }}</title>
         <meta name="viewport" content="width=device-width">
-        
+        <meta name="description" content="{{ page.meta-desc }}">
+      
         <link rel="stylesheet" href="main.css">
         <link rel="shortcut icon" href="images/favicon.png" type="image/png" sizes="16x16">
     </head>
     <body>
       <header class="primary-header">
         <h1 class="logo">{{ site.title }}</h1>
-        {% include nav.html nav-class="primary-nav" link-class="primary-nav__link"  %}
+        {% include nav.html nav-classes="primary-nav stacked-nav" link-classes="primary-nav__link horizontal-nav__link" link-has-sub-nav-classes="horizontal-nav__link--has-sub-nav" %}
       </header>
       
       {{ content }}

@@ -1,12 +1,22 @@
 .primary-nav__link {
 	color: $mid-gray;
-	font-family: 'Raleway', sans-serif;
 	text-decoration: none;
 	&:hover {
 		color: $main-theme-color;
 	}
-	@include font-size(16px)
+	&:after {
+		content: '//';
+    font-family: Georgia;
+    font-style: italic;
+    @include font-size(13px)
+    margin: 0 calculate-rem(14px);
+		color: $mid-gray;
+	}
+	&:last-child:after {
+		content: none;
+	}
+	@include font-size(18px)
 	@media (max-width: $small) {
-		@include font-size(15px);
+		@include font-size(16px);
 	}
 }

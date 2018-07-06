@@ -1,9 +1,9 @@
 ===INCLUDES===
 header.primary-header
 	h1.logo
-	nav.primary-nav
-		a.primary-nav__link.primary-header__link
-		a.primary-nav__link.primary-header__link.primary-header__link--has-sub-nav
+	nav.primary-nav.horizontal-nav
+		a.primary-nav__link.horizontal-nav__link
+		a.primary-nav__link.horizontal-nav__link.horizontal-nav__link--has-sub-nav
 			nav.sub-nav
 				a.primary-nav__link.sub-nav__link
 
