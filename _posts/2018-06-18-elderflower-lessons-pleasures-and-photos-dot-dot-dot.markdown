@@ -27,3 +27,7 @@ This is how we made ours:
 * *When you’re ready the next day, sieve your cordial through a muslin and bottle up*
 
 *Our second batch is waiting to be bottled, this time I am going to use the lemon juice which I forgot last time – it still tasted amazing, but I’m looking forward to finding out the difference!*
+
+![IMG_0586-150x150.jpg](/uploads/IMG_0586-150x150.jpg)![IMG_0548-150x150.jpg](/uploads/IMG_0548-150x150.jpg)![IMG_0609-150x150.jpg](/uploads/IMG_0609-150x150.jpg)
+
+Our kitchen is looking more and more like a laboratory and I love it! Brewing up feasts and medicines all over the place. It is slowing me down and grounding me at home. I realise I’m lucky to be making food part of my work, but this was about leisure time as well, spending time with self, kitchen and family – helped with sunshine, friendly advice and lemons galore.
