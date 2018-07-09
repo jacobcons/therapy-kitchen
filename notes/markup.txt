@@ -21,8 +21,9 @@ footer.primary-footer
 	.flex-col
 		a.contact-detail
 		a.contact-detail
-		svg.social-icon
-		svg.social-icon
+		div
+			svg.social-icon
+			svg.social-icon
 ===TEXT-NARROW-WRAPPER===
 section.primary-section
 	.wrapper.wrapper--narrow

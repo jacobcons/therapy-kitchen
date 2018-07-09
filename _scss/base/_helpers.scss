@@ -1,5 +1,5 @@
 .wrapper {
-  width: 80%;
+  width: 90%;
   max-width: calculate-rem(1200px);
   margin: 0 auto;
   position: relative;
@@ -17,12 +17,18 @@
   text-align: right;
 }
 
-.bottom-spacer {
-  margin: 0 0 calculate-rem(30px) 0;
+.spacer {
+  margin: calculate-rem(16px) 0;
 }
 
 .clearfix:after {
   content: "";
   display: table;
   clear: both;
+}
+
+.flex-col {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }

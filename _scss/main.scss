@@ -8,12 +8,15 @@
 @import 'base/helpers';
 @import 'base/typography';
 
+@import 'components/box';
 @import 'components/btn';
 @import 'components/card';
 @import 'components/input-field';
 @import 'components/modal';
+@import 'components/post';
 @import 'components/slider';
 @import 'components/social-icon';
+@import 'components/timeline';
 
 @import 'layout/grid';
 @import 'layout/primary-footer';

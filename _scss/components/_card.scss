@@ -1,6 +1,17 @@
 .card {
-	padding: calculate-rem(16px) calculate-rem(52px) 0 calculate-rem(24px);
-	min-height: calculate-rem(274px);
+	padding: calculate-rem(32px);
+	height: calculate-rem(382px);
+	border-top: 6px solid $main-theme-color;
+	box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+	@media (max-width: $large) {
+		height: calculate-rem(288px);
+	}
+	@media (max-width: $small) {
+		height: 100%;
+	}
+	@media (max-width: $x-small) {
+		padding: calculate-rem(24px) calculate-rem(16px);
+	}
 }
 
 .card--bg-image {
@@ -13,21 +24,45 @@
 		right: 0;
 		bottom: 0;
 		left: 0;
-	  background: linear-gradient($mid-gray, rgba(0, 0, 0, 0));
+	  background: rgba(darken($main-theme-color, 13%), 0.8);
 	}
 }
 
 .card__content {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
 	position: relative;
+	height: 100%;
 }
 
 .card__title {
 	color: $white;
-	margin: 0 0 calculate-rem(8px);
-	@include font-size(28px);
+	@include font-size(36px);
+  display: inline;
+  background-image: linear-gradient(to right, $white 0%, $white 100%);
+  background-position: 0 1.18em;
+  background-repeat: repeat-x;
+  background-size: 8px 1px;
+	@media (max-width: $x-small) {
+		@include font-size(24px)
+	}
 }
 
 .card__text {
 	color: $white;
-	margin: 0;
+	margin: calculate-rem(8px) 0 0;
+	@media (max-width: $small) {
+		margin: calculate-rem(8px) 0 calculate-rem(24px);
+	}
+}
+
+.card__more {
+	color: $white;
+	text-decoration: underline;
+	@include font-size(28px);
+	font-family: 'Playfair display', serif;
+	@media (max-width: $x-small) {
+		@include font-size(18px)
+	}
 }

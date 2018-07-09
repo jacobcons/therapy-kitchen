@@ -1,9 +1,20 @@
+.primary-nav {
+	display: inline-block;
+}
+
 .primary-nav__link {
 	color: $mid-gray;
 	text-decoration: none;
 	&:hover {
 		color: $main-theme-color;
 	}
+	@include font-size(18px)
+	@media (max-width: $small) {
+		@include font-size(16px);
+	}
+}
+
+.primary-nav--horizontal > .primary-nav__link {
 	&:after {
 		content: '//';
     font-family: Georgia;
@@ -15,8 +26,17 @@
 	&:last-child:after {
 		content: none;
 	}
-	@include font-size(18px)
-	@media (max-width: $small) {
-		@include font-size(16px);
+}
+
+.primary-nav--stacked {
+	display: flex;
+	flex-flow: column wrap;
+	width: 100%;
+	height: calculate-rem(132px);
+	> .primary-nav__link {
+		margin: 0 0 calculate-rem(32px);
+		&:nth-child(3n) {
+			margin: 0;
+		}
 	}
 }

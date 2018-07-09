@@ -1,0 +1,7 @@
+.primary-footer {
+	width: 90%;
+	max-width: calculate-rem(652px);
+	margin: calculate-rem(96px) auto;
+	display: flex;
+	justify-content: space-between;
+}

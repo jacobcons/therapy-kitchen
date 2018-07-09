@@ -4,7 +4,8 @@
   outline: none;
   height: 2rem;
   width: 100%;
-  font-family: 'Open sans', sans-serif;
+  font-family: 'Gerogia', serif;
+  @include font-size(16px);
 }
 
 .input-field--active {

@@ -1,3 +1,32 @@
 .logo {
-	@include font-size(64px)
+	@include font-size(64px);
+	@media (max-width: $small) {
+		@include font-size(48px);
+	}
+}
+
+.text-wrapper {
+	width: 90%;
+	max-width: calculate-rem(860px);
+	margin: 0 auto;
+	@include font-size(18px);
+	line-height: 1.612em;
+	@media (max-width: $small) {
+		@include font-size(16px)
+	}
+}
+
+.contact-detail {
+	font-style: italic;
+	@include font-size(24px);
+	color: $mid-gray;
+	text-decoration: underline;
+}
+
+.title {
+	@include font-size(48px);
+	margin: 0 0 calculate-rem(24px);
+	@media (max-width: $small) {
+		@include font-size(36px);
+	}
 }

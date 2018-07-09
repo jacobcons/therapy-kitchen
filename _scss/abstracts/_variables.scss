@@ -4,14 +4,12 @@ $black: #000;
 $light-gray: rgba($black, 0.31);
 $mid-gray: rgba($black, 0.45);
 $dark-gray: rgba($black, 0.53);
-$main-theme-color: #D6A94A;
+$main-theme-color: desaturate(#D6A94A, 10%);
 $error-color: #D0021B;
 
-/* Dimensions */
-
 /* Breakpoints */
-$x-small: calculate-rem(320px);
-$small: calculate-rem(510px);
-$medium: calculate-rem(670px);
+$x-small: calculate-rem(320px); /* iphone 5/SE */
+$small: calculate-rem(414px); /* iphone 6/7/8 plus */
+$medium: calculate-rem(768px); /* ipad */
 $large: calculate-rem(900px);
 $x-large: calculate-rem(1140px);

@@ -6,21 +6,31 @@
         <title>{{ page.page-title }}</title>
         <meta name="viewport" content="width=device-width">
         <meta name="description" content="{{ page.meta-desc }}">
-      
-        <link rel="stylesheet" href="main.css">
-        <link rel="shortcut icon" href="images/favicon.png" type="image/png" sizes="16x16">
+        
+        <link rel="stylesheet" href="/main.css">
+        <link rel="shortcut icon" href="/images/favicon.png" type="image/png" sizes="16x16">
     </head>
     <body>
+      {{ page.type }}
       <header class="primary-header">
         <h1 class="logo">{{ site.title }}</h1>
-        {% include nav.html nav-classes="primary-nav stacked-nav" link-classes="primary-nav__link horizontal-nav__link" link-has-sub-nav-classes="horizontal-nav__link--has-sub-nav" %}
+        {% include nav.html nav-classes="primary-nav primary-nav--horizontal" link-classes="primary-nav__link" link-has-sub-nav-classes="primary-nav__link--has-sub-nav" %}
       </header>
       
       {{ content }}
       
       <footer class="primary-footer">
+      {% include nav.html nav-classes="primary-nav primary-nav--stacked" link-classes="primary-nav__link" link-has-sub-nav-classes="primary-nav__link--has-sub-nav" %}
+      <div class="flex-col">
+        <a href="tel:{{ site.contact.tel }}" class="contact-detail">{{ site.contact.tel }}</a>
+        <a href="tel:{{ site.contact.email }}" class="contact-detail">{{ site.contact.email }}</a>
+        <div>
+          <a class="social-icon" href="https://www.facebook.com/charlottehastingstudio/" target="_blank" rel="noopener">{% include social-icons/facebook.svg %}</a>
+          <a class="social-icon" href="https://www.instagram.com/therapy.kitchen/" target="_blank" rel="noopener">{% include social-icons/instagram.svg %}</a> 
+        </div>
+      </div>
       </footer>
       
-      <script src="main.js"></script>
+      <script src="/main.js"></script>
     </body>
 </html>

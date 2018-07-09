@@ -1,0 +1,13 @@
+.box {
+	display: inline-block;
+	margin: 0 0 calculate-rem(44px);
+	@media (max-width: $large) {
+		margin: 0;
+	}
+}
+
+.box__title {
+	@include font-size(36px);
+	margin: 0 0 calculate-rem(8px);
+	text-decoration: underline;
+}

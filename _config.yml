@@ -15,6 +15,7 @@ defaults:
   values:
     layout: post
     permalink: "/posts/:title/"
+    excerpt: ''
 - scope:
     path: ''
     type: pages
