@@ -5,11 +5,11 @@ position: 4
 intro: Our own ones are coming soon… in the meantime
 podcasts:
 - name: Start the Week - The Science of the Mind - @bbcradio4
-  link: www.bbc.co.uk/programmes/b047wnyf
+  link: https://www.bbc.co.uk/programmes/b047wnyf
 - name: 'Start the Week - Food: From Bread Riots to Obesity - @bbcradio4'
-  link: www.bbc.co.uk/programmes/b07h69n9
+  link: https://www.bbc.co.uk/programmes/b07h69n9
 - name: Dr Gabor Mate – the one you feed
-  link: www.oneyoufeed.net/gabor-mate/
+  link: https://www.oneyoufeed.net/gabor-mate/
 layout: podcasts
 ---
 
