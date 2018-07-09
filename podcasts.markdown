@@ -9,7 +9,7 @@ podcasts:
 - name: 'Start the Week - Food: From Bread Riots to Obesity - @bbcradio4'
   link: https://www.bbc.co.uk/programmes/b07h69n9
 - name: Dr Gabor Mate – the one you feed
-  link: https://www.oneyoufeed.net/gabor-mate/
+  link: http://www.oneyoufeed.net/gabor-mate/
 layout: podcasts
 ---
 
