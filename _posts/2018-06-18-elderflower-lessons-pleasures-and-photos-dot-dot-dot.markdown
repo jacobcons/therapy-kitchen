@@ -5,7 +5,7 @@ tags:
 - elderflower cordial
 excerpt-preview: For many years I have been collecting citric acid ready to make elderflower
   cordial, eversoeasy as everyone says, but somehow the time to make this summer treat
-  eluded me
+  eluded me.
 ---
 
 ![IMG_0598-150x150.jpg](/uploads/IMG_0598-150x150.jpg)![IMG_0594-150x150.jpg](/uploads/IMG_0594-150x150.jpg)![IMG_0593-150x150.jpg](/uploads/IMG_0593-150x150.jpg)
