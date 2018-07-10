@@ -9,6 +9,7 @@ tags:
 excerpt-preview: |-
   Mung Dhal
   January brings the opportunity to make a fresh start, and for me, a clearing out of larder, cupboards, head and heart.
+thumbnail-image: "/uploads/IMG_2014-e1516400030461-1024x775.jpg"
 ---
 
 ![IMG_2014-225x300.jpg](/uploads/IMG_2014-225x300.jpg)
