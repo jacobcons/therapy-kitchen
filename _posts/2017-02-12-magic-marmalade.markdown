@@ -3,6 +3,7 @@ title: Magic Marmalade
 date: 2017-02-12 09:46:00 Z
 excerpt-preview: For a number of reasons, I am delighted to get Christmas over and
   get on with the new year, bringing with it the promise of more sunlight.
+thumbnail-image: "/uploads/IMG_0678-1-768x1024.jpg"
 ---
 
 ![IMG_0678-1-225x300.jpg](/uploads/IMG_0678-1-225x300.jpg)
