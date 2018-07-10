@@ -9,6 +9,11 @@ text-boxes:
     it is often a hard choice to make however it is in the actual decision to ask
     for help that our healing can begin.  In my quiet garden studio on Brighton’s
     green outskirts, I practice a broad range of individual and relationship counselling.
+- title: Who is it for?
+  body-copy: Therapy maybe for a specific issue, challenge or change that you are
+    dealing with; or it can be about a more general desire for self development; ultimately
+    it is likely to be about both.  In that sense, therapy is useful for everyone
+    at some point in their lives.
 - title: My approach
   body-copy: "I practice an attachment based therapy, founded on the profound impact
     our primary care experience has on how we see, feel and act in the world.  This
@@ -20,11 +25,6 @@ text-boxes:
     common human framework.  I incorporate an ever growing knowledge from my interests
     in philosophy, psychology and mythology into my creative, collaborative and holistic
     approach to therapy. "
-- title: Who is it for?
-  body-copy: Therapy maybe for a specific issue, challenge or change that you are
-    dealing with; or it can be about a more general desire for self development; ultimately
-    it is likely to be about both.  In that sense, therapy is useful for everyone
-    at some point in their lives.
 areas-of-specialism:
   title: Areas of specialism
   list:
