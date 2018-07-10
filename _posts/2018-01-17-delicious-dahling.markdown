@@ -3,6 +3,7 @@ title: Delicious, Dahling
 date: 2018-01-17 09:34:00 Z
 excerpt-preview: A few days (actually nearly 2 weeks) later than anticipated the mung
   bean feast of the January Detox begins.
+thumbnail-image: "/uploads/IMG_2077-768x1024.jpg"
 ---
 
 ![IMG_2077-150x150.jpg](/uploads/IMG_2077-150x150.jpg)![IMG_2085-150x150.jpg](/uploads/IMG_2085-150x150.jpg)![IMG_2086-150x150.jpg](/uploads/IMG_2086-150x150.jpg)
