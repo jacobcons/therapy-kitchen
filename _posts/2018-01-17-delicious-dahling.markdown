@@ -1,0 +1,18 @@
+---
+title: Delicious, Dahling
+date: 2018-01-17 09:34:00 Z
+excerpt-preview: A few days (actually nearly 2 weeks) later than anticipated the mung
+  bean feast of the January Detox begins.
+---
+
+![IMG_2077-150x150.jpg](/uploads/IMG_2077-150x150.jpg)![IMG_2085-150x150.jpg](/uploads/IMG_2085-150x150.jpg)![IMG_2086-150x150.jpg](/uploads/IMG_2086-150x150.jpg)
+
+A few days (actually nearly 2 weeks) later than anticipated the mung bean feast of the January Detox begins.I am not a fan of denial, so I don’t do it. Instead, I move my head out of the way, and allow my more discerning brain, patiently waiting in my good old gut, to lead the way. The ‘brain for digestion’, is one we share with all other living things on our planet; sometimes termed the second brain, I would call it the first, since all life begins and is connected, here. When the baby arrives in the world, we welcome them, let them know they are loved and cared for, by holding and feeding them. In this way, a communication and growth begins between the gut and mind brains, forever entwining food with how we are loved. This is how our tummy houses our intuition, our inner-tutor – as it is the first place to receive information about the outside world, that feeds body and soul.
+
+Hence Kitchen Therapy (cooking good food to help us heal), connects with our inner-tutor who knows what we need, rather than our mind which knows what it wants and is full of storied judgements about what and how and when you should eat. It is our heads that lecture about foods being ‘good’ or ‘bad’, setting up internal conflict, with the delectable forbidden fruit easily seducing the voice of rebellion. Our belly, has a more discerning, calm and wise voice, so much easier to listen and align ourselves to. Our senses are its researchers, our imaginative mind, is a superb classroom assistant, supporting and enabling learning to occur.
+
+I was struck by a meditation practice that reminded me to care for myself as a small child – plenty of fresh air, play and of course, great food, being the basic call to action. By imagining ourselves responsible for a young person in need of loving kindness, we can quickly discern how to look after ourselves. We can tune into our needs when we remember that we have the honour of caring for ourselves, as if for a small person – our child inside. Much of the work in therapy – be it on couch or kitchen – is about re-parenting ourselves, finding the key to our healing potential which has been carefully stowed, deep inside. If we can care for ourselves with the voice of attentive compassion, we find we are much more willing to listen and learn!
+
+I was lucky enough to spend the afternoon walking and talking with Liz Cook. Starting on this detox, in part due to recurrent eczema, and a general lack of energy, we talked about how hemp oil can reduce inflammation as well as correct an endemic omega 3 imbalance. It felt so good to be able to exchange information with a like minded pal and receive a nurturing, maternal reminder that a great deal of my malady could be rooted in this nutritional imbalance. I thoroughly enjoyed my mung bean supper, carefully garnished with hemp oil and leafy green parsley. The comforting taste of conscious, loving kindness, relished by the child inside, left me feeling warm, cared for and fulfilled – not a bad return on a bowl of mung bean dahl.
+
+![IMG_2094-1-150x150.jpg](/uploads/IMG_2094-1-150x150.jpg)![IMG_1867-150x150.jpg](/uploads/IMG_1867-150x150.jpg)![IMG_2091-1-150x150.jpg](/uploads/IMG_2091-1-150x150.jpg)
