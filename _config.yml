@@ -16,7 +16,7 @@ defaults:
     layout: post
     permalink: "/posts/:title/"
     excerpt-preview: ''
-    thumbnail-image:
+    thumbnail-image: 
 - scope:
     path: ''
     type: pages
