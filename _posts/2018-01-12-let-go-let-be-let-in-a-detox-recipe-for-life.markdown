@@ -1,6 +1,11 @@
 ---
 title: Let go, let be, let in, a detox recipe for life
 date: 2018-01-12 09:39:00 Z
+tags:
+- change
+- detox
+- letting go
+- preparation
 excerpt-preview: |-
   Mung Dhal
   January brings the opportunity to make a fresh start, and for me, a clearing out of larder, cupboards, head and heart.
