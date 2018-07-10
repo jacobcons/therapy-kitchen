@@ -1,0 +1,66 @@
+---
+title: Harvesting it all Apple Crumble Cake
+date: 2018-07-10 09:59:00 Z
+---
+
+![Image-1-300x225.jpg](/uploads/Image-1-300x225.jpg)
+
+Having harvested the fields (supermarkets neighbour’s garden) I’ve put together as much substance as I could find and think of,
+
+into this cake to celebrate autumn. It began life as a German Apple Cake but has evolved in response to the other half’s request for a fruit and nut cake. We’re avoiding wheat at the moment, and aiming to cram as much protein in as possible into alternative afternoon or midmorning treats, so this cake is doing it’s very best to have, do and please all. (For full story see below.)
+
+![IMG_0252-1-225x300.jpg](/uploads/IMG_0252-1-225x300.jpg)
+
+I have not used weights when I made the cake/bread/muffin mixture, checked the taste and texture (which is quite stiff because of the amount of goods in there but you can feel is also very moist as it slips off the spoon and dissolves in your mouth, I love raw cake!).
+
+*Tip: a measuring guide for cakes is to weigh however many eggs you want to use (I used 6) with their shells on, then you need equal quantities of flour, butter and sugar – for example if your eggs weigh 600g, you will need 600g flour, 600g butter and 600g sugar (always taste check the sugar as you can use a lot less, especially when adding the amount of dried fruit or date syrup as I have here)*.
+
+![IMG_0244-1-300x225.jpg](/uploads/IMG_0244-1-300x225.jpg)
+
+**How to do it:**
+
+* Sift all the dry ingredients together (not the sugar), thoroughly mixing and adding plenty of air through your fingers
+
+* Melt butter slowly and gently
+
+* Whisk your eggs, add in flavours of lemon juice, vanilla and almond – if using.
+
+* Add half the amount of sugar you intend to use to dry ingredients
+
+* Stir in your chopped nuts and dried fruit, along with chopped apple and ground cinnamon if using (do, it’s apple’s best pal)
+
+* Now mix all ingredients together, stirring with full commitment, as this is now a heavily laden batter…
+
+* Test for flavour, adding more sugar as necessary – I like to use date syrup for added depth of gooey texture
+
+* **Bake** in prepared tin (brushed with butter to avoid sticking) or what I’m now using – silicone cases – perfect ease! for between 40-50 mins at 160’ – depending on size of cake and strength of your oven. Put timer on for 30mins and check it. You want a crispy top and moist cake. Cook it slowly and surly to allow this heavy cake plenty of time to heat through.
+
+**Apple topping **– After swiping next door’s overhanging apples, I melted butter with sugar, lemon juice and cinnamon, cooking the peeled and chopped cooking apples, into this mixture for about 3-5minutes depending on how crunchy and testy you fancy them: taste-test-choose.
+
+**For the crumble** – rub flours, sugars, chopped nuts, seeds into breadcrumbs with chopped hard butter (in equal proportions ie. 100g each flour, sugar and butter)– bake separately from the cake and add when ready to serve or present.
+
+![P1100669-300x169.jpg](/uploads/P1100669-300x169.jpg)
+
+**The Full Story…**
+
+This cake is my Ace of Spades. For me, Spades allude to autumn and imply hearty ‘peasant’ food which is as earthily moorish as it is sumptuously basic. I love to get aces when playing cards, they always bring that fun of a dual player, at the top and bottom of the suit, carrying a high value (normally) wherever they are. It is that capacity to hold and have it all, that gives the ace an air of confident excitement, a steady trust with the beginning and the ending in one place, all at once.
+
+**Giving Attention to Intention**
+
+So the intention of this ‘cake’ (given its rather dense nature, some may call this a bread to save disappointment) is to include as much from nature’s autumn bounty as possible, from seed, grain and nut to fruit both zestily fresh and sweetly dried. The beginnings and endings celebrated in one glorious coming out party. It does seem that this cake is an opportunity for Mother Nature to show off all her children’ various talents and potential.
+
+![IMG_0238-300x225.jpg](/uploads/IMG_0238-300x225.jpg)
+
+**Finding Purpose in Meaning**
+
+I made it in fact, for my local fair, raising funds to resurrect our suburban village barn, which has been wrestled back from commercial to community gain. This was no mean feat and I wanted to celebrate the tenacious, community spirited efforts of the “Friends of Westdene Green”. However, now the work really begins as our barn needs plenty of TLC to revive her spirits and realise her potential.
+
+The Ace of Spades, Harvesting it All cake, is then, about enjoying the fruits of labour, whilst planting the seeds for new beginnings. Packed with powerful proteins and bursting with fruitful flavour, The Ace of Spades has got it going on – all of it!
+
+**Learning My Lesson**
+
+I did learn something important however in this project, where I was also trying to promote Therapy Kitchen to a local audience – trying to do it all, too much at once, ends in disappointment… I’m always looking for the angle that means I can click as many boxes as possible in one event, cutting corners, saving time etc etc. I needed to focus on just the raising of funds for the barn, not selling clothes (my cynical daughter and I were also selling wardrobe misfits!) and Therapy Kitchen at the same time!
+
+This weekend as my made the cake for Saturday afternoon tea and Sunday easy breakfast (it’s big!), I realised how much better it would be without crumble topping – this topping generally goes with a much lighter ‘sponge’ which even my optimism doesn’t really dare to describe this bounteous cake/bread/muffin affair. So, having it all, is sometimes too much. Less is more (now there’s a lesson). Pulling back and focusing in, allows more scope for development and indeed satisfaction.
+
+So, here’s how to make the Ace of Spades, including the crumble topping, which is for you to decide whether for you, ’tis or ’tis not apposite.
