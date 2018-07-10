@@ -1,6 +1,8 @@
 ---
 title: Harvesting it all Apple Crumble Cake
-date: 2018-07-10 09:59:00 Z
+date: 2016-10-19 09:59:00 Z
+excerpt-preview: Having harvested the fields (supermarkets neighbour’s garden) I’ve
+  put together as much substance as I could find and think of,
 ---
 
 ![Image-1-300x225.jpg](/uploads/Image-1-300x225.jpg)
