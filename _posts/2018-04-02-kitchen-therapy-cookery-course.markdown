@@ -1,8 +1,14 @@
 ---
 title: Kitchen Therapy Cookery Course
 date: 2018-04-02 21:09:00 Z
+tags:
+- nurture
+- nutrition
+- fun
+- culinary skills
 excerpt-preview: Kitchen Therapy’s first cookery course that combines her unique blend
   of nurture balanced with nutrition.
+thumbnail-image: "/uploads/chef-cooker-cooking-8717.jpg"
 ---
 
 ![Screenshot-2018-04-02-17.01.46-236x300.png](/uploads/Screenshot-2018-04-02-17.01.46-236x300.png)
