@@ -1,8 +1,13 @@
 ---
 title: Mindfulness in the Kitchen – an Edible Meditation
 date: 2017-08-01 09:41:00 Z
+tags:
+- intuition
+- meditation
+- mindfulness
 excerpt-preview: With a busy day to juggle, the kitchen could offer a rewardingly
   good excuse for the practice of mindfulness – an edible meditation.
+thumbnail-image: "/uploads/IMG_1783-1024x683.jpg"
 ---
 
 ![IMG_0790-150x150.jpg](/uploads/IMG_0790-150x150.jpg)![IMG_1783-150x150.jpg](/uploads/IMG_1783-150x150.jpg)![IMG_0678-1-150x150.jpg](/uploads/IMG_0678-1-150x150.jpg)
