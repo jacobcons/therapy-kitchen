@@ -3,6 +3,7 @@ title: 'Surprises and Layers: Black Forest Bonfire Gateaux'
 date: 2016-11-20 09:57:00 Z
 excerpt-preview: Black Forest Gateaux is my better half’s favourite, and its pretty
   up there in cake rating for me too
+thumbnail-image: "/uploads/abstract-art-blaze-266526.jpeg"
 ---
 
 Black Forest Gateaux is my better half’s favourite, and its pretty up there in cake rating for me too
