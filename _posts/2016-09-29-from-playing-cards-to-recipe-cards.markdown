@@ -3,6 +3,7 @@ title: From Playing cards to Recipe Cards
 date: 2016-09-29 10:03:00 Z
 excerpt-preview: When I cook, I like to think of the character, the nature and qualities
   of the dish, what it is they would like to say,
+thumbnail-image: "/uploads/P1100775-1024x683.jpg"
 ---
 
 ![P1100775-768x512.jpg](/uploads/P1100775-768x512.jpg)
