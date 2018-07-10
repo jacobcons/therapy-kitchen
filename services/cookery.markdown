@@ -11,9 +11,16 @@ our-ethos:
 
     Classes are built around the importance of enhancing relationships, with ourselves, each other and of course food.  We need to eat and are social creatures, so coming together in a supportive, friendly group to enjoy cooking good food, makes good sense in every way.
 slider-images:
-- "/uploads/cookery-1.jpg"
-- "/uploads/cookery-2.jpg"
-- "/uploads/cookery-3.jpg"
+- image: "/uploads/cookery-1.jpg"
+  alt: 
+- image: "/uploads/cookery-2.jpg"
+  alt: 
+- image: "/uploads/cookery-3.jpg"
+  alt: 
+- image: "/uploads/cookery-4.jpg"
+  alt: 
+- image: "/uploads/cookery-5.jpg"
+  alt: 
 what-is-it:
   title: What is it?
   desc: |-
