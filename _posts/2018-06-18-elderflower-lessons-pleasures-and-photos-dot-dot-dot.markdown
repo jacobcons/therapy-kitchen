@@ -3,6 +3,8 @@ title: Elderflower lessons, pleasures and photos…
 date: 2018-06-18 12:01:00 Z
 tags:
 - elderflower cordial
+- storing sunshine
+- thoughts about time
 excerpt-preview: For many years I have been collecting citric acid ready to make elderflower
   cordial, eversoeasy as everyone says, but somehow the time to make this summer treat
   eluded me.
