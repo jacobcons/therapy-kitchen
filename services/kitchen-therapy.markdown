@@ -37,9 +37,12 @@ what-to-expect:
   - Sessions are as unique as you, the ingredients of cooking, conversation, dietary
     needs forming their specific recipe as required.
 slider-images:
-- "/uploads/kt-2.jpg"
-- "/uploads/kt-1.jpg"
-- "/uploads/kt-3.jpg"
+- image: "/uploads/kt-1.jpg"
+  alt: 
+- image: "/uploads/kt-2.jpg"
+  alt: 
+- image: "/uploads/kt-3.jpg"
+  alt: 
 who-is-it-for:
   title: Who is it for?
   desc: 'Kitchen Therapy is for anyone looking for a practical and productive form
