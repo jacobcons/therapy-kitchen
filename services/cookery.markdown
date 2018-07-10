@@ -17,9 +17,9 @@ slider-images:
   alt: 
 - image: "/uploads/cookery-3.jpg"
   alt: 
-- image: "/uploads/cookery-4.jpg"
+- image: "/uploads/cookery-1.jpg"
   alt: 
-- image: "/uploads/cookery-5.jpg"
+- image: "/uploads/cookery-2.jpg"
   alt: 
 what-is-it:
   title: What is it?
