@@ -4,14 +4,14 @@ layout: default
 
 <section class="primary-section">
 	<div class="wrapper">
-		<div class="col-2-1">
+		<div class="cols cols--2-1">
 			{% for text-box in page.text-boxes %}
-				<div class="box">
+				<div class="box cols__cell">
 					<h2 class="box__title">{{ text-box.title }}</h2>
 					<p>{{ text-box.body-copy }}</p>
 				</div>
 			{% endfor %}
-			<div class="box">
+			<div class="box cols__cell">
 				<h2 class="box__title">Qualifications</h2>
 				<ul class="timeline">
 					{% for qualification in page.qualifications %}

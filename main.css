@@ -4,10 +4,10 @@
 /* iphone 6/7/8 plus */
 /* ipad */
 @import url("https://fonts.googleapis.com/css?family=Playfair+Display:900,900i");
-.contact-form-grid, .primary-section {
+.grid--contact-form, .primary-section {
   margin: 4.5rem 0; }
   @media (max-width: 25.875rem) {
-    .contact-form-grid, .primary-section {
+    .grid--contact-form, .primary-section {
       margin: 3rem 0; } }
 
 *, *::before, *::after {
@@ -35,23 +35,11 @@ ul {
   margin: 0;
   padding: 0;
   list-style-type: none; }
+  ul li:before {
+    content: '-'; }
 
 li {
   margin: 1.8125rem 0; }
-  li:before {
-    content: '-'; }
-  li a {
-    word-break: break-all; }
-    @media (max-width: 25.875rem) {
-      li a {
-        font-size: 14px;
-        font-size: 0.875rem; } }
-    @media (max-width: 20rem) {
-      li a {
-        font-size: 13px;
-        font-size: 0.8125rem; } }
-  li p {
-    display: inline; }
 
 a {
   color: rgba(135, 126, 255, 0.8); }
@@ -62,6 +50,25 @@ svg path {
 
 svg:hover path {
   fill: #b58d38; }
+
+table {
+  width: 100%;
+  max-width: 28.125rem; }
+
+th {
+  text-align: left;
+  padding: 1rem 0 0.5rem 0.5rem;
+  background-color: #cba555;
+  color: #fff;
+  font-size: 24px;
+  font-size: 1.5rem;
+  font-family: 'Playfair display', serif; }
+
+td {
+  padding: 1rem 0 1rem 1rem;
+  background-color: rgba(0, 0, 0, 0.03);
+  font-size: 18px;
+  font-size: 1.125rem; }
 
 .wrapper {
   width: 90%;
@@ -78,8 +85,12 @@ svg:hover path {
 .text-right {
   text-align: right; }
 
+.center {
+  margin: 0 auto; }
+
 .spacer {
-  margin: 1rem 0; }
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem; }
 
 .clearfix:after {
   content: "";
@@ -94,6 +105,9 @@ svg:hover path {
   -ms-flex-pack: justify;
       justify-content: space-between; }
 
+.italic {
+  font-style: italic; }
+
 .logo {
   font-size: 64px;
   font-size: 4rem; }
@@ -105,7 +119,7 @@ svg:hover path {
 .text-wrapper {
   width: 90%;
   max-width: 53.75rem;
-  margin: 0 auto;
+  margin: 1.5rem auto;
   font-size: 18px;
   font-size: 1.125rem;
   line-height: 1.612em; }
@@ -127,11 +141,21 @@ svg:hover path {
   margin: 0 0 1.5rem; }
   @media (max-width: 25.875rem) {
     .title {
-      font-size: 36px;
-      font-size: 2.25rem; } }
+      font-size: 40px;
+      font-size: 2.5rem; } }
+
+.long-link {
+  word-break: break-all; }
+  @media (max-width: 25.875rem) {
+    .long-link {
+      font-size: 14px;
+      font-size: 0.875rem; } }
+  @media (max-width: 20rem) {
+    .long-link {
+      font-size: 13px;
+      font-size: 0.8125rem; } }
 
 .box {
-  display: inline-block;
   margin: 0 0 2.75rem; }
   @media (max-width: 56.25rem) {
     .box {
@@ -142,6 +166,13 @@ svg:hover path {
   font-size: 2.25rem;
   margin: 0 0 0.5rem;
   text-decoration: underline; }
+  @media (max-width: 20rem) {
+    .box__title {
+      font-size: 28px;
+      font-size: 1.75rem; } }
+
+.box__list {
+  padding-left: 1.5rem; }
 
 .btn {
   color: #cba555;
@@ -184,6 +215,24 @@ svg:hover path {
     left: 0;
     background: rgba(170, 132, 52, 0.8); }
 
+.card--small {
+  border: none;
+  padding: 1.5rem 2rem; }
+  .card--small .card__title {
+    font-size: 28px;
+    font-size: 1.75rem; }
+    @media (max-width: 20rem) {
+      .card--small .card__title {
+        font-size: 22px;
+        font-size: 1.375rem; } }
+  .card--small .card__more {
+    font-size: 24px;
+    font-size: 1.5rem; }
+    @media (max-width: 20rem) {
+      .card--small .card__more {
+        font-size: 16px;
+        font-size: 1rem; } }
+
 .card__content {
   display: -ms-flexbox;
   display: flex;
@@ -218,6 +267,7 @@ svg:hover path {
 .card__more {
   color: #fff;
   text-decoration: underline;
+  display: block;
   font-size: 28px;
   font-size: 1.75rem;
   font-family: 'Playfair display', serif; }
@@ -225,6 +275,15 @@ svg:hover path {
     .card__more {
       font-size: 18px;
       font-size: 1.125rem; } }
+
+.card__date {
+  color: #fff;
+  font-size: 16px;
+  font-size: 1rem; }
+  @media (max-width: 20rem) {
+    .card__date {
+      font-size: 14px;
+      font-size: 0.875rem; } }
 
 .input-field__text-input {
   border: none;
@@ -293,6 +352,9 @@ textarea.input-field__text-input {
 .post ul {
   padding-left: 1.5rem; }
 
+.post li p {
+  display: inline; }
+
 .slider__image {
   min-height: 30vh;
   object-fit: cover; }
@@ -347,21 +409,7 @@ textarea.input-field__text-input {
     -webkit-transform: translateX(-50%);
             transform: translateX(-50%); }
 
-.grid-3-1 {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  grid-gap: 2.75rem; }
-  @media (max-width: 71.25rem) {
-    .grid-3-1 {
-      grid-template-columns: repeat(2, 1fr); } }
-  @media (max-width: 56.25rem) {
-    .grid-3-1 {
-      grid-template-columns: repeat(1, 1fr); } }
-  @media (max-width: 25.875rem) {
-    .grid-3-1 {
-      grid-gap: 1.5rem; } }
-
-.col-2-1 {
+.cols--2-1 {
   -webkit-columns: 2;
      -moz-columns: 2;
           columns: 2;
@@ -369,23 +417,41 @@ textarea.input-field__text-input {
      -moz-column-gap: 44px;
           column-gap: 44px; }
   @media (max-width: 56.25rem) {
-    .col-2-1 {
+    .cols--2-1 {
       -webkit-columns: 1;
          -moz-columns: 1;
               columns: 1; } }
 
-.contact-form-grid {
+.cols__cell {
+  display: inline-block; }
+
+.grid {
+  display: grid; }
+
+.grid--3-1 {
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 2.75rem; }
+  @media (max-width: 71.25rem) {
+    .grid--3-1 {
+      grid-template-columns: repeat(2, 1fr); } }
+  @media (max-width: 56.25rem) {
+    .grid--3-1 {
+      grid-template-columns: repeat(1, 1fr); } }
+  @media (max-width: 25.875rem) {
+    .grid--3-1 {
+      grid-gap: 1.5rem; } }
+
+.grid--contact-form {
   display: grid;
   grid-template-columns: repeat(2, [col-start] 1fr);
   grid-gap: 4rem 2.25rem; }
   @media (max-width: 25.875rem) {
-    .contact-form-grid {
+    .grid--contact-form {
       grid-gap: 1.5rem; }
-      .contact-form-grid .contact-form-grid__item {
+      .grid--contact-form .contact-form-grid__item {
         grid-column: col-start / span 2; } }
-
-.contact-form-grid__full {
-  grid-column: col-start / span 2; }
+  .grid--contact-form .grid__full {
+    grid-column: col-start / span 2; }
 
 .primary-footer {
   width: 90%;

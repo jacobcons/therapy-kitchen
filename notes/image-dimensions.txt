@@ -1,0 +1,2 @@
+3 cards in a row = 795x382
+slider = 592x389 

@@ -25,25 +25,13 @@ ul {
 	margin: 0;
   padding: 0;
 	list-style-type: none;
+	li:before {
+		content: '-';
+	}
 }
 
 li {
 	margin: calculate-rem(29px) 0;
-	&:before {
-		content: '-';
-	}
-	a {
-		word-break: break-all;
-		@media (max-width: $small) {
-			@include font-size(14px)
-		}
-		@media (max-width: $x-small) {
-			@include font-size(13px)
-		}
-	}
-	p {
-		display: inline;
-	}
 }
 
 a {
@@ -60,4 +48,24 @@ svg {
 			fill: darken($main-theme-color, 10%);
 		}
 	}
+}
+
+table {
+	width: 100%;
+	max-width: calculate-rem(450px);
+}
+
+th {
+	text-align: left;
+	padding: calculate-rem(16px) 0 calculate-rem(8px) calculate-rem(8px);
+	background-color: $main-theme-color;
+	color: $white;
+	@include font-size(24px);
+	font-family: 'Playfair display', serif;
+}
+
+td {
+	padding: calculate-rem(16px) 0 calculate-rem(16px) calculate-rem(16px);
+	background-color: rgba($black, 0.03);
+	@include font-size(18px);
 }

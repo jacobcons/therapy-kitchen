@@ -8,7 +8,7 @@
 .text-wrapper {
 	width: 90%;
 	max-width: calculate-rem(860px);
-	margin: 0 auto;
+	margin: calculate-rem(24px) auto;
 	@include font-size(18px);
 	line-height: 1.612em;
 	@media (max-width: $small) {
@@ -27,6 +27,16 @@
 	@include font-size(48px);
 	margin: 0 0 calculate-rem(24px);
 	@media (max-width: $small) {
-		@include font-size(36px);
+		@include font-size(40px);
+	}
+}
+
+.long-link {
+	word-break: break-all;
+	@media (max-width: $small) {
+		@include font-size(14px)
+	}
+	@media (max-width: $x-small) {
+		@include font-size(13px)
 	}
 }

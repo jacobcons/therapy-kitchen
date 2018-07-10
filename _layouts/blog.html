@@ -4,14 +4,21 @@ layout: default
 
 <section class="primary-section">
 	<div class="wrapper">
-		<ul>
-		  {% for post in site.posts %}
-		    <li>
-		      <a href="{{ post.url }}">{{ post.title }}</a>
-					{{ post.excerpt-preview }}
-					{{ post.date | date_to_string }}
-		    </li>
-		  {% endfor %}
-		</ul>
+		<div class="grid grid--3-1">
+			{% for post in site.posts %}
+			<div class="card card--bg-image card--small" style="background-image: url('{{ post.thumbnail-image }}');">
+				<div class="card__content">
+					<div class="card__top">
+						<h2 class="card__title">{{ post.title }}</h2>
+						<p class="card__text">{{ post.excerpt-preview }}</p>
+					</div>
+					<div class="card__bottom">
+						<a href="{{ post.url }}" class="card__more">Read More</a>
+						<span class="card__date">{{ post.date | date_to_string }}</span>
+					</div>
+				</div>
+			</div>
+			{% endfor %}
+		</div>
 	</div>
 </section>
