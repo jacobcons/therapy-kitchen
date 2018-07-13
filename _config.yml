@@ -35,22 +35,21 @@ gems:
 - jekyll-sitemap
 menu:
 - title: Home
-  url: /
+  url: "/"
 - title: About
-  url: /about.html
+  url: "/about.html"
 - title: Services
-  url: \#
+  url: "\\#"
   children:
   - title: Therapy
-    url: /services/therapy.html
+    url: "/services/therapy.html"
   - title: Kitchen therapy
-    url: /services/kitchen-therapy.html
+    url: "/services/kitchen-therapy.html"
   - title: Cookery
-    url: /services/cookery.html
+    url: "/services/cookery.html"
 - title: Blog
-  url: /blog.html
+  url: "/blog.html"
 - title: Podcasts
-  url: /podcasts.html
+  url: "/podcasts.html"
 - title: Contact
-  url: /contact.html
-    
+  url: "/contact.html"
