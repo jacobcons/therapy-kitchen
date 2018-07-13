@@ -2,6 +2,10 @@ import { tns } from '../node_modules/tiny-slider/src/tiny-slider.module'
 import Fetch from './Fetch.js'
 
 document.addEventListener('DOMContentLoaded', async () => {
+	document.querySelector('.hamburger-menu').addEventListener('click', () => {
+		document.querySelector('.hamburger-menu').classList.toggle('hamburger-menu--is-active');
+	});
+	
 	if (window.location.pathname === '/') {
 	} else if (window.location.pathname === '/services/kitchen-therapy.html' || window.location.pathname === '/services/cookery.html') {
 		const slider = tns({

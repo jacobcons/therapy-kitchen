@@ -1,7 +1,11 @@
 .logo {
 	@include font-size(64px);
-	@media (max-width: $small) {
-		@include font-size(48px);
+	@media (max-width: $x-small) {
+		@include font-size(54px);
+	}
+	a {
+		color: $main-theme-color;
+		text-decoration: none;
 	}
 }
 
@@ -18,9 +22,12 @@
 
 .contact-detail {
 	font-style: italic;
-	@include font-size(24px);
+	@include font-size(22px);
 	color: $mid-gray;
 	text-decoration: underline;
+	@media (max-width: $medium) {
+		font-size: calc(12px + 2vw);
+	}
 }
 
 .title {

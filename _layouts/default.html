@@ -13,14 +13,17 @@
     <body>
       {{ page.type }}
       <header class="primary-header">
-        <h1 class="logo">{{ site.title }}</h1>
-        {% include nav.html nav-classes="primary-nav primary-nav--horizontal" link-classes="primary-nav__link" link-has-sub-nav-classes="primary-nav__link--has-sub-nav" %}
+        <h1 class="logo"><a href="/">{{ site.title }}</a></h1>
+        <div class="hamburger-menu">
+          <span class="hamburger-menu__line"></span>
+        </div>
+        {% include nav.html nav-classes="primary-nav" link-classes="primary-nav__link primary-nav__link--horizontal" link-has-sub-nav-classes="primary-nav__link--has-sub-nav" separator-classes="primary-nav__separator--horizontal" container-classes="primary-nav__link-container--stacked"%}
       </header>
       
       {{ content }}
       
       <footer class="primary-footer">
-      {% include nav.html nav-classes="primary-nav primary-nav--stacked" link-classes="primary-nav__link" link-has-sub-nav-classes="primary-nav__link--has-sub-nav" %}
+      {% include nav.html nav-classes="primary-nav primary-nav--stacked" link-classes="primary-nav__link" link-has-sub-nav-classes="primary-nav__link--has-sub-nav" separator-classes="primary-nav__separator--stacked" container-classes="primary-nav__link-container--horizontal" sub-nav-classes="sub-nav--indent"%}
       <div class="flex-col">
         <a href="tel:{{ site.contact.tel }}" class="contact-detail">{{ site.contact.tel }}</a>
         <a href="tel:{{ site.contact.email }}" class="contact-detail">{{ site.contact.email }}</a>

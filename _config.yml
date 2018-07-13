@@ -33,3 +33,24 @@ contact:
   tel: '07792752632'
 gems:
 - jekyll-sitemap
+menu:
+- title: Home
+  url: /
+- title: About
+  url: /about.html
+- title: Services
+  url: \#
+  children:
+  - title: Therapy
+    url: /services/therapy.html
+  - title: Kitchen therapy
+    url: /services/kitchen-therapy.html
+  - title: Cookery
+    url: /services/cookery.html
+- title: Blog
+  url: /blog.html
+- title: Podcasts
+  url: /podcasts.html
+- title: Contact
+  url: /contact.html
+    

@@ -28,6 +28,10 @@ var _Fetch2 = _interopRequireDefault(_Fetch);
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 document.addEventListener('DOMContentLoaded', async () => {
+	document.querySelector('.hamburger-menu').addEventListener('click', () => {
+		document.querySelector('.hamburger-menu').classList.toggle('hamburger-menu--is-active');
+	});
+
 	if (window.location.pathname === '/') {} else if (window.location.pathname === '/services/kitchen-therapy.html' || window.location.pathname === '/services/cookery.html') {
 		const slider = (0, _tinySlider.tns)({
 			container: '.js-slider-triples',

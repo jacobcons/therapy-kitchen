@@ -36,6 +36,9 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  @media (max-width: $medium) {
+    height: calculate-rem(140px);
+  }
 }
 
 .italic {

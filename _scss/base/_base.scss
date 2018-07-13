@@ -38,16 +38,8 @@ a {
 	color: rgba(#877EFF, 0.8);
 }
 
-svg {
-	path {
-		fill: $main-theme-color;
-		transition: fill .2s;
-	}
-	&:hover {
-		path {
-			fill: darken($main-theme-color, 10%);
-		}
-	}
+path {
+	fill: $main-theme-color;
 }
 
 table {
