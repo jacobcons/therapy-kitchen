@@ -27,9 +27,27 @@ var _Fetch2 = _interopRequireDefault(_Fetch);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
+function spawnModal(html) {
+	document.body.insertAdjacentHTML('beforeend', `
+	<div class="modal">
+		<div class="modal__inner">
+			${html}
+			<span class="modal__close">X</span>
+		</div>
+	</div>`);
+	const elModal = document.querySelector('.modal');
+	const elModalInner = document.querySelector('.modal__inner');
+	const elModalClose = document.querySelector('.modal__close');
+	elModal.addEventListener('click', e => {
+		if (e.target !== elModalInner) elModal.remove();
+	});
+	elModalClose.addEventListener('click', () => elModal.remove());
+}
+
 document.addEventListener('DOMContentLoaded', async () => {
-	document.querySelector('.hamburger-menu').addEventListener('click', () => {
-		document.querySelector('.hamburger-menu').classList.toggle('hamburger-menu--is-active');
+	const elHamburgerMenu = document.querySelector('.hamburger-menu');
+	elHamburgerMenu.addEventListener('click', () => {
+		elHamburgerMenu.classList.toggle('hamburger-menu--is-active');
 	});
 
 	if (window.location.pathname === '/') {} else if (window.location.pathname === '/services/kitchen-therapy.html' || window.location.pathname === '/services/cookery.html') {
@@ -50,6 +68,13 @@ document.addEventListener('DOMContentLoaded', async () => {
 					fixedWidth: 592
 				}
 			}
+		});
+
+		document.querySelectorAll('.js-testimonial-more').forEach(el => {
+			el.addEventListener('click', e => {
+				const fullQuote = e.target.getAttribute('data-full-quote');
+				spawnModal(`<p>"${fullQuote}"</p>`);
+			});
 		});
 	} else if (window.location.pathname === '/contact.html') {
 		const elTextInputs = document.querySelectorAll('.js-text-input');
@@ -91,23 +116,10 @@ document.addEventListener('DOMContentLoaded', async () => {
 				const queryString = new URLSearchParams(new FormData(elForm)).toString();
 				const res = await _Fetch2.default.get(`${elForm.getAttribute('action')}&${queryString}`);
 				if (res.success) {
-					document.body.insertAdjacentHTML('beforeend', `
-					<div class="modal">
-						<div class="modal__inner">
-							<span>Thank you for your email :)</span>
-							<span class="modal__close">X</span>
-						</div>
-					</div>`);
+					spawnModal(`<span>Thank you for your email :)</span>`);
+				} else {
+					errorNames.forEach(name => errors[name].input.insertAdjacentHTML('afterend', `<span class="input-field__error js-input-error">${errors[name].text}</span>`));
 				}
-				const elModal = document.querySelector('.modal');
-				const elModalInner = document.querySelector('.modal__inner');
-				const elModalClose = document.querySelector('.modal__close');
-				elModal.addEventListener('click', e => {
-					if (e.target !== elModalInner) elModal.remove();
-				});
-				elModalClose.addEventListener('click', () => elModal.remove());
-			} else {
-				errorNames.forEach(name => errors[name].input.insertAdjacentHTML('afterend', `<span class="input-field__error js-input-error">${errors[name].text}</span>`));
 			}
 		});
 	}

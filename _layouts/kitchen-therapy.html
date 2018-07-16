@@ -60,3 +60,18 @@ layout: default
 		</div>
 	</div>
 </section>
+
+<section class="primary-section">
+	<div class="wrapper">
+		<h2 class="title text-center">Testimonials</h2>
+		<div class="cols cols--2-1">
+			{% for testimonial in page.testimonials %}
+				<div class="testimonial cols__cell">
+					<p class="testimonial__quote">"{{ testimonial.quote-preview }}"</p>
+					<span class="testimonial__author">{{ testimonial.author }}</span>
+					<span class="testimonial__more js-testimonial-more" data-full-quote="{{ testimonial.quote }}">Full quote</span>
+				</div>
+			{% endfor %}
+		</div>
+	</div>
+</section>

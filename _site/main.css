@@ -160,12 +160,6 @@ td {
       font-size: 13px;
       font-size: 0.8125rem; } }
 
-.box {
-  margin: 0 0 2.75rem; }
-  @media (max-width: 56.25rem) {
-    .box {
-      margin: 0; } }
-
 .box__title {
   font-size: 36px;
   font-size: 2.25rem;
@@ -400,7 +394,8 @@ textarea.input-field__text-input {
 .modal__inner {
   background-color: #fff;
   padding: 2.5rem;
-  position: relative; }
+  position: relative;
+  max-width: 37.5rem; }
 
 .modal__close {
   cursor: pointer;
@@ -427,6 +422,14 @@ textarea.input-field__text-input {
       transition: fill .2s; }
     .social-icon svg:hover path {
       fill: #b58d38; }
+
+.testimonial__author {
+  font-weight: bold; }
+
+.testimonial__more {
+  text-decoration: underline;
+  color: rgba(135, 126, 255, 0.8);
+  cursor: pointer; }
 
 .timeline {
   list-style-type: none;
@@ -486,7 +489,11 @@ textarea.input-field__text-input {
               columns: 1; } }
 
 .cols__cell {
-  display: inline-block; }
+  display: inline-block;
+  margin: 0 0 2.75rem; }
+  @media (max-width: 56.25rem) {
+    .cols__cell {
+      margin: 0; } }
 
 .grid {
   display: grid; }

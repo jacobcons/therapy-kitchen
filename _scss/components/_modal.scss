@@ -14,6 +14,7 @@
 	background-color: $white;
 	padding: calculate-rem(40px);
 	position: relative;
+	max-width: calculate-rem(600px);
 }
 
 .modal__close {
