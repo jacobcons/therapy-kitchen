@@ -52,9 +52,34 @@ what-to-expect:
   - Creative, resourceful confidence from chopping board to life
   - holistic learning experience for enhanced well being
 testimonials:
-- quote: 
-  author: 
-  date: 
+- author: Andy Sturgeon
+  quote-preview: Charlotte exudes a passion for cooking and her infectious energy
+    makes her a tour de force in the kitchen
+  quote: Charlotte exudes a passion for cooking and her infectious energy makes her
+    a tour de force in the kitchen.  She has inspired my kids to cook and love food…
+    entertaining us all at her many culinary happenings.
+- author: Ron Awotar
+  quote-preview: Charlotte has such a gentle casual way that she makes taking charge
+    of your health a very pleasant experience.
+  quote: |-
+    Charlotte has such a gentle casual way that she makes taking charge of your health a very pleasant experience.
+
+    Charlotte was one of my first cooking teachers and the first one to make me feel confident and unafraid of all the new foods and theories that just right for me as a beginner.
+
+    She inspired all the students with her cooking, compassion and understanding; she is not only teaching in her class, she is also hands on cooking including all students’ participation.
+
+    Charlotte’s Learn to Love Cooking Course helped me finally understand food and how to cook with love. Her teaching technique is so clear, easy and practical to understand, some of my favourite dishes are Fish Pie/ Risotto-Chicken/Mushroom and Leek/ Chocolate and Banana Cake and Chocolate Brownies.
+- author: Abi Link
+  quote-preview: 'Charlotte has a wonderful style which brings people together '
+  quote: Charlotte has a wonderful style which brings people together Learning was
+    all based around "doing it ourselves" and lots of discussion! , every ingredient
+    has a personality which brings something different to the party!!
+- author: Karen Healey
+  quote-preview: You gave me back my confidence to cook for others without worrying
+    about having to stick rigidly to a recipe.
+  quote: 'You gave me back my confidence to cook for others without worrying about
+    having to stick rigidly to a recipe. I loved your view that preparing food and
+    cooking for others is a primal way to show and give love to others. '
 layout: cookery
 ---
 
