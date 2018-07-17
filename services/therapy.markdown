@@ -2,6 +2,7 @@
 title: Therapy
 date: 2018-07-04 11:21:00 Z
 position: 0
+banner-image: "/uploads/therapy-sofa-banner.jpg"
 text-boxes:
 - title: Choosing therapy
   body-copy: We all, at some point in life, feel the need to ask for help with overwhelming
