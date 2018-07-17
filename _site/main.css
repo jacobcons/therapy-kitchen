@@ -350,7 +350,7 @@ td {
 
 .horizontal-list__item {
   display: inline-block;
-  margin: 1rem; }
+  margin: 0.5rem; }
 
 .input-field__text-input {
   border: none;
@@ -566,7 +566,7 @@ textarea.input-field__text-input {
 
 .primary-header {
   text-align: center;
-  padding: 10rem 1rem;
+  padding: 10rem 2rem;
   width: 100%;
   display: -ms-flexbox;
   display: flex;
@@ -575,7 +575,8 @@ textarea.input-field__text-input {
   -ms-flex-align: center;
       align-items: center;
   background-size: cover;
-  color: #fff; }
+  color: #fff;
+  background-color: #cba555; }
 
 .primary-nav {
   display: inline-block; }
@@ -597,8 +598,6 @@ textarea.input-field__text-input {
   text-decoration: none;
   font-size: 18px;
   font-size: 1.125rem; }
-  .primary-nav__link:hover {
-    color: #cba555; }
   @media (max-width: 25.875rem) {
     .primary-nav__link {
       font-size: 16px;
