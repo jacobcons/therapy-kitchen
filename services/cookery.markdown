@@ -3,6 +3,7 @@ title: Cookery
 date: 2018-07-04 11:35:00 Z
 position: 2
 banner-image: "/uploads/butternet-squash-banner.jpg"
+banner-image-position: bottom
 intro: Cooking should not only give sustenance for our body but – like good art or
   music – it should nourish our soul.
 our-ethos:
