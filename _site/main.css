@@ -20,7 +20,8 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Playfair Display', serif;
-  color: #cba555; }
+  color: #cba555;
+  margin: 0 0 0.5rem; }
 
 p {
   line-height: 1.5em;
@@ -107,9 +108,13 @@ td {
 .italic {
   font-style: italic; }
 
+.hide {
+  display: none; }
+
 .logo {
   font-size: 64px;
-  font-size: 4rem; }
+  font-size: 4rem;
+  margin: 0.67em 0; }
   @media (max-width: 20rem) {
     .logo {
       font-size: 54px;
@@ -148,6 +153,11 @@ td {
     .title {
       font-size: 40px;
       font-size: 2.5rem; } }
+
+.link {
+  text-decoration: underline;
+  color: rgba(135, 126, 255, 0.8);
+  cursor: pointer; }
 
 .long-link {
   word-break: break-all; }
@@ -338,6 +348,10 @@ td {
     -webkit-transform: rotate(-45deg);
             transform: rotate(-45deg); }
 
+.horizontal-list__item {
+  display: inline-block;
+  margin: 1rem; }
+
 .input-field__text-input {
   border: none;
   border-bottom: 1px solid rgba(0, 0, 0, 0.45);
@@ -389,13 +403,17 @@ textarea.input-field__text-input {
   -ms-flex-pack: center;
       justify-content: center;
   -ms-flex-align: center;
-      align-items: center; }
+      align-items: center;
+  z-index: 999; }
 
 .modal__inner {
   background-color: #fff;
   padding: 2.5rem;
   position: relative;
-  max-width: 37.5rem; }
+  max-width: 37.5rem;
+  width: 85%;
+  overflow: auto;
+  max-height: 100%; }
 
 .modal__close {
   cursor: pointer;
@@ -425,11 +443,6 @@ textarea.input-field__text-input {
 
 .testimonial__author {
   font-weight: bold; }
-
-.testimonial__more {
-  text-decoration: underline;
-  color: rgba(135, 126, 255, 0.8);
-  cursor: pointer; }
 
 .timeline {
   list-style-type: none;
@@ -509,6 +522,16 @@ textarea.input-field__text-input {
       grid-template-columns: repeat(1, 1fr); } }
   @media (max-width: 25.875rem) {
     .grid--3-1 {
+      grid-gap: 1.5rem; } }
+
+.grid--2-1 {
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 2.75rem; }
+  @media (max-width: 56.25rem) {
+    .grid--2-1 {
+      grid-template-columns: repeat(1, 1fr); } }
+  @media (max-width: 25.875rem) {
+    .grid--2-1 {
       grid-gap: 1.5rem; } }
 
 .grid--contact-form {

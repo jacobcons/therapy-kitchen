@@ -8,6 +8,7 @@
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	z-index: 999;
 }
 
 .modal__inner {
@@ -15,6 +16,9 @@
 	padding: calculate-rem(40px);
 	position: relative;
 	max-width: calculate-rem(600px);
+	width: 85%;
+	overflow: auto;
+	max-height: 100%;
 }
 
 .modal__close {

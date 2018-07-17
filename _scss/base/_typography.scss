@@ -1,5 +1,6 @@
 .logo {
 	@include font-size(64px);
+	margin: 0.67em 0;
 	@media (max-width: $x-small) {
 		@include font-size(54px);
 	}
@@ -36,6 +37,12 @@
 	@media (max-width: $small) {
 		@include font-size(40px);
 	}
+}
+
+.link {
+	text-decoration: underline;
+	color: $link-color;
+	cursor: pointer;
 }
 
 .long-link {

@@ -16,6 +16,17 @@
 	}
 }
 
+.grid--2-1 {
+	grid-template-columns: repeat(2, 1fr);
+	grid-gap: calculate-rem(44px);
+	@media (max-width: $large) {
+		grid-template-columns: repeat(1, 1fr);
+	}
+	@media (max-width: $small) {
+		grid-gap: calculate-rem(24px);
+	}
+}
+
 .grid--contact-form {
   display: grid;
   $grid-template-columns: "repeat(2, [col-start] 1fr)";
