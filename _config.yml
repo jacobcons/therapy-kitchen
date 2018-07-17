@@ -24,6 +24,7 @@ defaults:
     layout: default
     page-title: ''
     meta-desc: ''
+    banner-image:
 exclude:
 - notes
 - node_modules
