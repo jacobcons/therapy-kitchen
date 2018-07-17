@@ -2,7 +2,7 @@
 title: Podcasts
 date: 2018-07-04 11:40:00 Z
 position: 4
-banner-image: "/uploads/creativity-&-change.jpg"
+banner-image: "/uploads/kitchen-therapy.jpg"
 intro: Our own ones are coming soon… in the meantime
 podcasts:
 - name: Start the Week - The Science of the Mind - @bbcradio4
