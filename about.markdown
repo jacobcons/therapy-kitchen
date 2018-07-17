@@ -2,6 +2,7 @@
 title: About
 date: 2018-07-03 14:03:00 Z
 position: 1
+banner-image: "/uploads/cakes-and-hot-chocolate-banner.jpg"
 text-boxes:
 - title: Where I’m coming from
   body-copy: A recipe of personal and professional experience, skills and passions
