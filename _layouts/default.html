@@ -12,7 +12,7 @@
     </head>
     <body>
       {{ page.type }}
-      <header class="primary-header" style="background-image: url('{{ page.banner-image }}')">
+      <header class="primary-header" style="background-image: url('{{ page.banner-image }}'); background-position: {{ page.banner-image-position }};">
         <h1 class="logo"><a href="/">{{ site.title }}</a></h1>
         <div class="hamburger-menu">
           <span class="hamburger-menu__line"></span>
