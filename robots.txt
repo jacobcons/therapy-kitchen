@@ -1,1 +1,1 @@
-Sitemap: http://therapy-kitchen.siteleaf.net/sitemap.xml
+Sitemap: /sitemap.xml
