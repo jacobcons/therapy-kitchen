@@ -5,7 +5,6 @@ position: 0
 page-title: Index
 meta-desc: test
 banner-image: "/uploads/cakes-and-hot-chocolate-banner.jpg"
-banner-image-position: center
 intro: 'At the heart of a good meal, as in good therapy, is the practice of loving
   kindness: the path of compassion, connection and curiosity for what it means to
   walk on human turf.  Therapy kitchen uses a love of food, storytelling and people
