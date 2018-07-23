@@ -11,7 +11,7 @@ intro: 'At the heart of a good meal, as in good therapy, is the practice of lovi
   to enhance relationships with ourselves, each other and our world.  Abandoning notions
   of perfection, we find potential, possibility and pleasure take its place.  Central
   to this approach is the relationship between food and love, using cooking and conversation,
-  on their own or in combination, are the basis of a truly holistic therapeutic experience.'
+  on their own or in combination, are the basis of a truly holistic therapeutic experience'
 services:
 - title: Therapy
   desc: Therapy offers a unique space to explore personal and relational issues. The
