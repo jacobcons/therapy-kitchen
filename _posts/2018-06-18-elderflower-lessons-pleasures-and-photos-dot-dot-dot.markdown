@@ -11,7 +11,9 @@ excerpt-preview: For many years I have been collecting citric acid ready to make
 thumbnail-image: "/uploads/IMG_0598-768x1024.jpg"
 ---
 
-![IMG_0598-150x150.jpg](/uploads/IMG_0598-150x150.jpg)          ![IMG_0594-150x150.jpg](/uploads/IMG_0594-150x150.jpg)           ![IMG_0593-150x150.jpg](/uploads/IMG_0593-150x150.jpg)
+![IMG_0598-150x150.jpg](/uploads/IMG_0598-150x150.jpg)          ![IMG_0594-150x150.jpg](/uploads/IMG_0594-150x150.jpg)          
+
+ ![IMG_0593-150x150.jpg](/uploads/IMG_0593-150x150.jpg)          ![IMG_0593-150x150.jpg](/api/v2/sites/5b3b44a41deaab485189693b/source/_uploads/IMG_0593-150x150.jpg?download)
 
 For many years I have been collecting citric acid ready to make elderflower cordial, eversoeasy as everyone says, but somehow the time to make this summer treat eluded me. This year, it was part of my work: learning from a student in a Kitchen Therapy session how she makes hers; persuading her to pop over for tea and support the next morning; and then, during our holi-day-at-home, he and I made our own version. Recipes are as varied, unique and special as people, so I like to look up a few methods and then do it my way. The pleasure from gathering a goodie from garden and hedgerow, is simply delicious, feeding us heart, body and soul, storing a little ray of sunshine away for a rainy day.
 
