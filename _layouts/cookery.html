@@ -1,0 +1,66 @@
+---
+layout: default
+---
+
+<section class="primary-section">
+	<p class="text-wrapper italic">{{ page.intro }}</p>
+</section>
+
+<section class="primary-section">
+	<h2 class="title text-center">{{ page.our-ethos.title }}</h2>
+	<p class="text-wrapper">{{ page.our-ethos.desc }}</p>
+</section>
+
+<section class="primary-section">
+	<div class="slider js-slider-triples">
+		{% for image-obj in page.slider-images %}
+			<img class="slider__image" src="{{ image-obj.image }}" alt="{{ image-obj.alt }}">
+		{% endfor %}
+	</div>
+</section>
+
+<section class="primary-section">
+	<h2 class="title text-center">{{ page.what-is-it.title }}</h2>
+	<p class="text-wrapper">{{ page.what-is-it.desc }}</p>
+	<div class="wrapper">
+		<div class="cols cols--2-1">
+			{% for example in page.what-is-it.examples %}
+				<div class="box cols__cell">
+					<h2 class="box__title">{{ example.title }}</h2>
+					<p>{{ example.desc }}</p>
+					<ul class="box__list">
+					{% for item in example.list %}
+						<li>{{ item }}</li>
+					{% endfor %}
+					</ul>
+				</div>
+			{% endfor %}
+		</div>
+	</div>
+</section>
+
+<section class="primary-section text-center">
+	<div class="wrapper">
+		<h2 class="title">{{ page.what-to-expect.title }}</h2>
+		<ul>
+		{% for item in page.what-to-expect.list %}
+			<li>{{ item }}</li>
+		{% endfor %}
+		</ul>
+	</div>
+</section>
+
+<section class="primary-section">
+	<div class="wrapper">
+		<h2 class="title text-center">Testimonials</h2>
+		<div class="cols cols--2-1">
+			{% for testimonial in page.testimonials %}
+				<div class="testimonial cols__cell">
+					<p class="testimonial__quote">"{{ testimonial.quote-preview }}"</p>
+					<span class="testimonial__author">{{ testimonial.author }}</span>
+					<span class="link testimonial__more js-testimonial-more" data-full-quote="{{ testimonial.quote }}">Full quote</span>
+				</div>
+			{% endfor %}
+		</div>
+	</div>
+</section>
