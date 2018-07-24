@@ -1,0 +1,17 @@
+.post ul {
+	padding-left: calculate-rem(24px);
+}
+
+.post li p {
+	display: inline;
+}
+
+.post img {
+	$margin: 16px;
+	margin: calculate-rem($margin) calculate-rem($margin) calculate-rem($margin) 0;
+	max-width: 100%;
+	@media (max-width: $small) {
+		display: block;
+		margin: 0 calculate-rem(16px) calculate-rem(16px) 0;
+	}
+}
