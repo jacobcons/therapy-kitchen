@@ -2,7 +2,7 @@
 title: Index
 date: 2018-07-03 09:46:00 Z
 position: 0
-page-title: Index
+page-title: Home -- Therapy Kitchen
 meta-desc: test
 banner-image: "/uploads/cakes-and-hot-chocolate-banner.jpg"
 intro: 'At the heart of a good meal, as in good therapy, is the practice of loving
