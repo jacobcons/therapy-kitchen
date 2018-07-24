@@ -427,7 +427,7 @@ textarea.input-field__text-input {
   display: inline; }
 
 .post img {
-  margin: 0 1.5rem 1.5rem 0;
+  margin: 1rem 1rem 1rem 0;
   max-width: 100%; }
   @media (max-width: 25.875rem) {
     .post img {
