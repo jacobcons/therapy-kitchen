@@ -427,12 +427,12 @@ textarea.input-field__text-input {
   display: inline; }
 
 .post img {
-  margin: 1rem 1rem 1rem 0;
+  margin: 0.5rem 1rem 0.5rem 0;
   max-width: 100%; }
   @media (max-width: 25.875rem) {
     .post img {
       display: block;
-      margin: 0 1rem 1rem 0; } }
+      margin: 0 0 1rem 0; } }
 
 .slider__image {
   min-height: 30vh;
