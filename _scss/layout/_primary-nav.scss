@@ -49,6 +49,9 @@
 
 .primary-nav__separator {
 	display: inline;
+	@media (max-width: $small) {
+		display: block;
+	}
 }
 
 .primary-nav__separator--horizontal {
@@ -62,6 +65,12 @@
 	}
 	&:last-child:after {
 		content: none;
+	}
+	@media (max-width: $small) {
+		margin: calculate-rem(8px) 0;
+		&:after {
+			content: none;
+		}
 	}
 }
 

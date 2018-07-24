@@ -8,6 +8,8 @@ layout: default
 
 <section class="primary-section">
 	<div class="wrapper">
+		{% include 3-cards.html cards=page.what-is-it.aspects %}
+		<!--
 		<div class="grid grid--3-1">
 			{% for aspect in page.what-is-it.aspects %}
 				<div class="card card--bg-image" style="background-image: url('{{ aspect.bg-image }}');">
@@ -20,6 +22,7 @@ layout: default
 				</div>
 			{% endfor %}
 		</div>
+	-->
 	</div>
 </section>
 

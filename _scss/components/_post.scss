@@ -5,3 +5,12 @@
 .post li p {
 	display: inline;
 }
+
+.post img {
+	margin: 0 calculate-rem(24px) calculate-rem(24px) 0;
+	max-width: 100%;
+	@media (max-width: $small) {
+		display: block;
+		margin: 0 calculate-rem(16px) calculate-rem(16px) 0;
+	}
+}

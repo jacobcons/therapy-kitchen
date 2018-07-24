@@ -7,6 +7,8 @@ layout: default
 </section>
 <section class="primary-section">
 	<div class="wrapper">
+		{% include 3-cards.html cards=page.services read-more=true %}
+		<!--
 		<div class="grid grid--3-1">
 			{% for service in page.services %}
 				<div class="card card--bg-image" style="background-image: url('{{ service.bg-image }}');">
@@ -22,5 +24,6 @@ layout: default
 				</div>
 			{% endfor %}
 		</div>
+	-->
 	</div>
 </section>

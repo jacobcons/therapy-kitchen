@@ -12,20 +12,18 @@
 	@media (max-width: $x-small) {
 		padding: calculate-rem(24px) calculate-rem(16px);
 	}
-}
-
-.card--bg-image {
 	background-size: cover;
 	position: relative;
-	&:before {
-		content: '';
-		position: absolute;
-		top: 0;
-		right: 0;
-		bottom: 0;
-		left: 0;
-	  background: rgba($main-theme-color, 0.6);
-	}
+}
+
+.card__bg-image {
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	background: $main-theme-color;
+	opacity: 0.6;
 }
 
 .card--small {

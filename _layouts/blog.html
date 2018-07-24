@@ -37,7 +37,8 @@ layout: default
 	<div class="wrapper">
 		<div class="grid grid--3-1">
 			{% for post in site.posts %}
-			<div class="card card--bg-image card--small js-blog-card" style="background-image: url('{{ post.thumbnail-image }}');" data-date="{{ post.date | date: "%B %Y"}}" data-tags="{{ post.tags | join:',' }}">
+			<div class="card card--small js-blog-card" style="background-image: url('{{ post.thumbnail-image }}');" data-date="{{ post.date | date: "%B %Y"}}" data-tags="{{ post.tags | join:',' }}">
+				<div class="card__bg-image"></div>
 				<div class="card__content">
 					<div class="card__top">
 						<h2 class="card__title">{{ post.title }}</h2>
