@@ -2,6 +2,7 @@
 title: Therapy
 date: 2018-07-04 11:21:00 Z
 position: 0
+page-title: Therapy -- Therapy Kitchen
 banner-image: "/uploads/therapy-sofa-banner.jpg"
 text-boxes:
 - title: Choosing therapy
