@@ -2,6 +2,7 @@
 title: Kitchen therapy
 date: 2018-07-04 11:24:00 Z
 position: 1
+page-title: Kitchen therapy -- Therapy Kitchen
 banner-image: "/uploads/fruit-close-up-banner.jpg"
 banner-image-position: bottom
 what-is-it:

@@ -2,6 +2,7 @@
 title: Podcasts
 date: 2018-07-04 11:40:00 Z
 position: 4
+page-title: Podcasts -- Therapy Kitchen
 banner-image: "/uploads/nuts-banner.jpg"
 banner-image-position: center
 intro: Our own ones are coming soon… in the meantime

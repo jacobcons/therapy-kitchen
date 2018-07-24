@@ -2,6 +2,7 @@
 title: Cookery
 date: 2018-07-04 11:35:00 Z
 position: 2
+page-title: Cookery -- Therapy Kitchen
 banner-image: "/uploads/butternet-squash-banner.jpg"
 banner-image-position: bottom
 intro: Cooking should not only give sustenance for our body but – like good art or
