@@ -17,17 +17,20 @@ what-is-it:
       feelings and patterns.  Our mindfulness around both the nutritional and emotional
       content of the food we make forms the basis of self-care.
     bg-image: "/uploads/self-care.jpg"
+    bg-opacity: 0.6
   - title: Creativity and change
     desc: Cooking offers a direct connection with our unique human potential, the
       simple daily task of cooking symbolically connects us with our capacity for
       change, our sense of potency and healing potential.
     bg-image: "/uploads/creativity-&-change.jpg"
+    bg-opacity: 0.6
   - title: Campfire Con-panis
     desc: Our word company comes from the Latin, con-panis, reflecting the importance
       of food in terms of communication, as community and as friendship.  Kitchen
       therapy looks to bring people together and increase our understanding of one
       another through food.
     bg-image: "/uploads/campfire-con-panis.jpg"
+    bg-opacity: 0.6
 what-to-expect:
   title: What to expect
   list:
