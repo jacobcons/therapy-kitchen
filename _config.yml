@@ -41,7 +41,7 @@ menu:
 - title: About
   url: "/about.html"
 - title: Services
-  url: "javascript:void(0)"
+  url: javascript:void(0)
   children:
   - title: Therapy
     url: "/services/therapy.html"
