@@ -43,6 +43,10 @@ path {
 	fill: $main-theme-color;
 }
 
+img {
+	max-width: 100%;
+}
+
 table {
 	width: 100%;
 	max-width: calculate-rem(450px);

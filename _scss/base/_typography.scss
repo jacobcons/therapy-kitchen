@@ -22,12 +22,15 @@
 }
 
 .contact-detail {
+	$base-size: 22px;
 	font-style: italic;
-	@include font-size(22px);
+	@include font-size($base-size);
 	color: $mid-gray;
 	text-decoration: underline;
-	@media (max-width: $medium) {
-		font-size: calc(12px + 2vw);
+	@media (max-width: $small) {
+		$min-size: 12px;
+		$vw: (($base-size - $min-size) * (100 / 414px)) * 1vw;
+		font-size: calc(#{$min-size} + #{$vw});
 	}
 }
 

@@ -1,15 +1,16 @@
 .primary-footer {
 	width: 90%;
-	max-width: calculate-rem(652px);
+	max-width: calculate-rem(936px);
 	margin: calculate-rem(96px) auto;
 	display: flex;
 	justify-content: space-between;
-	@media (max-width: $medium) {
+	@media (max-width: $large) {
 		display: grid;
 		grid-row-gap: calculate-rem(24px);
 		justify-content: center;
+		margin:  0 auto calculate-rem(32px) auto;
 	}
 	@media (max-width: $small) {
-		margin:  0 auto calculate-rem(32px) auto;
+		
 	}
 }
