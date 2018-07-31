@@ -117,7 +117,7 @@ document.addEventListener('DOMContentLoaded', async () => {
 		elSendBtn.addEventListener('click', async (e) => {
 			e.preventDefault()
 			const elForm = document.querySelector('.js-contact-form')
-			const elsRequiredInputs = document.querySelectorAll('.js-required-input')
+			const elsRequiredInput = document.querySelectorAll('.js-required-input')
 			const elEmailInput = document.querySelector('input[name="email"]')
 			const elsError = document.querySelectorAll('.js-input-error')
 			
@@ -142,12 +142,19 @@ document.addEventListener('DOMContentLoaded', async () => {
 			const errorNames = Object.keys(errors) 
 			if (errorNames.length === 0) {
 				const queryString = new URLSearchParams(new FormData(elForm)).toString()
-				const res = await Fetch.get(`${elForm.getAttribute('action')}&${queryString}`);
+				try {
+					var res = await Fetch.get(`${elForm.getAttribute('action')}&${queryString}`);
+				} catch(e) {
+					console.error(e)
+				}
+				
 				if (res.success) {
 					spawnModal(`<span>Thank you for your email :)</span>`)
 				} else {
-					errorNames.forEach((name) => errors[name].input.insertAdjacentHTML('afterend', `<span class="input-field__error js-input-error">${errors[name].text}</span>`))
+					spawnModal(`<span>Oops! There seems to have been a problem sending your email on our end. Please try again :)</span>`)
 				}
+			} else {
+				errorNames.forEach((name) => errors[name].input.insertAdjacentHTML('afterend', `<span class="input-field__error js-input-error">${errors[name].text}</span>`))
 			}
 		})
 	}
