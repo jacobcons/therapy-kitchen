@@ -1,6 +1,13 @@
 ---
 title: Fun and Friendly Fermentation
 date: 2018-08-03 15:26:00 Z
+tags:
+- fermentation
+- thoughts about time
+- nurture
+- change
+- preparation
+- resourcefulness
 excerpt-preview: Fermentation is quite rightly back in fashion. The resourcefulness,
   the timelessness and the earthy satisfaction from taking up this ancient art in
   our kitchens of today, touches us all, at a gutral place in our soul.
@@ -23,4 +30,4 @@ Our enemies or those we project onto are rarely what we imagine. When I teach co
 
 We talk a lot now about friendly bacteria, but I reckon it's us that needs to be friendly! Maybe there is also a lesson here about accepting our less attractive qualities, that do actually make us whole human beings, warts and all.
 
-The conversation amongst us girls as we squelched cabbage into sauerkraut cannot here be repeated, but suffice to say, it was fun, it was filthy but most of all it was friendly...![DSC_7011-77fb2d.jpg](/uploads/DSC_7011-77fb2d.jpg)
+The conversation amongst us girls as we squelched cabbage into sauerkraut cannot here be repeated, but suffice to say, it was funny, it was filthy but most of all it was friendly...![DSC_7011-77fb2d.jpg](/uploads/DSC_7011-77fb2d.jpg)
