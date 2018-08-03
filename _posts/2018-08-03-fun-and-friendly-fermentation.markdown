@@ -2,7 +2,6 @@
 title: Fun and Friendly Fermentation
 date: 2018-08-03 15:26:00 Z
 tags:
-- fermentation
 - thoughts about time
 - nurture
 - change
