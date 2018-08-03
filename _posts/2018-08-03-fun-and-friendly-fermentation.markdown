@@ -1,7 +1,13 @@
 ---
 title: Fun and Friendly Fermentation
 date: 2018-08-03 15:26:00 Z
+excerpt-preview: Fermentation is quite rightly back in fashion. The resourcefulness,
+  the timelessness and the earthy satisfaction from taking up this ancient art in
+  our kitchens of today, touches us all, at a gutral place in our soul.
+thumbnail-image: "/uploads/DSC_6898-9939c8.jpg"
 ---
+
+![DSC_6967-b99c9f.jpg](/uploads/DSC_6967-b99c9f.jpg)![DSC_7011-1835d6.jpg](/uploads/DSC_7011-1835d6.jpg)![DSC_7087.jpg](/uploads/DSC_7087.jpg)
 
 Fermentation is quite rightly back in fashion. The resourcefulness, the timelessness and the earthy satisfaction from taking up this ancient art in our kitchens of today, touches us all, at a gutral place in our soul.
 Making sour dough, or sauerkraut, kefir or kimchi connects us with a primal past (fermentation is quite possibly our first foray into culinary harnessing of Nature's gifts), making now a resource for the future, affords a deep sense of security. My jars, bottles and pots of various fermenting goodies, make me feel like a foraging farmer at home with myself. I have to care for these various growing and transforming processes, the muslin covers speak of calm, knowing care. I'm in my element with the kitchen looking more like the alchemical laboratory of my childhood magic potions, everyday.
