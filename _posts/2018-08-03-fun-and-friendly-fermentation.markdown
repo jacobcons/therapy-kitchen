@@ -14,7 +14,7 @@ excerpt-preview: Fermentation is quite rightly back in fashion. The resourcefuln
 thumbnail-image: "/uploads/DSC_6898-9939c8.jpg"
 ---
 
-![DSC_7055.jpg](/uploads/DSC_7055.jpg)![DSC_7087-7eebed.jpg](/uploads/DSC_7087-7eebed.jpg)![DSC_6967-df59cb.jpg](/uploads/DSC_6967-df59cb.jpg)
+
 
 Fermentation is quite rightly back in fashion. The resourcefulness, the timelessness and the earthy satisfaction from taking up this ancient art in our kitchens of today, touches us all, at a visceral place in our soul.
 
