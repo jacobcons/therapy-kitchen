@@ -1,0 +1,8 @@
+---
+title: Fun and Friendly Fermentation
+date: 2018-08-03 15:26:00 Z
+---
+
+Fermentation is quite rightly back in fashion. The resourcefulness, the timelessness and the earthy satisfaction from taking up this ancient art in our kitchens of today, touches us all, at a gutral place in our soul.
+Making sour dough, or sauerkraut, kefir or kimchi connects us with a primal past (fermentation is quite possibly our first foray into culinary harnessing of Nature's gifts), making now a resource for the future, affords a deep sense of security. My jars, bottles and pots of various fermenting goodies, make me feel like a foraging farmer at home with myself. I have to care for these various growing and transforming processes, the muslin covers speak of calm, knowing care. I'm in my element with the kitchen looking more like the alchemical laboratory of my childhood magic potions, everyday.
+I was rather lucky to have Daphne Lambert of Green Cuisine, all to myself to learn about fermentation. However, when I passed this on in my own Kitchen Therapy workshop, the sparks between this female group flew around the room... the photos from the night say it all, our campfire camaraderie, repartee and exchange, was deeply nurturing for us all. We do need to eat, so yes, we do need to cook.  But it's about so much more than feeding our bodies. In this workshop, as well as on my own at home, the process of making, putting by and enhancing vegetables and grains, in this slow, simple yet powerful process of fermentation
