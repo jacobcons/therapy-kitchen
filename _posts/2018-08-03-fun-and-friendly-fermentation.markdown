@@ -7,7 +7,7 @@ excerpt-preview: Fermentation is quite rightly back in fashion. The resourcefuln
 thumbnail-image: "/uploads/DSC_6898-9939c8.jpg"
 ---
 
-![DSC_7087-7eebed.jpg](/uploads/DSC_7087-7eebed.jpg)![DSC_6967-df59cb.jpg](/uploads/DSC_6967-df59cb.jpg)
+![DSC_7055.jpg](/uploads/DSC_7055.jpg)![DSC_7087-7eebed.jpg](/uploads/DSC_7087-7eebed.jpg)![DSC_6967-df59cb.jpg](/uploads/DSC_6967-df59cb.jpg)
 
 Fermentation is quite rightly back in fashion. The resourcefulness, the timelessness and the earthy satisfaction from taking up this ancient art in our kitchens of today, touches us all, at a gutral place in our soul.
 
@@ -21,4 +21,4 @@ Our enemies or those we project onto are rarely what we imagine. When I teach co
 
 We talk a lot now about friendly bacteria, but I reckon it's us that needs to be friendly! Maybe there is also a lesson here about accepting our less attractive qualities, that do actually make us whole human beings, warts and all.
 
-The conversation amongst us girls as we squelched cabbage into sauerkraut cannot here be repeated, but suffice to say, it was fun, it was filthy but most of all it was friendly...
+The conversation amongst us girls as we squelched cabbage into sauerkraut cannot here be repeated, but suffice to say, it was fun, it was filthy but most of all it was friendly...![DSC_7011-77fb2d.jpg](/uploads/DSC_7011-77fb2d.jpg)
