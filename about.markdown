@@ -6,7 +6,7 @@ page-title: About -- Therapy Kitchen
 banner-image: "/uploads/chocolate-bowl-banner.jpg"
 banner-image-position: Center
 text-boxes:
-- title: Where I’m coming from
+- title: Who I am
   body-copy: A recipe of personal and professional experience, skills and passions
     have fed into the creation of Therapy Kitchen.  People and communities, how and
     why they tick, have been an abiding fascination; through my practice of teaching,
