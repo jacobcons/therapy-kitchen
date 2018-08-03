@@ -30,4 +30,5 @@ Our enemies or those we project onto are rarely what we imagine. When I teach co
 
 We talk a lot now about friendly bacteria, but I reckon it's us who need to be friendlier! Maybe there is also a lesson here about accepting our less attractive qualities, that do actually make us whole human beings, warts and all.
 
-The conversation amongst us girls as we squelched cabbage into sauerkraut cannot here be repeated, but suffice to say, it was funny, it was filthy but most of all it was friendly...![DSC_7011-77fb2d.jpg](/uploads/DSC_7011-77fb2d.jpg)
+The conversation amongst us girls as we squelched cabbage into sauerkraut cannot here be repeated, but suffice to say, it was funny, it was filthy but most of all it was friendly...!
+[DSC_7011-77fb2d.jpg](/uploads/DSC_7011-77fb2d.jpg)
