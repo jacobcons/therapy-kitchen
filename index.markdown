@@ -29,9 +29,9 @@ services:
   bg-opacity: 0.6
   url: "/services/kitchen-therapy"
 - title: Cookery
-  desc: That focus on the functional benefits of cooking good food as a vital part
-    of our human experience. Building creative confidence through the natural art
-    of cooking.
+  desc: Sessions focus on the fun-ctional benefits of cooking good food as a vital
+    part of our human experience. Building creative confidence through the natural
+    art of cooking.
   bg-image: "/uploads/cookery.jpg"
   bg-opacity: 0.6
   url: "/services/cookery"
