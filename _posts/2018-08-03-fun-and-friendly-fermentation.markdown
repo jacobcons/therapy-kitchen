@@ -27,8 +27,8 @@ We live in a world of separation and threat, where the unknown but disliked 'oth
 Antibiotics, antibacterial sprays abound as if we humans are able to eradicate this first form of life, and as if this were desirable. I do know how lucky we are to live in a world that understands germ theory and has had the intelligence to create medicines. However, to over use and attempt to kill off rather than get to know and live alongside bacteria, is a ridiculous error of judgement, and one we are about to pay a huge price for.
 
 Our enemies or those we project onto are rarely what we imagine. When I teach cooking, and find someone who doesn't like an ingredient, I encourage a little getting to know you exercise. Think of someone you didn't like when you first met them, then later, when you found out more about them, they made you laugh or you realised their gruff voice covered up their shyness, you warmed to them. Foods are the same, find out what they do for you, where they come from etc and you open up curiosity and understanding so that you might feel more able to taste them - or not, but the process has softened.
-![DSC_6967-df59cb.jpg](/uploads/DSC_6967-df59cb.jpg)
-We talk a lot now about friendly bacteria, but I reckon it's us who need to be friendlier! Maybe there is also a lesson here about accepting our less attractive qualities, that do actually make us whole human beings, warts and all.
 ![DSC_7055.jpg](/uploads/DSC_7055.jpg)
-The conversation amongst us girls as we squelched cabbage into sauerkraut cannot here be repeated, but suffice to say, it was funny, it was filthy but most of all it was friendly...!
-[DSC_7011-77fb2d.jpg](/uploads/DSC_7011-77fb2d.jpg)
+We talk a lot now about friendly bacteria, but I reckon it's us who need to be friendlier! Maybe there is also a lesson here about accepting our less attractive qualities, that do actually make us whole human beings, warts and all.
+
+The conversation amongst us girls as we squelched cabbage into sauerkraut cannot here be repeated, but suffice to say, it was funny, it was filthy but most of all it was friendly...
+![DSC_7011-77fb2d.jpg](/uploads/DSC_7011-77fb2d.jpg)
