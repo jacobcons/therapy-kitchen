@@ -442,7 +442,8 @@ textarea.input-field__text-input {
       margin: 0 0 1rem 0; } }
 
 .slider__image {
-  min-height: 30vh;
+  height: 100%;
+  max-height: 389px;
   object-fit: cover; }
 
 .social-icon {
