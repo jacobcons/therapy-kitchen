@@ -57,6 +57,14 @@ slider-images:
   alt: 
 - image: "/uploads/DSC_6898.jpg"
   alt: 
+- image: "/uploads/DSC_6830.jpg"
+  alt: 
+- image: "/uploads/DSC_6967-bb231b.jpg"
+  alt: 
+- image: "/uploads/IMG_0779-7c6e14.jpg"
+  alt: 
+- image: "/uploads/IMG_0677-ef9a4e.jpg"
+  alt: 
 who-is-it-for:
   title: Who is it for?
   desc: 'Kitchen Therapy is for anyone looking for a practical and productive form
