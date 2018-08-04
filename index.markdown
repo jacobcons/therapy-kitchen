@@ -16,7 +16,7 @@ services:
 - title: Therapy
   desc: Therapy offers a unique space to explore personal and relational issues. The
     focus is on communication, connectedness and curiosity.
-  bg-image: "/uploads/IMG_0773.jpg"
+  bg-image: "/uploads/IMG_0774.jpg"
   bg-opacity: 0.6
   url: "/services/therapy"
 - title: Kitchen therapy
@@ -25,7 +25,7 @@ services:
     to think about deeper personal issues.
 
 '
-  bg-image: "/uploads/kitchen-therapy.jpg"
+  bg-image: "/uploads/DSC_7087-222e8c.jpg"
   bg-opacity: 0.6
   url: "/services/kitchen-therapy"
 - title: Cookery
