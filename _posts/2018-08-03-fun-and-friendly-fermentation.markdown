@@ -8,6 +8,8 @@ tags:
 - preparation
 - resourcefulness
 - fermentation
+- detox
+- friendly bacteria
 excerpt-preview: Fermentation is quite rightly back in fashion. The resourcefulness,
   the timelessness and the earthy satisfaction from taking up this ancient art in
   our kitchens of today, touches us all, at a gutral place in our soul.
