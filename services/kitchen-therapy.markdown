@@ -7,7 +7,7 @@ banner-image: "/uploads/fruit-close-up-banner.jpg"
 banner-image-position: bottom
 what-is-it:
   desc: Kitchen therapy uses food and cooking to explore and enhance our relationships
-    with ourselves, one another and our environment.  looking at the importance of
+    with ourselves, one another and our environment.  Looking at the importance of
     nurturing oneself and sharing food with others, helps us to connect with our creativity
     and passion, building positive feelings about ourselves and enabling helpful life
     changes.
@@ -21,8 +21,8 @@ what-is-it:
     bg-opacity: 0.6
   - title: Creativity and change
     desc: Cooking offers a direct connection with our unique human potential, the
-      simple daily task of cooking symbolically connects us with our capacity for
-      change, our sense of potency and healing potential.
+      simple daily task of cooking, symbolically connects us with our capacity for
+      change, agency and healing potential.
     bg-image: "/uploads/IMG_0628.jpg"
     bg-opacity: 0.6
   - title: Campfire Con-panis

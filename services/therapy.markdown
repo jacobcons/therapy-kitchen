@@ -30,16 +30,21 @@ areas-of-specialism:
   title: Areas of specialism
   list:
   - Learning / behavioural / cognitive issues
-  - childhood trauma
-  - relationship issues.
+  - Childhood trauma
+  - Relationship issues.
   - Social anxiety and phobias
-  - Addictions
+  - Addictions - substance, behavioural and emotional
   - Developing self care, acceptance and compassion
   - Only Child experiences
   - Dietary/ nutritional and health Concerns
-  - Bereavement
+  - Bereavement and loss
   - Depression, low mood and loss of motivation
-  - Life cycle and existential crisis
+  - Life cycle, existential and spiritual questions
+  - Developmental conflicts
+  - Understanding Borderline Personality, Bi-polar and Narcissistic conditions, for
+    individuals and their families
+  - Trauma, compound trauma and PTSD
+  - 'General mental health and well being '
 what-to-expect:
   title: What to expect
   text-box: |-
