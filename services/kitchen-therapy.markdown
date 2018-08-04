@@ -17,7 +17,7 @@ what-is-it:
       the natural environment of the kitchen, we can rework our personal stories,
       feelings and patterns.  Our mindfulness around both the nutritional and emotional
       content of the food we make forms the basis of self-care.
-    bg-image: "/uploads/self-care.jpg"
+    bg-image: "/uploads/DSC_6898-78e395.jpg"
     bg-opacity: 0.6
   - title: Creativity and change
     desc: Cooking offers a direct connection with our unique human potential, the
