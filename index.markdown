@@ -18,7 +18,7 @@ services:
     focus is on communication, connectedness and curiosity.
   bg-image: "/uploads/IMG_0774.jpg"
   bg-opacity: 0.7
-  url: "/services/therapy"
+  url: "/services/therapy.html"
 - title: Kitchen therapy
   desc: 'For individuals, couples or small groups, using food, cooking and eating
     as a holistic therapy; providing an enjoyably practical forum with the potential
@@ -27,14 +27,14 @@ services:
 '
   bg-image: "/uploads/DSC_7087-222e8c.jpg"
   bg-opacity: 0.7
-  url: "/services/kitchen-therapy"
+  url: "/services/kitchen-therapy.html"
 - title: Cookery
   desc: Sessions focus on the fun-ctional benefits of cooking good food as a vital
     part of our human experience. Building creative confidence through the natural
     art of cooking.
   bg-image: "/uploads/cookery.jpg"
   bg-opacity: 0.7
-  url: "/services/cookery"
+  url: "/services/cookery.html"
 layout: index
 ---
 
