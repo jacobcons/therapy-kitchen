@@ -19,7 +19,7 @@ services:
   bg-image: "/uploads/IMG_0774.jpg"
   bg-opacity: 0.7
   url: "/services/therapy.html"
-- title: Kitchen therapy
+- title: Kitchen Therapy
   desc: 'For individuals, couples or small groups, using food, cooking and eating
     as a holistic therapy; providing an enjoyably practical forum with the potential
     to think about deeper personal issues.
