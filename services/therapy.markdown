@@ -9,8 +9,8 @@ text-boxes:
   body-copy: We all, at some point in life, face overwhelming emotional challenges
     or difficult experiences. Whatever brings us to therapy, it is often a hard choice
     to make however it is in the actual decision to ask for help that our healing
-    can begin.  In my quiet garden studio on Brighton’s green outskirts, I practice
-    a broad range of individual and relationship counselling.
+    can begin.  In my garden studio on Brighton’s green outskirts, I practice a broad
+    range of individual and relationship counselling, enabling your healing journey.
 - title: Who is it for?
   body-copy: Therapy maybe for a specific issue, challenge or change that you are
     dealing with; or it can be about a more general desire for self development; ultimately
