@@ -13,9 +13,9 @@ text-boxes:
     range of individual and relationship counselling, enabling your healing journey.
 - title: Who is it for?
   body-copy: Therapy maybe for a specific issue, challenge or change that you are
-    dealing with; or it can be about a more general desire for self development; ultimately
-    it is likely to be about both.  In that sense, therapy is useful for everyone
-    at key points in their lives.
+    dealing with, or a more general desire for self development - ultimately it is
+    likely to be about both.  In that sense, therapy is useful for everyone, offering
+    collaborative guidance and support, at key points in our lives.
 - title: My approach
   body-copy: "I practice developmental, depth pyschology based therapy, founded on
     the profound impact our primary care experience has on how we see, feel and act
@@ -25,7 +25,8 @@ text-boxes:
     bringing clarity to our pathway ahead. \n\nA wide experience in education and
     therapy has given me a rich understanding of how to work with and value each individual
     within our common human framework.  I incorporate an ever growing knowledge from
-    my interests in philosophy, psychology and mythology holistic approach to therapy. "
+    my interests in philosophy, psychology and spirituality in my holistic approach
+    to therapy. "
 areas-of-specialism:
   title: Areas of specialism
   list:
