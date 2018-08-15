@@ -1,0 +1,46 @@
+---
+layout: default
+---
+
+<section class="primary-section">
+	<div class="wrapper">
+		<div class="cols cols--2-1">
+			{% for text-box in page.text-boxes %}
+				<div class="box">
+					<h2 class="box__title">{{ text-box.title }}</h2>
+					<p>{{ text-box.body-copy }}</p>
+				</div>
+			{% endfor %}
+		</div>
+	</div>
+</section>
+
+<section class="primary-section text-center">
+	<div class="wrapper">
+		<h2 class="title">{{ page.areas-of-specialism.title }}</h2>
+		<ul>
+		{% for item in page.areas-of-specialism.list %}
+			<li>{{ item }}</li>
+		{% endfor %}
+		</ul>
+	</div>
+</section>
+
+<section class="primary-section">
+	<div class="wrapper">
+		<h2 class="title text-center">{{ page.what-to-expect.title }}</h2>
+		<p class="text-wrapper">{{ page.what-to-expect.text-box }}</p>
+		<table class="center">
+			<tr>
+				<th>Cost</th>
+				<th>For</th>
+			</tr>
+			{% for row in page.what-to-expect.table %}
+				<tr>
+					<td>{{ row.cost }}</td>
+					<td>{{ row.for }}</td>
+				</tr>
+			{% endfor %}
+		</table>
+	</div>
+</section>
