@@ -45,17 +45,17 @@ areas-of-specialism:
   - Understanding Borderline Personality, Bi-polar and Narcissistic conditions, for
     individuals and their families
   - Trauma, compound trauma and PTSD
-  - 'General mental health and well being '
+  - 'General mental health, mentoring and well being '
 what-to-expect:
   title: What to expect
   text-box: |-
-    An initial phone conversation to introduce ourselves and understand how I can help.  I offer a half hour assessment, costing £15 to establish whether I am the right counsellor.
+    An initial phone conversation to introduce ourselves and understand how I can help.  I offer a half hour assessment, costing £15, to establish whether I am the right counsellor for your needs.
 
-    We will normally agree to work on a weekly basis as the most effective schedule.  However each therapeutic relationship is unique and we will agree working patterns accordingly.
+    We will normally agree to work on a weekly basis as the most effective schedule, in either a short term or open ended time span.  However each therapeutic relationship is unique and we will agree working patterns accordingly, within a flexible framework.
   table:
   - cost: "£35-45"
     for: Individuals
-  - cost: "£40-£50"
+  - cost: "£50-£60"
     for: Couples
 layout: therapy
 ---
