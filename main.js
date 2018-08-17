@@ -7,10 +7,13 @@ class Fetch {
   }
 
   async post(url, data) {
-    return await (await fetch(url, {
+    return await await fetch(url, {
       method: 'POST',
-      body: data
-    })).json();
+      body: data,
+      headers: {
+        'Content-Type': 'application/x-www-form-urlencoded'
+      }
+    });
   }
 }
 
@@ -167,15 +170,16 @@ document.addEventListener('DOMContentLoaded', async () => {
 
 			const errorNames = Object.keys(errors);
 			if (errorNames.length === 0) {
-				const queryString = new URLSearchParams(new FormData(elForm)).toString();
+				const formData = new URLSearchParams(new FormData(elForm));
 				try {
-					var res = await _Fetch2.default.get(`${elForm.getAttribute('action')}&${queryString}`);
+					var res = await _Fetch2.default.post(elForm.getAttribute('action'), formData);
 				} catch (e) {
 					console.error(e);
 				}
 
-				if (res.success) {
+				if (res.ok) {
 					spawnModal(`<span>Thank you for your email :)</span>`);
+					elForm.reset();
 				} else {
 					spawnModal(`<span>Oops! There seems to have been a problem sending your email on our end. Please try again :)</span>`);
 				}
