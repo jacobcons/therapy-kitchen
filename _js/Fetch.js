@@ -7,7 +7,10 @@ class Fetch {
     return await(await fetch(url, {
       method: 'POST',
       body: data,
-    })).json();
+      headers: {
+        'Content-Type': 'application/x-www-form-urlencoded',
+      },
+    }))
   }
 }
 
