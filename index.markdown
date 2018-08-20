@@ -3,7 +3,13 @@ title: Index
 date: 2018-07-03 09:46:00 Z
 position: 0
 page-title: Home -- Therapy Kitchen
-meta-desc: test
+meta-desc: 'At the heart of good therapy, as in a good meal, is the practice of loving
+  kindness: an understanding of what it means to walk on human turf. Through an appreciation
+  of food, symbolism and people, Kitchen Therapy seeks to enhance relationships with
+  ourselves, each other and our world. Letting go notions of perfection, we find potential,
+  possibility and pleasure take its place. Central to this approach is the relationship
+  between food and love, using cooking and conversation, on their own or in combination,
+  as the basis of a truly holistic therapeutic experience.'
 banner-image: "/uploads/cakes-and-hot-chocolate-banner.jpg"
 intro: 'At the heart of  good therapy, as in a good meal, is the practice of loving
   kindness: an understanding of what it means to walk on human turf.  Through an appreciation
