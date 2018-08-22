@@ -16,7 +16,7 @@ excerpt-preview: Fermentation is quite rightly back in fashion. The resourcefuln
 thumbnail-image: "/uploads/DSC_6898-9939c8.jpg"
 ---
 
-![DSC_7087-7eebed.jpg](/uploads/DSC_7087-7eebed.jpg)
+![DSC_6912-262284.jpeg](/uploads/DSC_6912-262284.jpeg)![DSC_7087.jpeg](/uploads/DSC_7087.jpeg)![IMG_0607-f38d93.jpg](/uploads/IMG_0607-f38d93.jpg)
 
 Fermentation is quite rightly back in fashion. The resourcefulness, the timelessness and the earthy satisfaction from taking up this ancient art in our kitchens of today, touches us all, at a visceral place in our soul.
 
@@ -26,7 +26,7 @@ Making sour dough, or sauerkraut, kefir or kimchi connects us with a primal past
 
 I was rather lucky to have Daphne Lambert of Green Cuisine, all to myself to learn about fermentation. However, when I passed this on in my own Kitchen Therapy workshop, the sparks between this female group flew around the room... the photos from the night say it all, our campfire camaraderie, repartee and exchange, was deeply nurturing for us all. We do need to eat, so yes, we do need to cook.  But it's about so much more than feeding our bodies. In this workshop, as well as on my own at home, this slow, simple yet powerful process of fermentation, affords an incredibly rich and grounding pleasure, absorbed in this FUNctional task. The process of putting by, indeed enhancing vegetables and grains for the future, nurturing the bacteria we so badly need, is an important sign for our times.
 
-We live in a world of separation and threat, where the unknown but disliked 'other' is to be denigrated, annihilated, abhorred. The foreigner, the addict, the gangster... anyone who is not us, quickly becomes a nameless dread. 
+We live in a world of separation and threat, where the unknown but disliked 'other' is to be denigrated, annihilated, abhorred. The foreigner, the addict, the gangster... anyone who is not us, quickly becomes a nameless dread.
 
 Antibiotics, antibacterial sprays abound as if we humans are able to eradicate this first form of life, and as if this were desirable. I do know how lucky we are to live in a world that understands germ theory and has had the intelligence to create medicines. However, to over use and attempt to kill off rather than get to know and live alongside bacteria, is a ridiculous error of judgement, and one we are about to pay a huge price for.
 
