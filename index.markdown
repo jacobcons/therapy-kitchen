@@ -33,7 +33,7 @@ services:
     to think about deeper personal issues.
 
 '
-  bg-image: "/uploads/DSC_7087-222e8c.jpg"
+  bg-image: "/uploads/DSC_7087-ed3be8.jpg"
   bg-opacity: 0.7
   url: "/services/kitchen-therapy.html"
 - title: Cookery
