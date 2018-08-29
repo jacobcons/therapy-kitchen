@@ -40,7 +40,7 @@ services:
   desc: Sessions focus on the fun-ctional benefits of cooking good food as a vital
     part of our human experience. Building creative confidence through the natural
     art of cooking.
-  bg-image: "/uploads/IMG_0687-a1159d.jpg"
+  bg-image: "/uploads/IMG_0621.jpg"
   bg-opacity: 0.7
   url: "/services/cookery.html"
 layout: index
