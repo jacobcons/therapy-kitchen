@@ -25,9 +25,9 @@ text-boxes:
     these as discrete occupations, their compatibility and potential to feed into
     each other, quickly became apparent.
 - title: Currently
-  body-copy: I am passionate about bringing pleasure centre stage in the kitchen and
-    abandoning notions of perfection, that get in the way of good cooking, life and
-    love.  To this end, I am compiling a therapeutic cook book, based around imaginative,
+  body-copy: I am passionate about bringing possibility, potential and pleasure centre
+    stage, abandoning notions of perfection, that get in the way life, love and good
+    cooking.  To this end, I am compiling a therapeutic cook book, based around imaginative,
     intuitive cooking and how this can inspire wider creative confidence in the world
     outside the kitchen (I’m told there is one…)
 qualifications:
