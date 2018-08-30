@@ -26,7 +26,7 @@
       {% include nav.html nav-classes="primary-nav primary-nav--stacked" link-classes="primary-nav__link" link-has-sub-nav-classes="primary-nav__link--has-sub-nav" separator-classes="primary-nav__separator--stacked" container-classes="primary-nav__link-container--horizontal" sub-nav-classes="sub-nav--indent"%}
       <div class="flex-col">
         <a href="tel:{{ site.contact.tel }}" class="contact-detail">{{ site.contact.tel }}</a>
-        <a href="tel:{{ site.contact.email }}" class="contact-detail">{{ site.contact.email }}</a>
+        <a href="mailto:{{ site.contact.email }}" class="contact-detail">{{ site.contact.email }}</a>
         <div>
           <a class="social-icon" href="https://www.facebook.com/charlottehastingstudio/" target="_blank" rel="noopener">{% include social-icons/facebook.svg %}</a>
           <a class="social-icon" href="https://www.instagram.com/therapy.kitchen/" target="_blank" rel="noopener">{% include social-icons/instagram.svg %}</a> 
