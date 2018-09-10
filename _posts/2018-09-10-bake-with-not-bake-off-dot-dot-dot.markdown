@@ -1,6 +1,10 @@
 ---
 title: Bake With NOT Bake Off...!
 date: 2018-09-10 11:22:00 Z
+tags:
+- nurture
+- sharing
+- happiness
 thumbnail-image: "/uploads/DSC_6912.jpg"
 ---
 
