@@ -13,8 +13,9 @@ podcasts:
   link: https://www.bbc.co.uk/programmes/b07h69n9
 - name: Dr Gabor Mate – the one you feed
   link: http://www.oneyoufeed.net/gabor-mate/
-- name: 'This Jungian Life - Living with a crazy parent '
-  link: http://www.thisjungianlife.com/ep21/#comment-32
+- name: 'This Jungian Life - Indecision - listen out for their thoughts on desires
+    and appetites... '
+  link: http://www.thisjungianlife.com/ep23/#comment-40
 layout: podcasts
 ---
 
