@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<section class="primary-section">
+	<p class="text-wrapper">{{ page.intro }}</p>
+</section>
+
+<section class="primary-section">
+	<div class="wrapper">
+		<form class="js-contact-form" action="https://formsapi.jabwn.com/key/Wbc1pw97oFM9iVhOobLc" method="post">
+			<div class="grid grid--contact-form">
+				<div class="input-field">
+					<label class="input-field__label" for="name">Name *</label>
+					<input class="input-field__text-input js-text-input js-required-input" type="text" name="name" />
+				</div>
+				<div class="input-field">
+					<label class="input-field__label" for="email">Email address *</label>
+					<input class="input-field__text-input js-text-input js-required-input" type="text" name="email" />
+				</div>
+				<div class="input-field grid__full">
+					<label class="input-field__label" for="message">Message *</label>
+					<textarea class="input-field__text-input js-text-input js-required-input" name="message"></textarea>
+				</div>
+			</div>
+			
+			<a class="btn js-send-btn" type="submit">SEND</a>
+		</form>
+	</div>
+</section>
