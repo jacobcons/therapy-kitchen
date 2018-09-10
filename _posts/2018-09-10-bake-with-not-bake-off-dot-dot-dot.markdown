@@ -5,6 +5,8 @@ tags:
 - nurture
 - sharing
 - happiness
+excerpt-preview: "*When* I rule the world, the first thing I will do is exchange >
+  Bake Off>  for a programme called > Baking *With*> ..."
 thumbnail-image: "/uploads/DSC_6912.jpg"
 ---
 
