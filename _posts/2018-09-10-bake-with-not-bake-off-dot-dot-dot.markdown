@@ -22,4 +22,4 @@ This summer, I have been lucky enough to lead family cooking workshops -sharing 
 
 These sessions continue to inspire my work today and I am busy dreaming up new recipes for the autumn term. When we bake with, everyone wins.  More than that, the feeling we get from those moments grows, and sustains our creative, community spirit.  Competitive moments of winners and losers offer only short term satisfaction.  When their time is gone (*Off*!), we, cooks of the world, will replace it *with*: 'Baking With'... Grandmother...?
 
-![IMG_0831.jpeg](/uploads/IMG_0831.jpeg) 
+                                ![IMG_0831.jpeg](/uploads/IMG_0831.jpeg) 
