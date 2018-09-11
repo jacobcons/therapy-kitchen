@@ -21,4 +21,5 @@ I learned to cook and bake with my grandmother. A key moment that has seeded my 
 This summer, I have been lucky enough to lead family cooking workshops -sharing and exchanging skills, stories and resources. My 20-year old daughter took time to join in. I was proud of her.  Everyone liked my recipes (phew), enjoyed the food they made and, more importantly, the process of cooking together. I felt good.  We all did. As they realised how good their food tasted, the smiles, the surprised looks, on everyone's faces, were utterly priceless.  Whilst we all felt pleased with our produce, we were also alongside each other - in it together, each finding our place around the table.  
 
 These sessions continue to inspire my work today and I am busy dreaming up new recipes for the autumn term. When we bake with, everyone wins.  More than that, the feeling we get from those moments grows, and sustains our creative, community spirit.  Competitive moments of winners and losers offer only short term satisfaction.  When their time is gone (*Off*!), we, cooks of the world, will replace it *with*: 'Baking With'... Grandmother...?
-![IMG_0831.jpeg](/uploads/IMG_0831.jpeg) 
+
+                                ![IMG_0831.jpeg](/uploads/IMG_0831.jpeg) 
