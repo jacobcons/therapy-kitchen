@@ -33,7 +33,7 @@ what-is-it:
     desc: Our word company comes from the Latin, 'con-panis - with bread', reflecting
       the importance of food in terms of communication, community and connection.  Kitchen
       therapy looks to bring people together and increase our understanding of one
-      another, through our shared need for both food and friendship.
+      another, through our shared need of food and friendship.
     bg-image: "/uploads/IMG_0779.jpg"
     bg-opacity: 0.7
 what-to-expect:
