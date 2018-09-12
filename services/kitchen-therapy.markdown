@@ -22,16 +22,17 @@ what-is-it:
     bg-image: "/uploads/DSC_6898-78e395.jpg"
     bg-opacity: 0.7
   - title: Creativity and change
-    desc: Cooking offers a direct connection with our unique human potential, the
-      daily task of preparing food, symbolically connects us with our capacity for
-      change, agency and healing potential.
+    desc: Cooking offers a direct connection with our unique human potential.  As
+      humans discovered how to make and use fire, they had their first taste of alchemy,
+      one that ignited consciousness.  Today's task of preparing food, symbolically
+      connects us with our capacity for change, agency and healing potential.
     bg-image: "/uploads/IMG_0628.jpg"
     bg-opacity: 0.7
   - title: Campfire Con-panis
     desc: Our word company comes from the Latin, 'con-panis - with bread', reflecting
-      the importance of food in terms of communication, as community and as friendship.  Kitchen
+      the importance of food in terms of communication, community and connection.  Kitchen
       therapy looks to bring people together and increase our understanding of one
-      another through food.
+      another, through the shared experience of the need for food and friendship.
     bg-image: "/uploads/IMG_0779.jpg"
     bg-opacity: 0.7
 what-to-expect:
