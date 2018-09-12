@@ -15,21 +15,24 @@ what-is-it:
   - title: Self care
     desc: Our first experience of love in the world is through food. Supported in
       the natural environment of the kitchen, we can rework our personal stories,
-      feelings and patterns.  Our mindfulness around both the nutritional and emotional
-      content of the food we make forms the basis of self-care.
+      feelings and patterns as we explore our relationship with food.  Our mindfulness
+      around both the nutritional and emotional content of the food we make forms
+      the basis of self-care - how this has been, how it is today and how we intend
+      it to be.
     bg-image: "/uploads/DSC_6898-78e395.jpg"
     bg-opacity: 0.7
   - title: Creativity and change
-    desc: Cooking offers a direct connection with our unique human potential, the
-      simple daily task of cooking, symbolically connects us with our capacity for
-      change, agency and healing potential.
+    desc: Cooking offers a direct connection with our unique human potential.  As
+      humans discovered how to make and use fire, they had their first taste of alchemy,
+      one that ignited consciousness.  Today's task of preparing food, symbolically
+      connects us with our capacity for change, agency and healing potential.
     bg-image: "/uploads/IMG_0628.jpg"
     bg-opacity: 0.7
   - title: Campfire Con-panis
-    desc: Our word company comes from the Latin, con-panis, reflecting the importance
-      of food in terms of communication, as community and as friendship.  Kitchen
+    desc: Our word company comes from the Latin, 'con-panis - with bread', reflecting
+      the importance of food in terms of communication, community and connection.  Kitchen
       therapy looks to bring people together and increase our understanding of one
-      another through food.
+      another, through the shared experience of the need for food and friendship.
     bg-image: "/uploads/IMG_0779.jpg"
     bg-opacity: 0.7
 what-to-expect:
