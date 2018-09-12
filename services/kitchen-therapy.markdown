@@ -22,11 +22,11 @@ what-is-it:
     bg-image: "/uploads/DSC_6898-78e395.jpg"
     bg-opacity: 0.7
   - title: Creativity and change
-    desc: Cooking offers a direct connection with our unique human potential.  As
-      humans discovered how to make and use fire, they had their first taste of alchemy,
-      one that ignited consciousness.  By bringing mindful attention to the preparation
-      of today's food, we can connect with our inner capacity for change, agency and
-      healing potential.
+    desc: Cooking offers a direct connection with our unique human potential.  When
+      humans discovered how to make and use fire, they were given their first taste
+      of alchemy, one that ignited consciousness.  By bringing mindful attention to
+      the preparation of today's food, we can connect with our inner capacity for
+      change, agency and healing potential.
     bg-image: "/uploads/IMG_0628.jpg"
     bg-opacity: 0.7
   - title: Campfire Con-panis
