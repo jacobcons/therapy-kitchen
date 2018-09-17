@@ -30,7 +30,7 @@ That's why I'd get rid of the competitive, 'who's the best?', **Bake Off**, and 
 
 I learned to cook and bake with my grandmother. A key moment that has seeded my career, was the taste of her tomato soup - made with the first home grown tomatoes of the season. An incredible, exquisite delight. The taste of gratitude spilled into my heart. That 'tomato soup moment' continues to feed my world today.  The memory stirs my cookery, sometimes my therapy sessions, reminding me that nourishment is as much about *nurture* as it is about nutrition.
 
-*What are your stories around food as you grew up? How can you draw on or possibly heal, these today in your kitchen.*
+*What are your stories around food as you grew up? How can you draw on or possibly heal, these today in your kitchen?*
 
 This summer, I have been lucky enough to lead family cooking workshops -sharing and exchanging skills, stories and resources. My 20-year old daughter took time to join in. I was proud of her.  Everyone liked my recipes (phew), enjoyed the food they made and, more importantly, the process of cooking together. I felt good.  We all did. As they realised how good their food tasted, the smiles, the surprised looks on everyone's faces, were utterly priceless.  Whilst we all felt pleased with our produce, we were also alongside each other - in it together, each finding our place around the table.  
 
