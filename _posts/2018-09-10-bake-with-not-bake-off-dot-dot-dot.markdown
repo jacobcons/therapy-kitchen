@@ -22,7 +22,7 @@ thumbnail-image: "/uploads/DSC_6912.jpg"
  
 WHEN I RULE THE WORLD, the first thing I will do is exchange 'Bake *Off*' for a programme called 'Baking *With*'.  Yes, like so many of us, I have a Walter Mitty fantasy life, in which one day I'm on Desert Island Discs, the next I'm in the stocks, too ashamed to even show my face.  In the real world, it is cooking that contains my neurotic imagination - where I can heal and satisfy my hunger (which is huge) at the levels of mind, body and spirit. 
 
-I have discovered through my research and work combining cookery teaching and therapy, that our kitchens are the perfect place to connect us with a multi sensory, multi layered, mindful experience of the here and now.  How and why we use the ingredients and recipes we choose, how we relate to the process and creativity of cooking; but most importantly, sharing the activity and our produce with others. 
+I have discovered through my research and work combining cookery teaching and therapy, that our kitchens are the perfect place to connect us with a mindful experience of the here and now.  How and why we use the ingredients and recipes we choose, how we relate to the process and creativity of cooking; but most importantly, how we can share the activity and our produce with others. 
 
 Because by sharing what I cook, whether that's in the preparation (I love a bit of help), in the audience (I love applause!) or simply connecting with the dish (I always fall a little in love), I am brought into the world of *belonging*. I feel *part of* my world when I take its resources and prepare a meal that I give to the table. Neurotic fantasies peeled away as compost fodder.
 
