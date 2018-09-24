@@ -102,8 +102,8 @@ td {
   display: flex;
   -ms-flex-direction: column;
       flex-direction: column;
-  -ms-flex-pack: justify;
-      justify-content: space-between; }
+  -ms-flex-pack: distribute;
+      justify-content: space-around; }
   @media (max-width: 56.25rem) {
     .flex-col {
       height: 8.125rem; } }

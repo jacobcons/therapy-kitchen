@@ -35,7 +35,7 @@
 .flex-col {
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: space-around;
   @media (max-width: $large) {
     height: calculate-rem(130px);
   }
