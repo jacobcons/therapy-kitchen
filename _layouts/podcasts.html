@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<section class="primary-section">
+	<div class="wrapper text-center">
+		<p class="text-wrapper">{{ page.intro }}</p>
+		<ul class="text-wrapper">
+		{% for podcast in page.podcasts %}
+			<li>{{ podcast.name }}<br /><a class="long-link" href="{{ podcast.link }}" target="_blank" rel="noopener">{{ podcast.link }}</a></li>
+		{% endfor %}
+		</ul>
+	</div>
+	
+</section>
