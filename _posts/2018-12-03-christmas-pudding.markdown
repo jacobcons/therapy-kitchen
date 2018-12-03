@@ -1,6 +1,15 @@
 ---
 title: Grandma's Christmas Pudding (and new silver wellies)
 date: 2018-12-03 09:34:00 Z
+categories:
+- christmas
+- time
+- love
+tags:
+- christmas pudding recipe
+- vegetarian christmas pudding
+- timelessness
+thumbnail-image: "/uploads/IMG_1199-ed10d9.jpeg"
 ---
 
 ![IMG_1204-4defc9.jpeg](/uploads/IMG_1204-4defc9.jpeg)
