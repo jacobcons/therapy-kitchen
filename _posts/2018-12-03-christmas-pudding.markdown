@@ -9,7 +9,7 @@ tags:
 - christmas pudding recipe
 - vegetarian christmas pudding
 - timelessness
-thumbnail-image: "/uploads/IMG_1199-ed10d9.jpeg"
+thumbnail-image: "/uploads/IMG_1199%202.jpeg"
 ---
 
 ![IMG_1204-4defc9.jpeg](/uploads/IMG_1204-4defc9.jpeg)
