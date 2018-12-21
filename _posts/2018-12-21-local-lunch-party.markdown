@@ -7,7 +7,7 @@ tags:
 - communtiy
 - money cant buy me love
 thumbnail-image: "/uploads/IMG_1280.jpeg"
-excerpt-previewBeing able to get together with members of my community: 
+Being able to get together with members of my community: 
 ---
 
 ![IMG_1279.jpeg](/uploads/IMG_1279.jpeg)![IMG_1281.jpeg](/uploads/IMG_1281.jpeg)![IMG_1262 2.jpeg](/uploads/IMG_1262%202.jpeg)
