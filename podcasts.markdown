@@ -16,7 +16,8 @@ podcasts:
 - name: 'This Jungian Life - Indecision - listen out for their thoughts on desires
     and appetites... '
   link: http://www.thisjungianlife.com/ep23/#comment-40
-- name: Casting a curiously critical eye across capitalist culture... food for thought...
+- name: Under the Skin - Russel Brand and guests casting a curiously critical eye
+    across capitalist culture... food for thought...
   link: https://www.russellbrand.com/podcasts/
 layout: podcasts
 ---
