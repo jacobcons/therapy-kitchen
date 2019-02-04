@@ -6,6 +6,8 @@ tags:
 - festive fun
 - communtiy
 - money cant buy me love
+excerpt-preview: 'Being able to get together with members of my community that would
+  otherwise pass me by, gives me a monthly boost! '
 thumbnail-image: "/uploads/IMG_1280.jpeg"
 Being able to get together with members of my community: 
 ---
