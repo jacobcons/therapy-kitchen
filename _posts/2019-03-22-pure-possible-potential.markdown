@@ -1,7 +1,21 @@
 ---
 title: Pure  Potential
 date: 2019-03-22 10:08:00 Z
+categories:
+- mung bean dahl
+tags:
+- food purity
+- eating clean
+- ayervedic detox pyschological nutrition
+- kitchen therapy
+- self care
+- nurture with food
+- attention
+excerpt-preview: This Jungian Life Podcast chimes with my personal cleanse diet
+thumbnail-image: "/uploads/IMG_2077-768x1024.jpg"
 ---
+
+![IMG_2094-1-150x150.jpg](/uploads/IMG_2094-1-150x150.jpg)
 
 A highlight of my week is listening to [This Jungian Life Podcast](http://www.thisjungianlife.com/heres-the-podcast/) - three Jungian analysts discussing issues and dreams of the day, lending me the feeling that I have three new therapeutic parents to call on.  I find their work both comforting and inspiring, amazed to find how often the topics they choose chime with what I need.  Last week, as I was in my Ayervedic detox programme (involving eating mung bean dahl for 10 days more or less - less on the day you fast completely) they discussed dietary over regulation and the pursuit of food purity.  In the UK known as 'eating clean'. Once again our paths crossed - they do feel familiar!
 
