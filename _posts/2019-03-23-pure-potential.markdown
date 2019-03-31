@@ -1,19 +1,6 @@
 ---
-title: Pure  Potential
-date: 2019-03-22 10:08:00 Z
-published: false
-categories:
-- mung bean dahl
-tags:
-- food purity
-- eating clean
-- ayervedic detox pyschological nutrition
-- kitchen therapy
-- self care
-- nurture with food
-- attention
-excerpt-preview: This Jungian Life Podcast chimes with my personal cleanse diet
-thumbnail-image: "/uploads/IMG_2077-768x1024.jpg"
+title: pure potential
+date: 2019-03-23 22:33:00 Z
 ---
 
 ![IMG_2094-1-150x150.jpg](/uploads/IMG_2094-1-150x150.jpg)
