@@ -15,7 +15,7 @@ thumbnail-image: "/uploads/IMG_0628-1a8fca.jpg"
 ---
 
 ![IMG_2085-150x150.jpg](/uploads/IMG_2085-150x150.jpg)![IMG_2094-1-150x150.jpg](/uploads/IMG_2094-1-150x150.jpg)
-Each day, as I prepare for work, I appreciate having a job I not only love, but consider an integral to my life.  As part of my personal practice, each spring I undertake an Ayurvedic detox diet, which means eating Mung Bean Dahl for roughly ten days, based around a fasting day.  This is an opportunity to observe my current relationship with food, whilst giving my digestive system a supportive break, and an invigorating spring clean!
+Each day, as I prepare for work, I appreciate having a job I not only love, but consider integral to my life.  As part of my personal practice, each spring I undertake an Ayurvedic detox diet, which means eating Mung Bean Dahl for roughly ten days, based around a fasting day.  This is an opportunity to observe my current relationship with food, whilst giving my digestive system a supportive break, and an invigorating spring clean!
 
 Regular research is also part of the job, so finding a therapeutic podcast - [This Jungian Life](http://http://www.thisjungianlife.com/heres-the-podcast/) - to listen to whilst I walk my hound, works a treat. I was intrigued to find their episode 'Food Purity and Dietary Restriction' synchronised with this cleanse programme.  Their discussion helped focus my sense of purpose and exploration during this quiet time, and offered a reassuring sense of inter-connection.  
 
