@@ -1,6 +1,17 @@
 ---
 title: Pure Potential
 date: 2019-03-26 13:47:00 Z
+categories:
+- pyschological nutrition
+tags:
+- ayurvedic detox
+- cleanse diet
+- eating clean
+- mung beans
+- nutrition
+excerpt-preview: "... As part of my personal practice, each spring I undertake an
+  Ayurvedic detox diet, which means eating Mung Bean Dahl for roughly ten days..."
+thumbnail-image: "/uploads/IMG_0628-1a8fca.jpg"
 ---
 
 ![IMG_2085-150x150.jpg](/uploads/IMG_2085-150x150.jpg)![IMG_2094-1-150x150.jpg](/uploads/IMG_2094-1-150x150.jpg)![IMG_2077-768x1024.jpg](/uploads/IMG_2077-768x1024.jpg)![IMG_2014-e1516400030461-1024x775.jpg](/uploads/IMG_2014-e1516400030461-1024x775.jpg)![IMG_0628-1a8fca.jpg](/uploads/IMG_0628-1a8fca.jpg)![IMG_0621.jpg](/uploads/IMG_0621.jpg)
