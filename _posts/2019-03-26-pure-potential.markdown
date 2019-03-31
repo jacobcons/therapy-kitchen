@@ -3,6 +3,10 @@ title: Pure Potential
 date: 2019-03-26 13:47:00 Z
 ---
 
+![IMG_2085-150x150.jpg](/uploads/IMG_2085-150x150.jpg)![IMG_2094-1-150x150.jpg](/uploads/IMG_2094-1-150x150.jpg)![IMG_2077-768x1024.jpg](/uploads/IMG_2077-768x1024.jpg)![IMG_2014-e1516400030461-1024x775.jpg](/uploads/IMG_2014-e1516400030461-1024x775.jpg)![IMG_0628-1a8fca.jpg](/uploads/IMG_0628-1a8fca.jpg)![IMG_0621.jpg](/uploads/IMG_0621.jpg)
+
+
+
 Each day, as I prepare for work, I am reminded how fortunate I have a job I not only love, but consider an integral part of my life.  As part of my personal practice, each spring I undertake an Ayurvedic detox diet, which means eating Mung Bean Dahl for roughly ten days, based around a fasting day.  This is an opportunity to observe my current relationship with food, whilst giving my digestive system a supportive break, and an invigorating spring clean!
 
 Regular research is also part of the job, so finding a therapeutic podcast - This Jungian Life - to listen to whilst I walk my hound, works a treat. I was intrigued by their episode on 'Food Purity and Dietary Restriction' whilst I was emerged in my own cleanse programme. Their discussion helped focus my sense of purpose and exploration during this quiet time; their topics so often seem to synchronise with where I am which I find reassuring, inspiring a sense of purpose and connection.  
