@@ -19,6 +19,8 @@ excerpt-preview: Forgaging for your dinner, delicious, cheap and healthy too!
 thumbnail-image: "/uploads/IMG_1527.jpeg"
 ---
 
+![IMG_1558.jpeg](/uploads/IMG_1558.jpeg)
+
 During the holidays, I am lucky enough to work for Chomp, family food and fun whilst schools are off.  I love this part of my working calendar, spending time with families and people across Brighton's lively community.
 
 I also love the fact that such a greenly healthy dish as pesto, goes down so well with so many a fussy child.  The idea of these workshops is to have fun together whilst making great food to share.  It is by coming together to make their own pesto, their own way, that gets people on board.  > As well as those green leaves with their white flowers enticing people's foraging curiosity to the table....![IMG_1692.jpeg](/uploads/IMG_1692.jpeg)
