@@ -21,8 +21,8 @@ thumbnail-image: "/uploads/IMG_1527.jpeg"
 
 ![IMG_1558.jpeg](/uploads/IMG_1558.jpeg)
 
-During the holidays, I am lucky enough to work for Chomp, family food and fun whilst schools are off.  I love this part of my working calendar, spending time with families and people across Brighton's lively community. I also love the fact that such a greenly healthy dish as pesto, goes down so well with so many a fussy child.  The idea of these workshops is to have fun together whilst making great food to share.  It is by coming together to make their own pesto, their own way, that gets people on board.  As well as those green leaves with their white flowers enticing people's foraging curiosity to the table....![IMG_1692.jpeg](/uploads/IMG_1692.jpeg)
-
+During the holidays, I am lucky enough to work for Chomp, family food and fun whilst schools are off.  I love this part of my working calendar, spending time with families and people across Brighton's lively community. I also love the fact that such a greenly healthy dish as pesto, goes down so well with so many a fussy child.  The idea of these workshops is to have fun together whilst making great food to share.  It is by coming together to make their own pesto, their own way, that gets people on board.  As well as those green leaves with their white flowers enticing people's foraging curiosity to the table....!
+[IMG_1692.jpeg](/uploads/IMG_1692.jpeg)
 I get people to 'taste test' their way through quantities, using their intuition, senses and children to guide them.  One rule I use is: "You can always add more!"
 
 We are all naturally drawn to fresh leaves and cheese is an incredibly tempting ingredient (perfect ratio of protein to fat, that captivates our 'body brain'). Freshly foraged from the woods, my sense of earthy pleasure flows.  Out of season, I use the same recipe with garlic cloves, using growing herbs such as mint or the traditional basil, but always with the understated, frozen pea.  Full of protein, sweetly green and packed with vitamins, in a freezer near you, they're a true kitchen trooper.
