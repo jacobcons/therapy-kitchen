@@ -5,7 +5,7 @@ date: 2019-04-12 15:02:00 Z
 
 During the holidays, I am lucky enough to work for Chomp, family food and fun whilst schools are off.  I love this part of my working calendar, spending time with families and people across Brighton's lively community.
 
-I also love the fact that such a greenly healthy dish as pesto, goes down so well with the ubiquitously fussy child.  The idea of these workshops is to have fun together whilst making great food to share.  It is by coming together to make their own pesto, their own way, that gets people on board.  as well as those green leaves with their white flowers enticing people's foraging curiosity to the table....
+I also love the fact that such a greenly healthy dish as pesto, goes down so well with the ubiquitously fussy child.  The idea of these workshops is to have fun together whilst making great food to share.  It is by coming together to make their own pesto, their own way, that gets people on board.  as well as those green leaves with their white flowers enticing people's foraging curiosity to the table....![IMG_1692.jpeg](/uploads/IMG_1692.jpeg)
 
 I get people to test their way through quantities, using their intuition and senses to guide them.  One rule I use is: > > "You can always add more!"
 
@@ -20,3 +20,5 @@ Here's how to do it:
 5. Zest and juice of at least one lemon
 6. Few glugs of olive oil.
 7. Salt and pepper to taste (you might not need any salt with the garlic and lemon doing their tasty job so well)
+8. Either mash with fork, pestle and mortar or blitz in a blender for a smoother (more washing up) finish.
+9. Use as carrot stick dip, with pasta for dinner, in a sandwich for lunch, as an alternative to tomato pizza base... or just straight from the bowl.![IMG_1626.jpeg](/uploads/IMG_1626.jpeg)
