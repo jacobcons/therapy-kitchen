@@ -37,5 +37,6 @@ Here's how to make this month's Hey Pesto:
 6. Zest and juice of at least one lemon
 7. Few glugs of olive oil.
 8. Salt and pepper to taste (you might not need any salt with the garlic and lemon doing their tasty job so well)
-9. Either mash with fork, pestle and mortar or blitz in a blender for a smoother (more washing up) finish.
-10. Use as carrot stick dip, with pasta for dinner, in a sandwich for lunch, as an alternative to tomato pizza base... or just straight from the bowl.!!!
+9. Drain and rinse your seeds, then with everything added to bowl...
+10. Either mash with fork, pestle and mortar or blitz in a blender for a smoother (more washing up) finish.
+11. Use as carrot stick dip, with pasta for dinner, in a sandwich for lunch, as an alternative to tomato pizza base... or just straight from the bowl.!!!
