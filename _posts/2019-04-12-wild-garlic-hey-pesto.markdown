@@ -10,11 +10,11 @@ tags:
 - wild garlic
 - frozen peas
 - pesto
-- family fun
 - forgaging fun
 - seasonal food
 - healthy treats
 - wild cooking
+- family cooking
 excerpt-preview: Forgaging for your dinner, delicious, cheap and healthy too!
 thumbnail-image: "/uploads/IMG_1527.jpeg"
 ---
@@ -24,7 +24,7 @@ During the holidays, I am lucky enough to work for Chomp, family food and fun wh
 
 I get people to 'taste test' their way through quantities, using their intuition, senses and children to guide them.  One rule I use is: "You can always add more!"
 
-We are all naturally drawn to fresh leaves and cheese is an incredibly tempting ingredient (perfect ratio of protein to fat, that captivates our 'body brain'). Freshly foraged from the woods, my sense of earthy pleasure flows.  Out of season, I use the same recipe with garlic cloves, using growing herbs such as mint or the traditional basil, but always with the understated, frozen pea.  Full of protein, sweetly green and packed with vitamins, in a freezer near you, they're a true kitchen trooper.  Traditional pesto brings more fuel into play with nuts, but I use seeds (sunflower and pumpkin) partly because they're cheaper, to avoid allergy issues and because I love reminding kids that they're taking in sunflower and pumpkin power into their bodies - delicious, healthy fun
+We are all naturally drawn to fresh leaves and cheese is an incredibly tempting ingredient (perfect ratio of protein to fat, that captivates our 'body brain'). Freshly foraged from the woods, my sense of earthy pleasure flows.  Out of season, I use the same recipe with garlic cloves, using growing herbs such as mint or the traditional basil, but always with the understated, frozen pea.  Full of protein, sweetly green and packed with vitamins, in a freezer near you, they're a true kitchen trooper.  Traditional pesto brings more fuel into play with nuts, but I use seeds (sunflower and pumpkin) partly because they're cheaper, to avoid allergy issues and because I love reminding kids that they're taking in sunflower and pumpkin power into their bodies - delicious, healthy fun.
 
 Here's how to make this month's Hey Pesto:
 
