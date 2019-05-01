@@ -39,3 +39,4 @@ Here's how to make this month's Hey Pesto:
 9. Drain and rinse your seeds, then with everything added to bowl...
 10. Either mash with fork, pestle and mortar or blitz in a blender for a smoother (more washing up) finish.
 11. Use as carrot stick dip, with pasta for dinner, in a sandwich for lunch, as an alternative to tomato pizza base... or just straight from the bowl.!!!
+ps. added bonus: as part of the onion family, wild garlic is a PREBIOTIC, which means it feeds the good PROBIOTIC bacteria in our guts
