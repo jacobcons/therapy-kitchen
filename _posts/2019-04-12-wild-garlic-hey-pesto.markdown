@@ -24,15 +24,14 @@ During the holidays, I am lucky enough to work for Chomp, family food and fun wh
 
 I get people to 'taste test' their way through quantities, using their intuition, senses and children to guide them.  One rule I use is: "You can always add more!"
 
-We are all naturally drawn to fresh leaves and cheese is an incredibly tempting ingredient (perfect ratio of protein to fat, that captivates our 'body brain'). Freshly foraged from the woods, my sense of earthy pleasure flows.  Out of season, I use the same recipe with garlic cloves, using growing herbs such as mint or the classic basil, but always with the understated, frozen pea.  Full of protein, sweetly green and packed with vitamins, in a freezer near you, they're a true kitchen trooper.  Traditional pesto brings more fuel into play with nuts, but I use seeds (sunflower and pumpkin) partly because they're cheaper, to avoid allergy issues and because I love reminding kids that they're taking in sunflower and pumpkin power into their bodies - delicious, healthy fun.
+We are naturally drawn to fresh leaves and cheese is an incredibly tempting ingredient (perfect ratio of protein to fat, that captivates our 'body brain'). Freshly foraged from the woods, my sense of earthy pleasure flows.  Out of season, I use the same recipe with garlic cloves, using growing herbs such as mint or the classic basil, but always with the understated, frozen pea.  Full of protein, sweetly green and packed with vitamins, in a freezer near you, they're a true kitchen trooper.  Traditional pesto brings more fuel on board with nuts, but I use seeds (sunflower and pumpkin) partly because they're cheaper, to avoid allergy issues, but mainly because I love reminding kids that they're taking in 'sunflower and pumpkin power' into their bodies - delicious, healthy fun.
 
 Here's how to make this month's Hey Pesto:
 
-1. Soak seeds for at least 4 hours to start their nutrition trigger.
-
-2.  Pick some wild garlic from lowland woods. I am careful to avoid the flowers which I guess will be needed more in situ. Wash thoroughly and roughly chop.
-3. Defrost handful (per person) or so of peas (if you've got some over, you can add as garnish or into a salad)
-4.  Crumble in packet of feta (any cheese you like is fine, I just think this works the best)
+1. Soak seeds for at least 4 hours to activate their nutrition trigger.
+2.  Pick some wild garlic from lowland woods. Your nose should guide you towards it, swathes of luscious, onion family emerald green. Wash thoroughly and roughly chop roughly.
+3. Defrost handful (per person) or so of peas (if you've got some over, you can add as garnish or into a salad). No need to cook them, this way they remain full of their potential, and are easier for you to use!
+4.  Crumble in packet of feta (any cheese you like is fine, I just think this works the best).
 5. If you have it, some cream cheese softens the flavours and adds more luxury.
 6. Zest and juice of at least one lemon
 7. Few glugs of olive oil.
