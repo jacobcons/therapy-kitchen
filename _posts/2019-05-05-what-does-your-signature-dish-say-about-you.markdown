@@ -9,8 +9,8 @@ Having one of my better ideas, I decided to invite myself for lunch a while back
 
 Recently, I invited a dear friend for lunch, to tell me about her signature dish.  On her way to work, Amanda arrived in characteristic bohemian chic, full of Brighton breezy laughter.  I had made the wild garlic, mushroom miso soup that is my current favourite dish, as I know she's gluten, dairy and mainly meat free.
 
-How to make the soup: 
-1. collect wild garlic (out of season use garlic cloves and peas instead)
+**How to make the soup:** 
+1. Collect wild garlic (out of season use garlic cloves and peas instead)
 2. Chop a mushroom, if time and fridge allows, an onion and celery stick too.
 3.  Saute the celery and onion if using (as the wild garlic is of the onion family, you can do without), with a bay leaf and generous grind of black pepper (putting it in now, seals in its hot spiciness for a healthy kick).
 4. Boil a kettle
@@ -18,5 +18,8 @@ How to make the soup:
 6. Add boiling water and spoonful or so of the following flavours - stock, soy sauce, rice vinegar, sweet chilli sauce, zest and juice of a lime or lemon - taste check your way through!
 7. Take it off the heat, stir in your miso paste, about a spoonful per bowl full and finally 
 8. Chop in your wild garlic, final taste check, and if you need, super quick blast of extra heat (not too much as you will weaken the miso and garlic raw power blast)
-9. Serve to self and or friend with sigh of content (how good does it get?). 
+9. Serve to self and or friend with sigh of content (how good does it get?).
+
+Amanda is off to work (laughter yoga session today, which she often combines with chocolate making workshops - perfect combination), so we get straight into lunch and interview:
+"Have we started recording already?" - yes, not to worry, this won't be a podcast of our spoon clinking lunch conversation! "Well, I found it really hard to think of what my signature dish would be, even if I'm following a recipe, I change it each time depending on my mood, what's inspiring me or what's in the cupboards." - so I guess creative 'of the moment' would be your signature dish? "Absolutely, but as my life is so busy, my head's often full of work, sales, accounting... so many facets to life, that my brain is often too full to be creative." ah, so what happens when there's no time to cook?  "Well yesterday lunch was an onion baji with tofu, red pesto and tuna.. was delicious! - I just have to be creative with the time and things I have!  what I like to do, is choose things that appeal to me during the day, little ideas and turn those into a meal"  mmm, du ever find, that having gathered what you fancy, what you ought etc during the day, that by the time you come to cook in the evening, you're over it, and can't be bothered? "Oh god yes - like when I got married..." having planned the wedding, Amanda felt she'd done it, so she spent the money on a new kitchen instead!  
  
