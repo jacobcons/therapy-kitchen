@@ -27,5 +27,8 @@ When our composure returned, I asked Amanda what her dish of the moment would be
 
 We went on to think about the past, and how she used to find cooking a full on nutritious meal for her son, an essential and rewarding daily task.  A simple and easy way to feel like a good parent.  However, when a long distance relationship came along, somehow, life came disrupted.  Now settled out of town, with the space to breathe, she's once again enjoying both cooking and being cooked for.  Returning this time, to that nurturing space, to look after (and be looked after) as being (almost) as important as caring for GCSE studying Ned.
 
-As we talked through what it meant  
+As we talked through what it meant to be able (or not) to cook for her son, Amanda realised that in spending time 'just' cooking for herself, she seemed to feel guilty.  As we put our various musings together that lunch time, we realised how easy it is to move away from oneself, in the pursuit of 'other' aims.  That cooking does provide a quick gateway to self care, but that we often seem to require someone else to justify using the key.  
+
+I read somewhere that we should look after ourselves like a small child - fresh air, plenty of rest, good food, time to play... as ever, our children can show us the way, if we listen and follow their lead.
+![IMG_1782-300x200.jpg](/uploads/IMG_1782-300x200.jpg)   
  
