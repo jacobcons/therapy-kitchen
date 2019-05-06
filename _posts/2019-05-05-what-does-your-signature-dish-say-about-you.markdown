@@ -1,6 +1,17 @@
 ---
 title: What does your signature dish say about you?
 date: 2019-05-05 14:17:00 Z
+tags:
+- signature dish
+- wild garlic
+- mushrooms
+- soup
+- ginger
+- friendship
+- kitchen therapy
+excerpt-preview: "...how we cook, reflects something significant about who we are,
+  how we feel and what we might need.  "
+thumbnail-image: "/uploads/IMG_0779.jpg"
 ---
 
 ![IMG_0779.jpg](/uploads/IMG_0779.jpg)One of the key aspects of Kitchen Therapy is that the way we eat, how we cook, reflects something significant about who we are, how we feel and what we might need.  One way in to this conversation with ourselves, is to think of a favourite meal, or a signature dish.  Remembering where you first had it, what's special about it and so on.
