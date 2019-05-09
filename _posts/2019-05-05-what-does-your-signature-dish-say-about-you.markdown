@@ -30,7 +30,7 @@ As we talked through what it meant to be able (or not) to cook for her son, Aman
 
 I read somewhere that we should look after ourselves like a small child - fresh air, plenty of rest, good food, time to play... as ever, our children can show us the way, if we listen and follow their lead.
 
-![IMG_1782-300x200.jpg](/uploads/IMG_1782-300x200.jpg)
+          ![IMG_1782-300x200.jpg](/uploads/IMG_1782-300x200.jpg)
 
 **How to make the soup:**   
 ![IMG_1713.jpeg](/uploads/IMG_1713.jpeg)![IMG_1690.jpeg](/uploads/IMG_1690.jpeg)![IMG_1694.jpeg](/uploads/IMG_1694.jpeg)![IMG_1723.jpeg](/uploads/IMG_1723.jpeg)
