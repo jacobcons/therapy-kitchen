@@ -22,7 +22,8 @@ One of the key aspects of Kitchen Therapy is that the way we eat, how we cook, r
 
 When our composure returned, I asked Amanda what her dish of the moment would be. She went off to grab photos of the recipe that her rather lovely man had recently cooked for her, to her great pleasure (and that of her teenage lad).
 
-![3ed0a34c-dffe-4d64-8080-915b0a0126f7.jpeg](/uploads/3ed0a34c-dffe-4d64-8080-915b0a0126f7.jpeg)![8f7dbfd0-b745-4fe6-b7e4-12df3ffcff06.jpeg](/uploads/8f7dbfd0-b745-4fe6-b7e4-12df3ffcff06.jpeg)  Whilst cooking is satisfying, being cooked for is sublime.  
+![3ed0a34c-dffe-4d64-8080-915b0a0126f7.jpeg](/uploads/3ed0a34c-dffe-4d64-8080-915b0a0126f7.jpeg)![8f7dbfd0-b745-4fe6-b7e4-12df3ffcff06.jpeg](/uploads/8f7dbfd0-b745-4fe6-b7e4-12df3ffcff06.jpeg)
+Whilst cooking is satisfying, being cooked for is sublime.  
 
 We went on to think about the past, and how she used to find cooking a full on nutritious meal for her son, an essential and rewarding daily task.  A simple and easy way to feel like a good parent.  However, when a long distance relationship came along, somehow, life came disrupted.  Now settled out of town, with the space to breathe, she's once again enjoying both cooking and being cooked for.  Returning this time, to that nurturing space, to look after (and be looked after) as being (almost) as important as caring for GCSE studying Ned.
 
@@ -30,7 +31,7 @@ As we talked through what it meant to be able (or not) to cook for her son, Aman
 
 I read somewhere that we should look after ourselves like a small child - fresh air, plenty of rest, good food, time to play... as ever, our children can show us the way, if we listen and follow their lead.
 
-          ![IMG_1782-300x200.jpg](/uploads/IMG_1782-300x200.jpg)
+![IMG_1782-300x200.jpg](/uploads/IMG_1782-300x200.jpg)
 
 **How to make the soup:**   
 ![IMG_1713.jpeg](/uploads/IMG_1713.jpeg)![IMG_1690.jpeg](/uploads/IMG_1690.jpeg)![IMG_1694.jpeg](/uploads/IMG_1694.jpeg)![IMG_1723.jpeg](/uploads/IMG_1723.jpeg)
