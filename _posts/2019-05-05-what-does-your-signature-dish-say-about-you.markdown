@@ -23,13 +23,14 @@ One of the key aspects of Kitchen Therapy is that the way we eat, how we cook, r
 When our composure returned, I asked Amanda what her dish of the moment would be. She went off to grab photos of the recipe that her rather lovely man had recently cooked for her, to her great pleasure (and that of her teenage lad).
 
 ![3ed0a34c-dffe-4d64-8080-915b0a0126f7.jpeg](/uploads/3ed0a34c-dffe-4d64-8080-915b0a0126f7.jpeg)![8f7dbfd0-b745-4fe6-b7e4-12df3ffcff06.jpeg](/uploads/8f7dbfd0-b745-4fe6-b7e4-12df3ffcff06.jpeg)
-Whilst cooking is satisfying, being cooked for is sublime.  The feeling of being looked after, cherished even with a meal, speaks a thousand 'sweet nothings' our ear.  
 
-Thoughts of being cared for led us to think about the past, and how she used to find cooking a full on nutritious meal for her son, an essential and rewarding daily task.  A simple and easy way to feel like a good parent.  However, when a long distance relationship came along, life came disrupted.  Now settled out of town, with the space to breathe, she's once again enjoying both cooking and being cooked for.  The difference this time, is in being able to return, and receive this maternal, nurturing care to herself as well as needing to give this to others. A new phase of life.
+Whilst cooking is satisfying, being cooked for is sublime.  The feeling of being looked after, cherished, with a meal, speaks a thousand 'sweet nothings' in our ear.  
+
+Thoughts of being cared for led us to think about the past, and how she used to find cooking a full on nutritious meal for her son, an essential and rewarding daily task.  A simple and easy way to feel like a good parent.  However, when a long distance relationship came along, life became disrupted.  Now settled out of town, with the space to breathe, she's once again enjoying both cooking and being cooked for.  The difference this time, is in being able receive this maternal nurture, as well as needing to give this to others. A new phase of life.  Lessons learned.
 
 As we talked through what it meant to be able (or not) to cook for her son, Amanda realised that in spending time 'just' cooking for herself, she seemed to feel guilty.  As we put our various musings together that lunch time, we realised how easy it is to move away from oneself, in the pursuit of 'other' aims.  That cooking does provide a quick gateway to self care, but that we often seem to require someone else to justify using the key.  
 
-I read somewhere that we should look after ourselves like a small child - fresh air, plenty of rest, good food, time to play... as ever, our children can show us the way, if we listen and follow their lead... Remembering that there is inside a precious part of ourselves that never will, can or needs to grow up.
+I read somewhere that we should look after ourselves like a small child - fresh air, plenty of rest, good food, time to play... as ever, our children can show us the way, if we listen and follow their lead... Remembering that there is inside a precious part of ourselves that never can, will or needs to grow up.
 
 ![IMG_1782-300x200.jpg](/uploads/IMG_1782-300x200.jpg)
 
