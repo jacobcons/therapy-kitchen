@@ -19,14 +19,23 @@ One of the key aspects of Kitchen Therapy is that the way we eat, how we cook, r
  
 Amanda is off to work (laughter yoga session today, which she often combines with chocolate making workshops - perfect combination), so we get straight into lunch and interview:
 "Have we started recording already?"
+
 yes, not to worry, this won't be a podcast of our spoon clinking lunch conversation!
+
 "Well, I found it really hard to think of what my signature dish would be, even if I'm following a recipe, I change it each time depending on my mood, what's inspiring me or what's in the cupboards."
+
 so I guess creative 'of the moment' would be your signature dish?
+
 "Absolutely, but as life is so busy, my head's often full of work, sales, accounting... so many facets to life, that my brain is often too full to be creative."
+
 ah, so what happens when there's no time to cook?
+
 "Well yesterday lunch was an onion baji with tofu, red pesto and tuna.. was delicious! - I just have to be creative with the time and things I have!  what I like to do, is choose things that appeal to me during the day, little ideas and turn those into a meal"
+
 I wonder if she ever finds, as I do, that sometimes I can spend so much time thinking about what I fancy and maybe ought to eat, that when it comes round to cooking, I'm over it, and have to start all over again...?!
+
 "Oh god yes (rather long, poignant pause) - like when I was getting married... having gone into all the gorgeous romantic ideas, saw people arriving, lay awake listening to speeches... Well, I'd been there, and I felt like I'd done it..."
+
 So, she began again, and decided to spend the money on a new kitchen instead! Amanda never fails in her ability to spring delightful moments of hilarity on me, but then I find for us all, as we delve into our relationship with food and cooking, all sorts of treasures are unveiled.
 
 When our composure returned, I asked what her dish of the moment would be. She went off to grab photos of the recipe that her rather lovely man had recently cooked for her, to her great pleasure (and that of her teenage lad).  Cod with prawns and fennel in a white wine sauce, unbelievably good. She, like me, adores fennel, and I have that sense of connection, as I think about adding the fresh fennel I found waiting in the fridge to today's soup. (I use fennel seeds in nearly everything these days, great for digestion and a sweet hint of aniseed, which I love.)
