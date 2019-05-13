@@ -59,7 +59,7 @@ I read somewhere that we should look after ourselves like a small child - fresh 
 3. Sizzle gently black or green ground pepper with some fennel seeds and a bay leaf, to seal in their spicy notes, laying a gently exotic flavour foundation.
 3.  Saute the celery and onion if using (as the wild garlic is of the onion family, you can do without).
 4. Boil a kettle
-5. Add the mushrooms to the pan, sauté for a minute or so
+5. Add the mushrooms to the pan, sauté for a minute or so, I also added the fresh fennel at this point, you can maybe use up a courgette or another patiently waiting vegetable in the bottom draw!
 6. Add boiling water and spoonful or so of the following flavours - stock, soy sauce, rice vinegar, sweet chilli sauce, zest and juice of a lime or lemon - taste check your way through! (I sometimes add frozen peas for their sweet green protein 'high five'.) 
 7. Take it off the heat, stir in your miso paste, about a spoonful per bowl full 
 8. Chop in your wild garlic, final taste check, and if you need, super quick blast of extra heat (not too much as you will weaken the miso and garlic raw power blast)
