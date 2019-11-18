@@ -20,6 +20,6 @@ A recent trip to my aunt in Worcester has given me a basket of crab apples to pl
 We have been on a long journey separating ourselves from our mother, Nature.  It is a compelling argument that this begins with cooking. Learning how to make and manipulate fire, and provide for ourselves with ingenuity, creativity and desire is our human destiny - both as a species and as a person.  However, when we loose our connection to the source, we also loose our connection to our herd, our pack, our community that is fundamental to who we are: a social being, who desires their place at Nature's table alongside the other birds, beasts, nuts and berries...
 
 There is nothing quite like foraging for food.   Picking berries from my aunt's abundant garden brought me closer to her, and close enough to hear Nature's message that it is time to prepare for an unusually tough winter. Whilst cooking has separated us from the natural world, making us feel special and different, by tuning into the food we make, we can choose to come home.  Make winter stores to brighten and nourish dreary days, uses our natural resourceful talents - bringing a sense of gratitude for Nature's plan of challenging delights.
-![IMG_0500-69507a.jpg](/uploads/IMG_0500-69507a.jpg)
+![IMG_0503-dd3a34.jpg](/uploads/IMG_0503-dd3a34.jpg)
 
  
