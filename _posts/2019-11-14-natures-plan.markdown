@@ -10,8 +10,8 @@ thumbnail-image: "/uploads/IMG_0503.jpg"
 ---
 
 ![IMG_0503.jpeg](/uploads/IMG_0503.jpeg)
-![IMG_2983.jpeg](/uploads/IMG_2983.jpeg)
-![IMG_2993.jpeg](/uploads/IMG_2993.jpeg)
+![IMG_0502.jpeg](/uploads/IMG_0502.jpeg)
+![IMG_2983-190fd4.jpeg](/uploads/IMG_2983-190fd4.jpeg)
 
 Have you noticed the abundance of acorns, holly berries and the like this autumn?  Well, there they are and several people have now told me that the more nuts and fruit that appear on the trees, the harder the winter will be... as I was dwelling on this, the weather suddenly became harsher and their words came back, alongside the realisation that Nature prepares us for what lies ahead.  We are all getting the message that we need to plan (as She herself has done) for a long, hard winter, with a wealth of fruits and nuts to store away.
 
