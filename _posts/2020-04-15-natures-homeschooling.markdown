@@ -1,11 +1,20 @@
 ---
 title: Nature's Homeschooling
 date: 2020-04-15 10:14:00 Z
+tags:
+- nettles
+- wild garlic
+- nature
+excerpt-preview: "“Nature has sent us all to our Rooms” - says it all..."
+thumbnail-image: "/uploads/IMG_3859.jpeg"
 ---
 
 ![IMG_3865 2.jpeg](/uploads/IMG_3865%202.jpeg)
 ![IMG_3813.jpeg](/uploads/IMG_3813.jpeg)
 ![IMG_3898.jpeg](/uploads/IMG_3898.jpeg)
+![IMG_3889.jpeg](/uploads/IMG_3889.jpeg)
+![IMG_3791.jpeg](/uploads/IMG_3791.jpeg)
+![IMG_3762.jpeg](/uploads/IMG_3762.jpeg)
 
 The adroit meme that explained “Nature has sent us all to our Rooms”, says it all.  Desperately nagging at us for some time now, Nature is demanding change, a chance to reset.  Our busy, consumer driven lives, have come severely out of balance, in a world that counts profit over people and planet. We have lost ourselves (an elderly neighbour stopped me in my tracks to tell me that I would meet myself coming back one day) lost sight of what we truly need in our misdirected search for more of what we don’t need (of which there is never enough).  So, here we are in our rooms, reflecting and learning in Nature’s soulful classroom.
 
@@ -16,7 +25,7 @@ The second lesson appears as we take hold of our own spoon and begin to feed our
 It is this cooperation and equality around the campfire/watering hole that informs Kitchen Therapy.  Our competitive, greedier drives have been exploited in our fuel focused world, that fills its belly with stuff, forgetting about the feelings that truly sustain us, long after the meal is gone.  I wonder if Nature is hoping to reconnect us with our shared reality on this planet, our profound interconnection and the need we have for each other.  A need that has been hijacked in the race for stuff, stuff and more stuff. The speed at which people have come together, offering help and getting involved in their local communities, plays testament to how willing and ready to listen and learn.
 
 A clip on one of my feeds just said *“… it puts humans in perspective, locked in their homes, is it sending us a mess age, the earth, water and sky are fine without you, when you come back remember, you are my guests not my masters.”*  It is sad to see how our competitive narratives trip off the tongue with messages like *“We are going to beat this!!”*  No, we are not going to win against Nature, and I am not sure she sees herself in a battle with us.  She wants us to sit up and listen, recognise our limited power, the reality that people trump profit. I am struck by how she’s laid on this amazing sunshine to strengthen our immune systems.  How all around us are immune supporting resources like wild garlic and nettles. Nature has not abandoned us. Yes, she is wielding her power, but all she asks really is our attention, to sit back and see beyond our own limited lives.
-![IMG_3769.jpeg](/uploads/IMG_3769.jpeg)
+
 **Nettles**. Whilst in my room, I have been learning from nettles.  Those that know have been extolling their nutrition rich virtues for some time now, all I could connect with was a menacing, apparently worthy, weed.  As my students often have their struggles with greens such as celery, only able to remember the fibrous, watery crunch, it is about asking them to get to know the ingredient, how it tics, what it has to offer.  Just like a person whom we take a dislike to, who seemed spikey.  If we take the time to find out, we normally discover something about them that we connect with and maybe wonder about what vulnerability they are protecting behind the spikes.
 
 Getting to know stinging nettles has been just like this for me.  Lurking in rampant vibrancy behind my studio in a guilty mess of unused space, these nutrition packed ninjas were just waiting to be discovered!  Their sting is not the one my childhood self remembers, and is soon managed with respectful gloves and melts under the care of being cooked quickly in boiling water, or slowly in the drying heat of the sun, thereby stored for later months.
@@ -27,6 +36,7 @@ I cannot tell you the pleasure it has been to open into my ancestor’s recipe b
 
 As the shops are a tad daunting, not to mention, slightly empty, our feelings of loss and fear for the future are triggered.  Nature does need us to learn a lesson or two.  To rekindle a respectful relationship to her. To remember who we are, loving, cooperative and creative little creatures who’ve lost their way in a crazed, consumerist world.
 
-Being in our rooms, finding what there is there to play with, reminds us of Nature’s supportive abundance, hidden at the back of our secret, guilty garden… ![IMG_3859.jpeg](/uploads/IMG_3859.jpeg)
+Being in our rooms, finding what there is there to play with, reminds us of Nature’s supportive abundance, hidden at the back of our secret, guilty garden… 
+![IMG_3742-61ff80.jpeg](/uploads/IMG_3742-61ff80.jpeg)
 
 
