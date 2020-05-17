@@ -10,11 +10,7 @@ thumbnail-image: "/uploads/IMG_3859.jpeg"
 ---
 
 ![IMG_3865 2.jpeg](/uploads/IMG_3865%202.jpeg)
-![IMG_3813.jpeg](/uploads/IMG_3813.jpeg)
-![IMG_3898.jpeg](/uploads/IMG_3898.jpeg)
-![IMG_3889.jpeg](/uploads/IMG_3889.jpeg)
-![IMG_3791.jpeg](/uploads/IMG_3791.jpeg)
-![IMG_3762.jpeg](/uploads/IMG_3762.jpeg)
+![IMG_3858.jpeg](/uploads/IMG_3858.jpeg)
 ![IMG_3742-61ff80.jpeg](/uploads/IMG_3742-61ff80.jpeg)
 
 The adroit meme that explained “Nature has sent us all to our Rooms”, says it all.  Desperately nagging at us for some time now, Nature is demanding change, a chance to reset.  Our busy, consumer driven lives, have come severely out of balance, in a world that counts profit over people and planet. We have lost ourselves (an elderly neighbour stopped me in my tracks to tell me that I would meet myself coming back one day) lost sight of what we truly need in our misdirected search for more of what we don’t need (of which there is never enough).  So, here we are in our rooms, reflecting and learning in Nature’s soulful classroom.
