@@ -18,7 +18,7 @@ podcasts:
   link: http://www.thisjungianlife.com/ep23/#comment-40
 - name: Under the Skin - Russel Brand and guests casting a curiously critical eye
     across capitalist culture... food for thought...
-  link: https://www.russellbrand.com/podcasts/
+  link: https://www.russellbrand.com/podcast/
 layout: podcasts
 ---
 
