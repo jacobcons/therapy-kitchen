@@ -5,7 +5,7 @@ position: 4
 page-title: Podcasts -- Therapy Kitchen
 banner-image: "/uploads/nuts-banner.jpg"
 banner-image-position: center
-intro: Our own ones are coming soon… in the meantime
+intro: 'Other podcasts:'
 podcasts:
 - name: Start the Week - The Science of the Mind - @bbcradio4
   link: https://www.bbc.co.uk/programmes/b047wnyf
