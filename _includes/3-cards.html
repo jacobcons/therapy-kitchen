@@ -1,0 +1,18 @@
+<div class="grid grid--3-1">
+	{% for card in include.cards %}
+		<div class="card card--bg-image" style="background-image: url('{{ card.bg-image }}');">
+			<div class="card__bg-image" style="opacity: {{ card.bg-opacity }}"></div>
+			<div class="card__content">
+				<div class="card__top">
+					<h2 class="card__title">{{ card.title }}</h2>
+					<p class="card__text">{{ card.desc }}</p>
+				</div>
+				{% if include.read-more == true %}
+					<div class="card__bottom">
+						<a href="{{ card.url }}" class="card__more">Read More</a>
+					</div>
+				{% endif %}
+			</div>
+		</div>
+	{% endfor %}
+</div>
