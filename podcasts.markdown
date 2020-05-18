@@ -5,7 +5,7 @@ position: 4
 page-title: Podcasts -- Therapy Kitchen
 banner-image: "/uploads/nuts-banner.jpg"
 banner-image-position: center
-intro: Our own ones are coming soon… in the meantime
+intro: 'Other podcasts:'
 podcasts:
 - name: Start the Week - The Science of the Mind - @bbcradio4
   link: https://www.bbc.co.uk/programmes/b047wnyf
@@ -16,6 +16,9 @@ podcasts:
 - name: 'This Jungian Life - Indecision - listen out for their thoughts on desires
     and appetites... '
   link: http://www.thisjungianlife.com/ep23/#comment-40
+- name: Under the Skin - Russel Brand and guests casting a curiously critical eye
+    across capitalist culture... food for thought...
+  link: https://www.russellbrand.com/podcasts/
 layout: podcasts
 ---
 
