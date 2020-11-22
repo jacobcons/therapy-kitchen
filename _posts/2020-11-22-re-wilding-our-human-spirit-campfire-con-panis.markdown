@@ -9,3 +9,5 @@ Kitchen therapy is all about finding our sense of belonging as a human soul in a
 
 So, during lockdown and the challenges of isolation this has brought, many of us have found ourselves in the kitchen seeking solace, not just from the fridge opening with something ready to offer, but in the interaction of making food.  For many, there has been an opportunity (OK necessity) to return to simple, basic pleasures of making food for ourselves - as Nature intended. 
 
+Cooking is fundamental to who we are as a species.  The access to such a variety of resources and the creative confidence it afforded us, whilst feeding our growing minds, our specific human relationship to food defines us as a species.
+
