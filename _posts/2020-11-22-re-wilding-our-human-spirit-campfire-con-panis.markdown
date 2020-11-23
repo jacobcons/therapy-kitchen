@@ -17,7 +17,7 @@ tags:
 - cooking makes us human
 excerpt-preview: "...connecting round the campfire and its caldron, in companionship
   with each other and with Nature..."
-thumbnail-image: "/uploads/IMG_4611.jpeg"
+thumbnail-image: "/uploads/IMG_4778.jpeg"
 ---
 
 ![IMG_4778.jpeg](/uploads/IMG_4778.jpeg)
