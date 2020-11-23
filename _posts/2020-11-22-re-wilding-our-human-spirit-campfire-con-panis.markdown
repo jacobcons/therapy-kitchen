@@ -15,7 +15,9 @@ That's where the story of Campfire Con-panis picks up - connecting round the cam
 
 These workshops were set up to support families during Covid19.  As one participant said "it's so amazing to be out from four walls".  We may all be experiencing the same weather in lockdown, but we certainly are not all in the same boat. We began work on this project the day Lockdown 2 began, so the appreciation of being outside and working with others was heightened. The availability of fresh as possible foods, that supported our well being just looking at them, preparing them, let alone in the smelling and tasting of them.  Quite incredible. 
 
-As I planned this project to support mental, physical and spiritual health I had no idea how much it would mean to me.  How it would ignite the notion of re-wilding, returning, respecting our natural human spirit.   
+As I planned this project to support mental, physical and spiritual health I had no idea how much it would mean to me.  How it would ignite the notion of re-wilding, returning, respecting our natural human spirit.  Regaining our place in the natural order for a time.  Remembering ourselves as intuitive, creative and resourceful creatures, who love music for the sense of harmony, pleasure and connection it offers.
+
+The food we made startled our senses with its vibrancy.  Even the sun had to come and take a look, smiling at our efforts, on Friday 13th no less.  As we stir fried broccoli leaves with sesame oil and teriyaki we could smell the goodness and couldn't wait to tuck in.  Our bodies responding to the feeling of harmony, pleasure and connection this Campfire Con-panis offered.
 
 
 
