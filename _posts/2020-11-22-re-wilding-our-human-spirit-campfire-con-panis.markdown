@@ -1,7 +1,15 @@
 ---
 title: Re-wilding our Human Spirit - Campfire Con-panis
 date: 2020-11-22 18:26:00 Z
+excerpt-preview: "...connecting round the campfire and its caldron, in companionship
+  with each other and with Nature..."
+thumbnail-image: "/uploads/IMG_4611.jpeg"
 ---
+
+![C3015FFA-6D7A-48A6-B278-2F52C966BC86.jpeg](/uploads/C3015FFA-6D7A-48A6-B278-2F52C966BC86.jpeg)
+![IMG_4871.jpeg](/uploads/IMG_4871.jpeg)
+![IMG_4886.jpeg](/uploads/IMG_4886.jpeg)
+
 
 During Covid19 I have found myself (gratefully) busier than ever.  The place of cooking as a cornerstone of well being, of understanding food as potent medicine has never been more significant.
 
@@ -22,6 +30,8 @@ The food we made startled our senses with its vibrancy.  Even the sun had to com
 Participants in this project took away food for their families at home, but more than that, they took away ideas, inspiration and imagination that nourishes heart and soul, beyond the belly.
 
 In fact, they took away even more... As I mused on this project, I returned to my favourite style of cooking - cast iron.  Using my Grandmother's Le Creuset, I have a sense of safety, security and the taste of luxury from this containing, beautiful vessel.  So, as yet unclear how the project was going to emerge, I asked Le Creuset if they would donate a casserole dish, like grandma's I use today, for each family.  They said yes.  Amazing grace.  The sense of community support and fraternity in times of loss, uncertainty and confusion was more meaningful than the dish alone.  Remembering it's ok to reach out for help, that resources are there when we engage our imaginative, cooperative spirit of gratitude, offers a chance to re-think, re-wild, refresh our place in the natural world.
+
+![IMG_4827.jpeg](/uploads/IMG_4827.jpeg)
 
 
 
