@@ -33,6 +33,8 @@ The food we made startled our senses with its vibrancy.  Even the sun had to com
 Participants in this project took away food for their families at home, but more than that, they took away ideas, inspiration and imagination that nourishes heart and soul, beyond the belly.
 
 In fact, they took away even more... As I mused on this project, I returned to my favourite style of cooking - cast iron.  Using my Grandmother's Le Creuset, I have a sense of safety, security and the taste of luxury from this containing, beautiful vessel.  So, as yet unclear how the project was going to emerge, I asked Le Creuset if they would donate a casserole dish, like grandma's I use today, for each family.  They said yes.  Amazing grace.  The sense of community support and fraternity in times of loss, uncertainty and confusion was more meaningful than the dish alone.  Remembering it's ok to reach out for help, that resources are there when we engage our imaginative, cooperative spirit of gratitude, offers a chance to re-think, re-wild, refresh our place in the natural world.
+
+
 ![BE723496-F029-4F32-8955-3FFF534727B1.jpeg](/uploads/BE723496-F029-4F32-8955-3FFF534727B1.jpeg)
 ![03774801-1569-4635-A13A-CA856DF6B1B7.jpeg](/uploads/03774801-1569-4635-A13A-CA856DF6B1B7.jpeg)
 ![8EA1AEC2-13A0-4072-9E1E-B6B401FF6F55.jpeg](/uploads/8EA1AEC2-13A0-4072-9E1E-B6B401FF6F55.jpeg)
