@@ -1,6 +1,20 @@
 ---
 title: Re-wilding our Human Spirit - Campfire Con-panis
 date: 2020-11-22 18:26:00 Z
+categories:
+- cooking
+- well being
+- kitchen therapy
+tags:
+- cast iron cooking
+- outdoors
+- le creuset
+- cob oven
+- clay oven
+- open fires
+- campfire conpanis
+- healthy eating
+- cooking makes us human
 excerpt-preview: "...connecting round the campfire and its caldron, in companionship
   with each other and with Nature..."
 thumbnail-image: "/uploads/IMG_4611.jpeg"
