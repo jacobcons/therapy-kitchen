@@ -16,11 +16,11 @@ thumbnail-image: "/uploads/IMG_4611.jpeg"
 
 During Covid19 I have found myself (gratefully) busier than ever.  The place of cooking as a cornerstone of well being, of understanding food as potent medicine has never been more significant.
 
-Kitchen therapy is all about finding our sense of belonging as a human soul in an often alienating world.  One where supermarkets often have machines rather than people to buy food from. Packaged and perfected vegetables straight-jacketed into the grocery version of size 0.  Seductive ready meals and sauces that offer to make our lives quicker and easier to satisfy, forgetting to ask our creative mind how satisfied it feels.
+Kitchen therapy is all about finding our sense of belonging as a human soul in an increasingly alienating world.  One where supermarkets have machines rather than people to buy food from. Packaged and perfected vegetables straight-jacketed into the grocery version of size 0.  Seductive ready meals and sauces that offer to make our lives quicker and easier to satisfy, forgetting to ask our creative mind how satisfied they feel.
 
 So, during lockdown and the challenges of isolation this has brought, many of us have found ourselves in the kitchen seeking solace, not just from the fridge opening with something ready to offer, but in the interaction of making food.  For many, there has been an opportunity (OK necessity) to return to simple, basic pleasures of making food for ourselves - as Nature intended. 
 
-Cooking is fundamental to who we are as a species.  The access to such a variety of resources and the creative confidence it afforded us, whilst feeding our growing minds, our specific human relationship to food defines us as a species.  Like music, it is uniquely human.  Unlike music, learning to manipulate fire can separate us from Nature, as we can seek to dominate, control and own her bounty.  Maybe like the know-it-all teen, who's forgotten his manners, where his daily bread and support comes from and his necessary reliance on familial connection for survival.  We are stuck in the Kevin-Trump teenage archetype, who we all recognise is not going to work out well as a leader...
+ Cooking is fundamental to who we are as a species.  This primal alchemy gave us ready access to a vast array of resources, whilst establishing creative confidence feeding our growing minds. Our specific human relationship to food is a defining feature of who and how we are today. Like music, it is uniquely human.  Unlike music, learning to manipulate fire can separate us from Nature, as we can seek to dominate, control and own her bounty.  Maybe like the know-it-all teen, who's forgotten his manners, where his daily bread and support comes from and his necessary reliance on familial connection for survival.  We are stuck in the Kevin-Trump teenage archetype, who we all recognise is not going to work out well as a leader...
 
 That's where the story of Campfire Con-panis picks up - connecting round the campfire and its caldron, in companionship with each other and with Nature. Revelling in her bounty, even in an English November. Arriving on the farm, we picked, chopped and cooked our shared lunch, all outside getting muddy and messy, slightly chilly, very happy.  Using camping stoves, an open fire and the piece de resistance - a wood fired clay oven, we made some of the most delicious food I have ever tasted.  
 
@@ -38,5 +38,7 @@ In fact, they took away even more... As I mused on this project, I returned to m
 ![BE723496-F029-4F32-8955-3FFF534727B1.jpeg](/uploads/BE723496-F029-4F32-8955-3FFF534727B1.jpeg)
 ![03774801-1569-4635-A13A-CA856DF6B1B7.jpeg](/uploads/03774801-1569-4635-A13A-CA856DF6B1B7.jpeg)
 ![8EA1AEC2-13A0-4072-9E1E-B6B401FF6F55.jpeg](/uploads/8EA1AEC2-13A0-4072-9E1E-B6B401FF6F55.jpeg)
+![IMG_4825.jpeg](/uploads/IMG_4825.jpeg)
+![IMG_4611-1b2ca4.jpeg](/uploads/IMG_4611-1b2ca4.jpeg)
 
 
