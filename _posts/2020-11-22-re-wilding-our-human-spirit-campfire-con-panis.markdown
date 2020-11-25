@@ -44,7 +44,7 @@ As I planned this project to support mental, physical and spiritual health I had
 
 The food we made startled our senses with its vibrancy.  Even the sun had to come and take a look, smiling at our efforts, on Friday 13th no less.  As we stir fried broccoli leaves with sesame oil and teriyaki we could smell the goodness and couldn't wait to tuck in.  Our bodies responding to the feeling of harmony, pleasure and connection this Campfire Con-panis offered.
 
-Participants in this project took away food for their families at home, but more than that, they took away ideas, inspiration and imagination that nourishes heart and soul, beyond the belly.
+Participants in this project took away food for their families at home, but more than that, they took away ideas, inspiration and interconnection that nourishes heart and soul, beyond the belly.
 
 In fact, they took away even more... As I mused on this project, I returned to my favourite style of cooking - cast iron.  Using my Grandmother's Le Creuset, I have a sense of safety, security and the taste of luxury from this containing, beautiful vessel.  So, as yet unclear how the project was going to emerge, I asked Le Creuset if they would donate a casserole dish, like Grandma's I use today, for each family.  They said yes.  Amazing grace.  The sense of community support and fraternity in times of loss, uncertainty and confusion was more meaningful than the dish alone.  Remembering it's ok to reach out for help, that resources are there when we engage our imaginative, cooperative spirit of gratitude, offers a chance to re-think, re-wild, refresh our place in the natural world.
 
