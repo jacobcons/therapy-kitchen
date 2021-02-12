@@ -5,6 +5,7 @@ position: 1
 page-title: Videos -- Therapy Kitchen
 banner-image: "/uploads/nuts-banner.jpg"
 banner-image-position: center
+intro: 'Videos:'
 links:
 - name: Therapy Kitchen Youtube Channel - Coming home to ourselves
   url: https://www.youtube.com/watch?v=jQnyOhgO3yc
