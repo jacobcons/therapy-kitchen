@@ -1,0 +1,24 @@
+---
+title: Podcasts
+date: 2018-07-04 11:40:00 Z
+position: 0
+page-title: Podcasts -- Therapy Kitchen
+banner-image: "/uploads/nuts-banner.jpg"
+banner-image-position: center
+intro: 'Other podcasts:'
+links:
+- name: Start the Week - The Science of the Mind - @bbcradio4
+  url: https://www.bbc.co.uk/programmes/b047wnyf
+- name: 'Start the Week - Food: From Bread Riots to Obesity - @bbcradio4'
+  url: https://www.bbc.co.uk/programmes/b07h69n9
+- name: Dr Gabor Mate – the one you feed
+  url: http://www.oneyoufeed.net/gabor-mate/
+- name: 'This Jungian Life - Indecision - listen out for their thoughts on desires
+    and appetites... '
+  url: http://www.thisjungianlife.com/ep23/#comment-40
+- name: Under the Skin - Russel Brand and guests casting a curiously critical eye
+    across capitalist culture... food for thought...
+  url: https://www.russellbrand.com/podcast/
+layout: podcasts
+---
+
