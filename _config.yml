@@ -45,13 +45,20 @@ menu:
   children:
   - title: Therapy
     url: "/services/therapy.html"
-  - title: Kitchen therapy
+  - title: Kitchen Therapy
     url: "/services/kitchen-therapy.html"
   - title: Cookery
     url: "/services/cookery.html"
 - title: Blog
   url: "/blog.html"
-- title: Podcasts
-  url: "/podcasts.html"
+- title: Media
+  url: javascript:void(0)
+  children:
+  - title: Podcasts
+    url: "/media/podcasts.html"
+  - title: Videos
+    url: "/services/videos.html"
+  - title: Articles
+    url: "/services/articles.html"
 - title: Contact
   url: "/contact.html"

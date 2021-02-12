@@ -85,6 +85,7 @@ document.addEventListener('DOMContentLoaded', async () => {
 		const elsBlogCard = document.querySelectorAll('.js-blog-card');
 		let dateIndexes = {};
 		let tagIndexes = {};
+		let allIndexes = [];
 		elsBlogCard.forEach((card, i) => {
 			const date = card.getAttribute('data-date');
 			if (typeof dateIndexes[date] === 'undefined') {
@@ -101,20 +102,22 @@ document.addEventListener('DOMContentLoaded', async () => {
 					tagIndexes[tag].push(i);
 				}
 			});
+
+			allIndexes.push(i);
 		});
 
 		//Show cards corresponding to a clicked filter
 		const elsFilter = document.querySelectorAll('.js-filter');
 		elsFilter.forEach(filter => {
-			filter.addEventListener('click', e => {
-				const date = filter.getAttribute('data-date');
-				const tag = filter.getAttribute('data-tag');
-				let indexesToShow;
+			filter.addEventListener('change', e => {
 				//Get indexes of cards that should be shown
-				if (date !== null) {
-					indexesToShow = dateIndexes[date];
-				} else if (tag !== null) {
-					indexesToShow = tagIndexes[tag];
+				const value = filter.value;
+				let indexesToShow;
+				if (value == "") {
+					// show all cards if blank is selected
+					indexesToShow = allIndexes;
+				} else {
+					indexesToShow = filter.name == "dates" ? dateIndexes[value] : tagIndexes[value];
 				}
 
 				//Build array of bools representing whether each card should be shown
@@ -125,12 +128,20 @@ document.addEventListener('DOMContentLoaded', async () => {
 
 				//Use array of bools to hide/show cards
 				cardsToShow.forEach((show, i) => {
+					const currentCard = elsBlogCard[i];
 					if (show === true) {
-						elsBlogCard[i].classList.remove('hide');
+						currentCard.classList.remove('hide');
 					} else if (show === false) {
-						elsBlogCard[i].classList.add('hide');
+						currentCard.classList.add('hide');
 					}
 				});
+
+				//Reset other filter
+				let otherFilter = elsFilter[0] == e.target ? elsFilter[1] : elsFilter[0];
+				console.log(e);
+				console.log(elsFilter);
+				console.log(otherFilter);
+				otherFilter.value = "";
 			});
 		});
 	} else if (window.location.pathname === '/contact.html') {
