@@ -11,5 +11,6 @@ links:
   url: "#"
 - name: test3
   url: "#"
+layout: media-links
 ---
 
