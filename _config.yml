@@ -57,8 +57,8 @@ menu:
   - title: Podcasts
     url: "/media/podcasts.html"
   - title: Videos
-    url: "/services/videos.html"
+    url: "/media/videos.html"
   - title: Articles
-    url: "/services/articles.html"
+    url: "/media/articles.html"
 - title: Contact
   url: "/contact.html"
