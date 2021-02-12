@@ -8,6 +8,6 @@ banner-image-position: center
 links:
 - name: Therapy Kitchen Youtube Channel - Coming home to ourselves
   url: https://www.youtube.com/watch?v=jQnyOhgO3yc
-layout: media-links
+layout: default
 ---
 
