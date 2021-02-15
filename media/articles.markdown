@@ -7,7 +7,7 @@ banner-image: "/uploads/nuts-banner.jpg"
 banner-image-position: center
 intro: 'Articles:'
 links:
-- name: An introduction to Kitchen Therapy
+- name: An Introduction to Kitchen Therapy
   url: https://www.pesi.co.uk/Blog/2020/December/Kitchen-Therapy-An-Introduction
 - name: Treat Addiction with Kitchen Therapy
   url: https://www.help4addiction.co.uk/make-love-not-fuel/
