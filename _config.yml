@@ -31,8 +31,9 @@ exclude:
 - node_modules
 permalink: date
 contact:
-  email: charlotte.hastings@ntlworld.com
+  email: therapykitchen@virginmedia.com
   tel: '07792752632'
+  instagram: https://www.instagram.com/therapy.kitchen/?hl=en
 gems:
 - jekyll-sitemap
 menu:
