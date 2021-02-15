@@ -9,8 +9,6 @@ intro: 'Articles:'
 links:
 - name: An introduction to Kitchen Therapy
   url: https://www.pesi.co.uk/Blog/2020/December/Kitchen-Therapy-An-Introduction
-- name: sdfsdf
-  url: aSADSF
 layout: media-links
 ---
 
