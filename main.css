@@ -446,14 +446,14 @@ textarea.input-field__text-input {
   max-height: 389px;
   object-fit: cover; }
 
-.social-icon {
+.social-media-icon {
   margin: 0 1.875rem 0 0; }
-  .social-icon svg {
+  .social-media-icon svg {
     width: 1.875rem;
     height: 1.875rem; }
-    .social-icon svg path {
+    .social-media-icon svg path {
       transition: fill .2s; }
-    .social-icon svg:hover path {
+    .social-media-icon svg:hover path {
       fill: #331c0d; }
 
 .testimonial__author {
