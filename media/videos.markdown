@@ -7,10 +7,12 @@ banner-image: "/uploads/nuts-banner.jpg"
 banner-image-position: center
 intro: 'Videos:'
 links:
-- name: Therapy Kitchen Youtube Channel - Coming home to ourselves
+- name: 'Cooking Isolation away in Campfire Con-panis '
   url: https://www.youtube.com/watch?v=jQnyOhgO3yc
 - name: Creating a Cooking Family - Campfire Con-panis
   url: https://www.youtube.com/watch?v=Kfhp3v1oVG4&feature=youtu.be
+- name: Coming home to ourselves with Kitchen therapy
+  url: https://www.youtube.com/watch?v=-VQJWhPA8zc&t=26s
 layout: media-links
 ---
 
