@@ -3,7 +3,7 @@ title: Videos
 date: 2021-02-12 14:53:00 Z
 position: 1
 page-title: Videos -- Therapy Kitchen
-banner-image: "/uploads/nuts-banner.jpg"
+banner-image: "/uploads/making-cakes-with-child.jpg"
 banner-image-position: center
 intro: 'Videos:'
 links:
