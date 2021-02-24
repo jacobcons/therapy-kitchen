@@ -31,5 +31,8 @@ Lemon zest and juice have a way of making all the ingredients smile and look the
 
 Taste test along the way.  Wiz into soup or leave chunky for a stew type meal.  Serve with rice or bread, yoghurt/corriander or topping of your imagination.
 
+The next day this can be a curry - Indian or Thai by adding tin of coconut milk, more garlic and ginger, zest and juice of at least one lime, along with curry paste of choice.  
+![IMG_4764.jpg](/uploads/IMG_4764.jpg)
+
 
 
