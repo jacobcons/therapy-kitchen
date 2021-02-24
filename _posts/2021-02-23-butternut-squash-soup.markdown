@@ -25,7 +25,7 @@ Butternut squash, sweet potato, celery, onions/leeks, ginger, garlic - fennel se
 
 * Now its time to add the liquid - a tin of tomatoes, refilled a couple of times (or more) with water, with tomato puree to push that flavour home. Leave to simmer for 10minutes.
 
-Now add your flavours - salt, umami (protein) sweet are key for this meal.
+Now add your flavours - salt, umami (protein), sweet are key for this meal.
 * A few drops of soy sauce works really well with tomatoes and brings a salty umami flavour easily along.
 * Few drops of balsamic vinegar adds a touch of tartness
 * Extra sweet in chilli sauce, honey or other syrup 
