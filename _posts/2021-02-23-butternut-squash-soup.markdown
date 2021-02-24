@@ -1,6 +1,22 @@
 ---
 title: Butternut Squash Soup
 date: 2021-02-23 16:56:00 Z
+categories:
+- fresh vegetables
+- vegan recipes
+- outdoor cooking
+tags:
+- pumpkin soup
+- campfire cooking
+- kitchen therapy
+- natures classroom
+- community
+- creativity
+- intuitive cooking
+- cooking together
+excerpt-preview: This recipe comes from a dear Danish friend who cooked this for a
+  family camping trip, enough to feed 50+ people.
+thumbnail-image: "/uploads/IMG_4886-7d426e.jpeg"
 ---
 
 ![IMG_4780.jpeg](/uploads/IMG_4780.jpeg)
