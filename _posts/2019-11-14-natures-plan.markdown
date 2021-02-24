@@ -6,7 +6,7 @@ tags:
 - mother nature
 excerpt-preview: Have you noticed the trees are calling your attention with their
   fruit and nut festoonery...?
-thumbnail-image: "/uploads/IMG_0503.jpg"
+thumbnail-image: "/uploads/IMG_2993.jpg"
 ---
 
 ![IMG_0503.jpeg](/uploads/IMG_0503.jpeg)
