@@ -11,7 +11,7 @@ links:
   url: https://www.youtube.com/watch?v=jQnyOhgO3yc
 - name: Creating a Cooking Family - Campfire Con-panis
   url: https://www.youtube.com/watch?v=Kfhp3v1oVG4&feature=youtu.be
-- name: Coming home to ourselves with Kitchen therapy
+- name: Coming home to ourselves with Campfire Con-panis
   url: https://www.youtube.com/watch?v=-VQJWhPA8zc&t=26s
 layout: media-links
 ---

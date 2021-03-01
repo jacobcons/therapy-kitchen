@@ -7,8 +7,8 @@ banner-image: "/uploads/making-cakes-with-child.jpg"
 banner-image-position: center
 intro: 'Other podcasts:'
 links:
-- name: Start the Week - The Science of the Mind - @bbcradio4
-  url: https://www.bbc.co.uk/programmes/b047wnyf
+- name: kitchen sessions - previous episodes
+  url: https://soundcloud.com/kitchensessionspodcast
 - name: 'Start the Week - Food: From Bread Riots to Obesity - @bbcradio4'
   url: https://www.bbc.co.uk/programmes/b07h69n9
 - name: Dr Gabor Mate – the one you feed
