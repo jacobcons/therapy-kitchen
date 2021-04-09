@@ -11,8 +11,10 @@ links:
   url: https://www.pesi.co.uk/Blog/2020/December/Kitchen-Therapy-An-Introduction
 - name: Treat Addiction with Kitchen Therapy
   url: https://www.help4addiction.co.uk/make-love-not-fuel/
-- name: Kitchen Therapy - from nursing couple to kitchen table
+- name: Kitchen Therapy - from Nursing Couple to Kitchen Table
   url: https://www.pesi.co.uk/Blog/2021/February/Kitchen-Therapy-From-Nursing-Couple-to-Kitchen-Tab
+- name: Couples' Kitchen Therapy Session Review
+  url: https://uk.style.yahoo.com/how-cooking-can-reveal-more-about-your-personality-070826611.html
 layout: media-links
 ---
 
