@@ -9,6 +9,7 @@ intro: 'Other podcasts:'
 links:
 - name: kitchen sessions - previous episodes
   url: https://soundcloud.com/kitchensessionspodcast
+  Key: 
 - name: 'Start the Week - Food: From Bread Riots to Obesity - @bbcradio4'
   url: https://www.bbc.co.uk/programmes/b07h69n9
 - name: Dr Gabor Mate – the one you feed
@@ -19,6 +20,10 @@ links:
 - name: Under the Skin - Russel Brand and guests casting a curiously critical eye
     across capitalist culture... food for thought...
   url: https://www.russellbrand.com/podcast/
+- name: Couples kitchen therapy session with Denise Van Outen and Eddie Boxshall -
+    Before We Say " I Do"
+  url: https://open.spotify.com/episode/2VJNeNOzgzBxsadtw1NOFR?si=Iv5wLVr_TiO9bDhRRefKxg
+Field name: 
 layout: podcasts
 ---
 
