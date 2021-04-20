@@ -15,6 +15,8 @@ links:
   url: https://www.pesi.co.uk/Blog/2021/February/Kitchen-Therapy-From-Nursing-Couple-to-Kitchen-Tab
 - name: Couples' Kitchen Therapy Session Review
   url: https://uk.style.yahoo.com/how-cooking-can-reveal-more-about-your-personality-070826611.html
+- name: 'Kitchen Therapy: Working with Addiction'
+  url: https://www.pesi.co.uk/blog/2021/april/kitchen-therapy-working-with-addiction
 layout: media-links
 ---
 
