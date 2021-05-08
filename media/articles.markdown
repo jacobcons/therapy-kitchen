@@ -17,6 +17,8 @@ links:
   url: https://uk.style.yahoo.com/how-cooking-can-reveal-more-about-your-personality-070826611.html
 - name: 'Kitchen Therapy: Working with Addiction'
   url: https://www.pesi.co.uk/blog/2021/april/kitchen-therapy-working-with-addiction
+- name: Daily Mail 6th May 2021
+  url: https://www.dailymail.co.uk/femail/article-9546853/The-recipe-happy-marriage-Cooking-therapy.html
 layout: media-links
 ---
 
