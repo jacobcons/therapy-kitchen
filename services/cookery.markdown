@@ -24,13 +24,9 @@ slider-images:
   alt: 
 - image: "/uploads/cookery-2.jpg"
   alt: 
-- image: "/uploads/IMG_0607.jpg"
-  alt: 
-- image: "/uploads/IMG_0687.jpg"
+- image: "/uploads/IMG_0687-a1159d.jpg"
   alt: 
 - image: "/uploads/IMG_0628-1a8fca.jpg"
-  alt: 
-- image: "/uploads/IMG_0721.jpg"
   alt: 
 what-is-it:
   title: What is it?
