@@ -53,9 +53,9 @@ slider-images:
   alt: 
 - image: "/uploads/kt-3.jpg"
   alt: 
-- image: "/uploads/DSC_6898.jpg"
+- image: "/uploads/DSC_6898-78e395.jpg"
   alt: 
-- image: "/uploads/IMG_0779-7c6e14.jpg"
+- image: "/uploads/IMG_0779.jpg"
   alt: 
 who-is-it-for:
   title: Who is it for?
