@@ -47,15 +47,17 @@ what-to-expect:
   - Sessions are as unique as you, the ingredients of cooking, conversation, dietary
     needs forming their specific recipe as required.
 slider-images:
-- image: "/uploads/kt-1.jpg"
+- image: "/uploads/DSC_6898-78e395.jpg"
   alt: 
 - image: "/uploads/kt-2.jpg"
   alt: 
+- image: "/uploads/kt-1.jpg"
+  alt: 
 - image: "/uploads/kt-3.jpg"
   alt: 
-- image: "/uploads/DSC_6898-78e395.jpg"
-  alt: 
 - image: "/uploads/IMG_0779.jpg"
+  alt: 
+- image: "/uploads/IMG_4764%203.jpeg"
   alt: 
 who-is-it-for:
   title: Who is it for?
