@@ -46,6 +46,13 @@ what-to-expect:
     food for the table.
   - Sessions are as unique as you, the ingredients of cooking, conversation, dietary
     needs forming their specific recipe as required.
+  table:
+  - cost: "£55"
+    for: Individuals
+  - cost: "£75"
+    for: Couples
+  - cost: Group
+    for: To be negotiated
 slider-images:
 - image: "/uploads/DSC_6898-78e395.jpg"
   alt: 
