@@ -51,8 +51,8 @@ what-to-expect:
     for: Individuals
   - cost: "£75"
     for: Couples
-  - cost: Group
-    for: To be negotiated
+  - cost: To be negotiated
+    for: Group
 slider-images:
 - image: "/uploads/DSC_6898-78e395.jpg"
   alt: 
