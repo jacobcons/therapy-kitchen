@@ -19,6 +19,8 @@ links:
   url: https://www.pesi.co.uk/blog/2021/april/kitchen-therapy-working-with-addiction
 - name: Daily Mail 6th May 2021
   url: https://www.dailymail.co.uk/femail/article-9546853/The-recipe-happy-marriage-Cooking-therapy.html
+- name: Edible narrative therapy
+  url: https://www.pesi.co.uk/blog/2021/june/kitchen-therapy-edible-narrative-therapy
 layout: media-links
 ---
 
