@@ -21,6 +21,8 @@ links:
   url: https://www.dailymail.co.uk/femail/article-9546853/The-recipe-happy-marriage-Cooking-therapy.html
 - name: Edible narrative therapy
   url: https://www.pesi.co.uk/blog/2021/june/kitchen-therapy-edible-narrative-therapy
+- name: Kitchen therapy - Cooking for Connection and Belonging - a chapter in...
+  url: https://www.routledge.com/Attachment-Relationships-and-Food-From-Cradle-to-Kitchen/Cundy/p/book/9780367561307
 layout: media-links
 ---
 
