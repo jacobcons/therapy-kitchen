@@ -1,7 +1,7 @@
 ---
 title: Contact
 date: 2018-07-04 15:39:00 Z
-position: 6
+position: 7
 page-title: Contact -- Therapy Kitchen
 banner-image: "/uploads/sepia-charlotte-banner.jpg"
 intro: |-
