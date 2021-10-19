@@ -1,7 +1,7 @@
 ---
 title: Articles
 date: 2021-02-12 14:58:00 Z
-position: 2
+position: 6
 page-title: Articles -- Therapy Kitchen
 banner-image: "/uploads/making-cakes-with-child.jpg"
 banner-image-position: center
