@@ -51,10 +51,10 @@ menu:
   - title: Cookery
     url: "/services/cookery.html"
 - title: Podcasts
-  url: "/media/podcasts.html"
+  url: "/podcasts.html"
 - title: Videos
-  url: "/media/videos.html"
+  url: "/videos.html"
 - title: Articles
-  url: "/media/articles.html"
+  url: "/articles.html"
 - title: Contact
   url: "/contact.html"
