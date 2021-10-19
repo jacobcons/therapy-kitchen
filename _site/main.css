@@ -104,7 +104,7 @@ td {
       flex-direction: column;
   -ms-flex-pack: distribute;
       justify-content: space-around; }
-  @media (max-width: 56.25rem) {
+  @media (max-width: 71.25rem) {
     .flex-col {
       height: 8.125rem; } }
 
@@ -569,7 +569,7 @@ textarea.input-field__text-input {
   display: flex;
   -ms-flex-pack: justify;
       justify-content: space-between; }
-  @media (max-width: 56.25rem) {
+  @media (max-width: 71.25rem) {
     .primary-footer {
       display: grid;
       grid-row-gap: 1.5rem;

@@ -4,7 +4,7 @@
 	margin: calculate-rem(96px) auto;
 	display: flex;
 	justify-content: space-between;
-	@media (max-width: $large) {
+	@media (max-width: $x-large) {
 		display: grid;
 		grid-row-gap: calculate-rem(24px);
 		justify-content: center;
