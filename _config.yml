@@ -50,16 +50,11 @@ menu:
     url: "/services/kitchen-therapy.html"
   - title: Cookery
     url: "/services/cookery.html"
-- title: Blog
-  url: "/blog.html"
-- title: Media
-  url: javascript:void(0)
-  children:
-  - title: Podcasts
-    url: "/media/podcasts.html"
-  - title: Videos
-    url: "/media/videos.html"
-  - title: Articles
-    url: "/media/articles.html"
+- title: Podcasts
+  url: "/media/podcasts.html"
+- title: Videos
+  url: "/media/videos.html"
+- title: Articles
+  url: "/media/articles.html"
 - title: Contact
   url: "/contact.html"
