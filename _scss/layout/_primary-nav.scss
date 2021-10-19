@@ -10,7 +10,7 @@
 .primary-nav--stacked {
 	display: flex;
 	flex-flow: column wrap;
-	width: calculate-rem(190px);
+	width: calculate-rem(316px);
 	height: calculate-rem(130px);
 	@media (max-width: $large) {
 		width: 100%;

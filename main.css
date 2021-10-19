@@ -604,7 +604,7 @@ textarea.input-field__text-input {
   display: flex;
   -ms-flex-flow: column wrap;
       flex-flow: column wrap;
-  width: 11.875rem;
+  width: 19.75rem;
   height: 8.125rem; }
   @media (max-width: 56.25rem) {
     .primary-nav--stacked {
