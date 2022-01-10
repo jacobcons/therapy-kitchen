@@ -53,9 +53,9 @@ what-to-expect:
 
     We will normally agree to work on a weekly basis as the most effective schedule, in either a short term or open ended time span.  However each therapeutic relationship is unique and we will agree working patterns accordingly, within a flexible framework.
   table:
-  - cost: "£35-45"
+  - cost: "£45-55"
     for: Individuals
-  - cost: "£50-£60"
+  - cost: "£60-70"
     for: Couples
 layout: therapy
 ---
