@@ -24,6 +24,8 @@ links:
 - name: Attachment, Relationships and Food - from Cradle to Kitchen - Cooking for
     Connection and Belonging - Chapter 7
   url: https://www.routledge.com/Attachment-Relationships-and-Food-From-Cradle-to-Kitchen/Cundy/p/book/9780367561307
+- name: 'Kitchen Therapy with Teenagers: Becoming Belonging and Baking Bread'
+  url: https://www.pesi.co.uk/blog/2021/november/kitchen-therapy-with-teenagers-becoming-belonging
 layout: media-links
 ---
 
