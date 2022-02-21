@@ -157,6 +157,14 @@ testimonials:
     it's made.... I am always promoting this when others feel they're struggling with
     their mental health or appetite, as it has honestly given me hope.  Thank you.
     x
+- author: paula
+  quote-preview: "... a transformative experience."
+  quote: When my teenage daughter was in the middle of her eating disorder, reflecting
+    on my relationship with food with Charlotte, my own fear of making mistakes when
+    cooking was exceptionally helpful in thinking that our attachment wounds could
+    in part be healed by changing our relationship with food... cooking is no longer
+    the source of great anxiety... I never thought it possible to take such joy from
+    cooking and in feeding my family.  It has been a transformative experience.
 layout: kitchen-therapy
 ---
 
