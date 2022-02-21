@@ -149,6 +149,14 @@ testimonials:
     at ease when I met Charlotte. The class was informative interesting and interactive
     and I have fallen in love with cooking again. It’s made such a difference to my
     sugar cravings and my mood! Can’t wait to do more!
+- author: Tez
+  quote-preview: Absolutely changed my whole perspective on food...
+  quote: Absolutely changed my whole perspective on food.  For years I've struggled
+    with my weight due to medical conditions and had no appetite.  I came along to
+    do cooking courses out in nature and I can't begin to describe the difference
+    it's made.... I am always promoting this when others feel they're struggling with
+    their mental health or appetite, as it has honestly given me hope.  Thank you.
+    x
 layout: kitchen-therapy
 ---
 
