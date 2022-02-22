@@ -165,13 +165,22 @@ testimonials:
     in part be healed by changing our relationship with food... cooking is no longer
     the source of great anxiety... I never thought it possible to take such joy from
     cooking and in feeding my family.  It has been a transformative experience.
-- author: Sandra (Rock Farm participant)
+- author: Sammy (Rock Farm participant)
   quote-preview: when things seemed hard to deal with, having the experience of being
     out in nature, foraging for stuff for our lunch then learning how to cook a healthy
-    meal in a different setting. Having the chance to taste and experience new things.
-    Having a laugh with each other. Meant a lot to me to do this after all we had
-    been through...
-  quote: 
+    meal ...meant a lot to me
+  quote: When things seemed hard to deal with, having the experience of being out
+    in nature, foraging for stuff for our lunch and then learning how to cook a healthy
+    meal, the chance to try new things, having a laugh with each other... meant a
+    lot to me after all we had been through...
+- author: Sandie (community/family cooking participant since 2010)
+  quote-preview: It was so nice to be outside, with other women going through similar
+    stuff...
+  quote: It was so nice to be outside, with other women going through similar stuff,
+    coming together and chatting whilst making a delicious meal.  It was relaxing
+    and interesting cooking in a different environment - the great outdoors.  Picking
+    our ingredients was also a new experience which I loved.  My confidence has grown
+    so much... inspiring me to grow my own vegetables and herbs to use at home.
 layout: kitchen-therapy
 ---
 
