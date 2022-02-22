@@ -149,7 +149,7 @@ testimonials:
     at ease when I met Charlotte. The class was informative interesting and interactive
     and I have fallen in love with cooking again. It’s made such a difference to my
     sugar cravings and my mood! Can’t wait to do more!
-- author: Tez
+- author: 'Tez (Rock Farm participant). '
   quote-preview: Absolutely changed my whole perspective on food...
   quote: Absolutely changed my whole perspective on food.  For years I've struggled
     with my weight due to medical conditions and had no appetite.  I came along to
@@ -157,7 +157,7 @@ testimonials:
     it's made.... I am always promoting this when others feel they're struggling with
     their mental health or appetite, as it has honestly given me hope.  Thank you.
     x
-- author: paula
+- author: philippa (mother)
   quote-preview: "... a transformative experience."
   quote: When my teenage daughter was in the middle of her eating disorder, reflecting
     on my relationship with food with Charlotte, my own fear of making mistakes when
@@ -165,6 +165,13 @@ testimonials:
     in part be healed by changing our relationship with food... cooking is no longer
     the source of great anxiety... I never thought it possible to take such joy from
     cooking and in feeding my family.  It has been a transformative experience.
+- author: Sandra (Rock Farm participant)
+  quote-preview: when things seemed hard to deal with, having the experience of being
+    out in nature, foraging for stuff for our lunch then learning how to cook a healthy
+    meal in a different setting. Having the chance to taste and experience new things.
+    Having a laugh with each other. Meant a lot to me to do this after all we had
+    been through...
+  quote: 
 layout: kitchen-therapy
 ---
 
