@@ -26,6 +26,8 @@ links:
   url: https://www.routledge.com/Attachment-Relationships-and-Food-From-Cradle-to-Kitchen/Cundy/p/book/9780367561307
 - name: 'Kitchen Therapy with Teenagers: Becoming Belonging and Baking Bread'
   url: https://www.pesi.co.uk/blog/2021/november/kitchen-therapy-with-teenagers-becoming-belonging
+- name: Kitchen therapy for Eating Disorders, a Relational Approach
+  url: https://www.pesi.co.uk/blog/2022/february/kitchen-therapy-for-eating-disorders-a-relational
 layout: media-links
 ---
 
