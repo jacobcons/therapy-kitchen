@@ -28,6 +28,8 @@ links:
   url: https://www.pesi.co.uk/blog/2021/november/kitchen-therapy-with-teenagers-becoming-belonging
 - name: Kitchen therapy for Eating Disorders, a Relational Approach
   url: https://www.pesi.co.uk/blog/2022/february/kitchen-therapy-for-eating-disorders-a-relational
+- name: Kitchen therapy and Neurodivergence
+  url: https://www.pesi.co.uk/blog/2022/april/kitchen-therapy-with-neurodivergent-clients-autism
 layout: media-links
 ---
 
