@@ -116,7 +116,7 @@ who-is-it-for:
     - By learning alongside one another, they were able to listen to each other again,
       re-establishing their relationship on a new, adult platform
 testimonials:
-- author: Abigail Mahoney
+- author: Abigail
   quote-preview: 'Thank you Charlotte for a truly unique, delicious and educative
     experience! '
   quote: "Thank you Charlotte for a truly unique, delicious and educative experience!
@@ -135,14 +135,14 @@ testimonials:
     with her self confidence. She made one of the recipes entirely on her own with
     just me reading out instructions. When she finished she said it tasted just perfect
     and said she was very proud of herself - it was delicious."
-- author: Heidi Wood
+- author: Heidi
   quote-preview: Charlotte's enthusiasm and passion for life spills over into all
     her kitchen therapy classes
   quote: |-
     Charlotte's enthusiasm and passion for life spills over into all her kitchen therapy classes, rekindling an inner eagerness to enter the kitchen once again.
     Her awareness of the emotions connected to our eating habits, healthy nutrition and cookery, offer skills in supporting self care and well being, playing an enormous role in our mental health today.
     Nurturing kindness back to the self in nourishing ways can only build confidence and aliveness, deepening further relationships to family, social and community through fun, healthy and creative cookery which Charlotte's classes truly ignite.
-- author: Sarah Leach
+- author: 'Sarah '
   quote-preview: I was apprehensive about the kitchen therapy class but was immediately
     put at ease when I met Charlotte
   quote: I was apprehensive about the kitchen therapy class but was immediately put
