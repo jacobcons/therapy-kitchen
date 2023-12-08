@@ -30,6 +30,10 @@ links:
   url: https://www.pesi.co.uk/blog/2022/february/kitchen-therapy-for-eating-disorders-a-relational
 - name: Kitchen therapy and Neurodivergence
   url: https://www.pesi.co.uk/blog/2022/april/kitchen-therapy-with-neurodivergent-clients-autism
+- name: 'Food for the Future, the spiritual and therapeutic value of food.  ‘This
+    article first appeared in the January 2023 issue of Thresholds, published by the
+    British Association for Counselling and Psychotherapy. ©BACP 2023.’ '
+  url: https://www.bacp.co.uk/bacp-journals/thresholds/october-2023/food-for-the-future/
 layout: media-links
 ---
 
