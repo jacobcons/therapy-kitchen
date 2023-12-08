@@ -36,9 +36,9 @@
   display: flex;
   flex-direction: column;
   justify-content: space-around;
-  @media (max-width: $x-large) {
-    height: calculate-rem(130px);
-  }
+  // @media (max-width: $x-large) {
+  //   height: calculate-rem(130px);
+  // }
 }
 
 .self-center {
@@ -51,4 +51,12 @@
 
 .hide {
   display: none;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.gap-x-4 {
+  row-gap: 16px;
 }

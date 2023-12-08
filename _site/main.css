@@ -104,9 +104,6 @@ td {
       flex-direction: column;
   -ms-flex-pack: distribute;
       justify-content: space-around; }
-  @media (max-width: 71.25rem) {
-    .flex-col {
-      height: 8.125rem; } }
 
 .self-center {
   -ms-flex-item-align: center;
@@ -117,6 +114,12 @@ td {
 
 .hide {
   display: none; }
+
+.underline {
+  text-decoration: underline; }
+
+.gap-x-4 {
+  row-gap: 16px; }
 
 .logo {
   font-size: 64px;
@@ -145,9 +148,7 @@ td {
 .contact-detail {
   font-style: italic;
   font-size: 22px;
-  font-size: 1.375rem;
-  color: rgba(0, 0, 0, 0.45);
-  text-decoration: underline; }
+  font-size: 1.375rem; }
   @media (max-width: 25.875rem) {
     .contact-detail {
       font-size: calc(12px + 2.41546vw); } }
@@ -568,11 +569,13 @@ textarea.input-field__text-input {
   display: -ms-flexbox;
   display: flex;
   -ms-flex-pack: justify;
-      justify-content: space-between; }
+      justify-content: space-between;
+  -ms-flex-align: center;
+      align-items: center; }
   @media (max-width: 71.25rem) {
     .primary-footer {
       display: grid;
-      grid-row-gap: 1.5rem;
+      grid-row-gap: 2.25rem;
       -ms-flex-pack: center;
           justify-content: center;
       margin: 0 auto 2rem auto; } }

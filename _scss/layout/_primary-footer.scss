@@ -4,9 +4,10 @@
 	margin: calculate-rem(96px) auto;
 	display: flex;
 	justify-content: space-between;
+	align-items: center;
 	@media (max-width: $x-large) {
 		display: grid;
-		grid-row-gap: calculate-rem(24px);
+		grid-row-gap: calculate-rem(36px);
 		justify-content: center;
 		margin:  0 auto calculate-rem(32px) auto;
 	}
