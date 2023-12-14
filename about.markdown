@@ -4,7 +4,11 @@ date: 2018-07-03 14:03:00 Z
 position: 1
 page-title: About -- Therapy Kitchen
 banner:
+<<<<<<< HEAD
   image: "/uploads/_MG_0671_042.jpg"
+=======
+  image: "/uploads/chopping-board.jpg"
+>>>>>>> df903eb35e4195b652a3a9053b7c7e66dd38c260
   position: center
   has-brown-tint: true
 text-boxes:
