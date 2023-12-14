@@ -4,8 +4,8 @@ date: 2018-07-03 14:03:00 Z
 position: 1
 page-title: About -- Therapy Kitchen
 banner:
-  image: "/uploads/_MG_0671_042.jpg"
-  position: Center
+  image: "/uploads/chopping-board.jpg"
+  position: center
   has-brown-tint: true
 text-boxes:
 - title: Who I am
