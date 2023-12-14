@@ -3,8 +3,10 @@ title: About
 date: 2018-07-03 14:03:00 Z
 position: 1
 page-title: About -- Therapy Kitchen
-banner-image: "/uploads/chocolate-bowl-banner.jpg"
-banner-image-position: Center
+banner:
+  image: "/uploads/chocolate-bowl-banner.jpg"
+  position: Center
+  has-brown-tint: false
 text-boxes:
 - title: Who I am
   body-copy: A recipe of personal and professional experience, skills and passions
