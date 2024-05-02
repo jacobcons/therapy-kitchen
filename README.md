@@ -1,5 +1,6 @@
 # therapy-kitchen
 [https://therapykitchen.co.uk/](https://therapykitchen.co.uk/)
+![screenshot](./screenshot.png)
 
 This is a site I made for a therapist who combines that disipline with cookery. The planning phase consisted of discussing the content and design they wanted, making reference to exisiting sites for the things they'd like to draw from. Then designs in sketch were sent over, feedback was given and finals tweaks were made. 
 
