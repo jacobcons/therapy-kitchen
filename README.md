@@ -3,7 +3,7 @@
 
 [https://therapykitchen.co.uk/](https://therapykitchen.co.uk/)
 
-Therapy kitchen's jekyll static site.
+A static site built with Jekyll for Airstream Studio, a photo booth company.
 
 ## Todo
 - [x] Plan content and design, with client
