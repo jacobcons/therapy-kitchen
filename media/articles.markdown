@@ -1,7 +1,7 @@
 ---
 title: Articles
 date: 2021-02-12 14:58:00 Z
-position: 7
+position: 2
 page-title: Articles -- Therapy Kitchen
 banner:
   image: "/uploads/podcast.jpg"
