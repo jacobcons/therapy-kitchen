@@ -1,7 +1,7 @@
 ---
 title: Videos
 date: 2021-02-12 14:53:00 Z
-position: 6
+position: 1
 page-title: Videos -- Therapy Kitchen
 banner:
   image: "/uploads/podcast.jpg"
