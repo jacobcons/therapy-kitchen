@@ -4,7 +4,7 @@ date: 2018-07-04 11:40:00 Z
 position: 4
 page-title: Podcasts -- Therapy Kitchen
 banner:
-  image: "/uploads/making-cakes-with-child.jpg"
+  image: "/uploads/podcast.jpg"
   position: center
   has-brown-tint: false
 intro: 'Other podcasts:'
