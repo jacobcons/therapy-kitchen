@@ -6,7 +6,7 @@ page-title: Podcasts -- Therapy Kitchen
 banner:
   image: "/uploads/podcast.jpg"
   position: center
-  has-brown-tint: false
+  has-brown-tint: true
 intro: 'Other podcasts:'
 links:
 - name: kitchen sessions - previous episodes
