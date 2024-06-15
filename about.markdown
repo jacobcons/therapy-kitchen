@@ -47,7 +47,7 @@ qualifications:
 - title: BA (Hons) Anthropology and Sociology
   year: 1991
 portfolio-image:
-  image: "/uploads/portrait%20copy.jpg"
+  image: "/uploads/portrait%20copy%20(1).jpg"
   alt: 
 layout: about
 ---
