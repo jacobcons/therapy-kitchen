@@ -1,7 +1,7 @@
 ---
 title: Podcasts
 date: 2018-07-04 11:40:00 Z
-position: 5
+position: 0
 page-title: Podcasts -- Therapy Kitchen
 banner:
   image: "/uploads/podcast.jpg"
