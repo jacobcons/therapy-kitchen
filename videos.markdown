@@ -4,9 +4,9 @@ date: 2021-02-12 14:53:00 Z
 position: 5
 page-title: Videos -- Therapy Kitchen
 banner:
-  image: "/uploads/making-cakes-with-child.jpg"
+  image: "/uploads/podcast.jpg"
   position: center
-  has-brown-tint: false
+  has-brown-tint: true
 intro: 'Videos:'
 links:
 - name: 'Cooking Isolation away in Campfire Con-panis '

@@ -4,9 +4,9 @@ date: 2021-02-12 14:58:00 Z
 position: 6
 page-title: Articles -- Therapy Kitchen
 banner:
-  image: "/uploads/making-cakes-with-child.jpg"
+  image: "/uploads/podcast.jpg"
   position: center
-  has-brown-tint: false
+  has-brown-tint: true
 intro: 'Articles:'
 links:
 - name: An Introduction to Kitchen Therapy
