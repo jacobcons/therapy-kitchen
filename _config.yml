@@ -24,8 +24,6 @@ defaults:
     layout: default
     page-title: ''
     meta-desc: ''
-    banner-image: 
-    banner-image-position: ''
 exclude:
 - notes
 - node_modules
@@ -50,11 +48,14 @@ menu:
     url: "/services/kitchen-therapy.html"
   - title: Cookery
     url: "/services/cookery.html"
-- title: Podcasts
-  url: "/podcasts.html"
-- title: Videos
-  url: "/videos.html"
-- title: Articles
-  url: "/articles.html"
+- title: Media
+  url: javascript:void(0)
+  children:
+  - title: Podcasts
+    url: "/media/podcasts.html"
+  - title: Videos
+    url: "/media/videos.html"
+  - title: Articles
+    url: "/media/articles.html"
 - title: Contact
   url: "/contact.html"
