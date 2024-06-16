@@ -4,9 +4,9 @@ date: 2018-07-04 11:24:00 Z
 position: 1
 page-title: Kitchen therapy -- Therapy Kitchen
 banner:
-  image: "/uploads/fruit-close-up-banner.jpg"
-  position: bottom
-  has-brown-tint: false
+  image: "/uploads/services-kitchentherapy-1.jpg"
+  position: center
+  has-brown-tint: true
 what-is-it:
   desc: Kitchen therapy uses food and cooking to explore and enhance our relationships
     with ourselves, one another and our environment.  Looking at the importance of
