@@ -46,6 +46,13 @@ services:
   bg-image: "/uploads/IMG_0621.jpg"
   bg-opacity: 0.7
   url: "/services/cookery.html"
+book:
+  title: "test"
+  text: ""
+  quote: ""
+  link:
+    text: ""
+    href: ""
+  image: ""
 layout: index
 ---
-
