@@ -48,10 +48,10 @@ services:
   url: "/services/cookery.html"
 book:
   title: "test"
-  text: ""
+  desc: ""
   quote: ""
   link:
-    text: ""
+    desc: ""
     href: ""
   image: ""
 layout: index

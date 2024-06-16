@@ -14,14 +14,14 @@ layout: default
   <div class="wrapper grid grid--2-1">
     <div class="book">
       <h2 class="title">{{ page.book.title }}</h2>
-      <p class="book__text">{{ page.book.text }}</p>
+      <p class="book__text">{{ page.book.desc }}</p>
       <p class="book__quote">{{ page.book.quote }}</p>
       <a
         class="book__link"
         href="{{ page.book.link.href }}"
         target="_blank"
         rel="noopener noreferrer"
-        >{{ page.book.link.text }}</a
+        >{{ page.book.link.desc }}</a
       >
     </div>
     <img src="{{ page.book.image }}" alt="" />
