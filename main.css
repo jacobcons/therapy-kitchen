@@ -178,6 +178,17 @@ td {
       font-size: 13px;
       font-size: 0.8125rem; } }
 
+.book__text {
+  font-size: 20px;
+  font-size: 1.25rem; }
+
+.book__quote {
+  font-weight: bold; }
+
+.book__link {
+  font-size: 18px;
+  font-size: 1.125rem; }
+
 .box__title {
   font-size: 36px;
   font-size: 2.25rem;
@@ -526,6 +537,19 @@ textarea.input-field__text-input {
 
 .grid {
   display: grid; }
+
+.grid--3-2 {
+  grid-template-columns: 3fr 2fr;
+  grid-gap: 2.75rem; }
+  @media (max-width: 71.25rem) {
+    .grid--3-2 {
+      grid-template-columns: repeat(2, 1fr); } }
+  @media (max-width: 56.25rem) {
+    .grid--3-2 {
+      grid-template-columns: repeat(1, 1fr); } }
+  @media (max-width: 25.875rem) {
+    .grid--3-2 {
+      grid-gap: 1.5rem; } }
 
 .grid--3-1 {
   grid-template-columns: repeat(3, 1fr);

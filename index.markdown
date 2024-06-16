@@ -46,6 +46,15 @@ services:
   bg-image: "/uploads/IMG_0621.jpg"
   bg-opacity: 0.7
   url: "/services/cookery.html"
+book:
+  title: My New Book
+  desc: This book takes the reader on a journey into the inner world through the natural
+    medium of making food
+  quote: '"unputdownable and loveable" - Professor Jeremy Holmes'
+  link:
+    desc: Order on Amazon
+    href: https://www.amazon.co.uk/Kitchen-Therapy-Charlotte-Hastings/dp/1911383906
+  image: "/uploads/BookBrushImage515.PNG"
 layout: index
 ---
 

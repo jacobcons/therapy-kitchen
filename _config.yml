@@ -24,6 +24,10 @@ defaults:
     layout: default
     page-title: ''
     meta-desc: ''
+    banner:
+      image: ''
+      position: center
+      has-brown-tint: true
 exclude:
 - notes
 - node_modules
@@ -48,6 +52,8 @@ menu:
     url: "/services/kitchen-therapy.html"
   - title: Cookery
     url: "/services/cookery.html"
+- title: My Book
+  url: "/my-book.html"
 - title: Media
   url: javascript:void(0)
   children:
