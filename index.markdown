@@ -47,12 +47,13 @@ services:
   bg-opacity: 0.7
   url: "/services/cookery.html"
 book:
-  title: "test"
-  text: ""
-  quote: ""
+  title: test
+  text: ''
+  quote: ''
   link:
-    text: ""
-    href: ""
-  image: ""
+    text: ''
+    href: ''
+  image: ''
 layout: index
 ---
+
