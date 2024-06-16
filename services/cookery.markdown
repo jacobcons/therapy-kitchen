@@ -4,8 +4,8 @@ date: 2018-07-04 11:35:00 Z
 position: 2
 page-title: Cookery -- Therapy Kitchen
 banner:
-  image: "/uploads/services-cookery.jpg"
-  position: top
+  image: "/uploads/cooking-services-1.jpg"
+  position: center
   has-brown-tint: true
 intro: Cooking should not only give sustenance for our body but – like good art or
   music – it should nourish our soul.
