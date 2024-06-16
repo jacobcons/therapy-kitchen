@@ -24,6 +24,10 @@ defaults:
       layout: default
       page-title: ''
       meta-desc: ''
+      banner:
+        image: ''
+        position: center
+        has-brown-tint: true
 exclude:
   - notes
   - node_modules
