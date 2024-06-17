@@ -7,8 +7,8 @@ banner:
   image: "/uploads/cooking-services-1.jpg"
   position: center
   has-brown-tint: true
-intro: Cooking should not only give sustenance for our body but – like good art or
-  music – it should nourish our soul.
+intro: Cooking not only gives sustenance to our body, but like good music, it nourishes
+  our soul.
 our-ethos:
   title: Our ethos
   desc: |-
