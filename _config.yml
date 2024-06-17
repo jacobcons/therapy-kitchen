@@ -1,0 +1,67 @@
+---
+title: Therapy Kitchen
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    permalink: "/posts/:title/"
+    excerpt-preview: ''
+    thumbnail-image: 
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: default
+    page-title: ''
+    meta-desc: ''
+    banner:
+      image: ''
+      position: center
+      has-brown-tint: true
+exclude:
+- notes
+- node_modules
+permalink: date
+contact:
+  email: charlotte@therapykitchen.co.uk
+  tel: '07792752632'
+  instagram: https://www.instagram.com/therapy.kitchen/?hl=en
+gems:
+- jekyll-sitemap
+menu:
+- title: Home
+  url: "/"
+- title: About
+  url: "/about.html"
+- title: Services
+  url: javascript:void(0)
+  children:
+  - title: Therapy
+    url: "/services/therapy.html"
+  - title: Kitchen Therapy
+    url: "/services/kitchen-therapy.html"
+  - title: Cookery
+    url: "/services/cookery.html"
+- title: My Book
+  url: "/my-book.html"
+- title: Media
+  url: javascript:void(0)
+  children:
+  - title: Podcasts
+    url: "/media/podcasts.html"
+  - title: Videos
+    url: "/media/videos.html"
+  - title: Articles
+    url: "/media/articles.html"
+- title: Contact
+  url: "/contact.html"
