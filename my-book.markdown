@@ -18,6 +18,7 @@ desc: |-
   It was some years later that I trained as a psychotherapist where the idea for the ‘cooking cure’ took shape and gave the creative cookbook a new dimension and direction.  My earlier studies in anthropology, my fascination with Carl Jung's depth psychology and philosophy now fed into the cookbook that you can delve into today.  It is a long and evolving story which I hope will come alive in your hands…
 
   Kitchen  Therapy - how to become a conscious cook, published 28th June 2024 with Ortus Press, an imprint of Free Association Books, is available from Amazon, or contact me direct to arrange a signed copy!
+image: "/uploads/bookkarolina-fb2e92.JPG"
 layout: my-book
 ---
 
