@@ -21,9 +21,9 @@ desc: |-
 
   'Kitchen  Therapy - how to become a conscious cook', published summer 2024 with Ortus Press, an imprint of Free Association Books, is available from Amazon, or contact me direct to arrange a signed copy!
 images:
-- image: "/uploads/DSC_6898-78e395.jpg"
-- image: "/uploads/DSC_6898-78e395.jpg"
-- image: "/uploads/DSC_6898-78e395.jpg"
+- image: "/uploads/book-1.JPG"
+- image: "/uploads/book-2.jpg"
+- image: "/uploads/book-3.jpg"
 testimonials:
 - author: Andy Sturgeon
   quote: Charlotte exudes a passion for cooking and her infectious energy makes her
@@ -38,6 +38,10 @@ testimonials:
     She inspired all the students with her cooking, compassion and understanding; she is not only teaching in her class, she is also hands on cooking including all students’ participation.
 
     Charlotte’s Learn to Love Cooking Course helped me finally understand food and how to cook with love. Her teaching technique is so clear, easy and practical to understand, some of my favourite dishes are Fish Pie/ Risotto-Chicken/Mushroom and Leek/ Chocolate and Banana Cake and Chocolate Brownies.
+- author: Andy Sturgeon
+  quote: Charlotte exudes a passion for cooking and her infectious energy makes her
+    a tour de force in the kitchen.  She has inspired my kids to cook and love food…
+    entertaining us all at her many culinary happenings.
 layout: my-book
 ---
 
