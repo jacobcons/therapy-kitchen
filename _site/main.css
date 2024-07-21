@@ -93,7 +93,7 @@ td {
   margin-bottom: 1.5rem; }
 
 .clearfix:after {
-  content: "";
+  content: '';
   display: table;
   clear: both; }
 

@@ -13,5 +13,24 @@ desc: |-
   An idea for a creative cookbook that could show the reader how to cook with intuition and instinct began to simmer.  A pack of playing cards who became a set of recipes, each with a character who showed you how, when and why to cook them, was on the boil.  The various salts and seeds of my personal and professional life combined into what would become Kitchen Therapy – how to become a conscious cook.  Drama teaching had shown me how to practice physical theatre, personifying objects and allowing them to speak, the vital role of creative confidence and how to reach our unique potential.  The essence of love in each meal we make, however small or grand, formed the foundation of this project.  By enjoying the process of putting imagination and practical play together in the kitchen, we create a recipe for life.
 
   It was some years later that I trained as a psychotherapist and the idea for the ‘cooking cure’ took shape and gave the creative cookbook a new dimension.  My earlier studies in anthropology, my fascination with Carl Jung and depth psychology now fed into the cookbook that you can delve into today.  It is a long and evolving story which I hope will come alive in your hands…
+images:
+  - image: '/uploads/DSC_6898-78e395.jpg'
+  - image: '/uploads/DSC_6898-78e395.jpg'
+  - image: '/uploads/DSC_6898-78e395.jpg'
+testimonials:
+  - author: Andy Sturgeon
+    quote:
+      Charlotte exudes a passion for cooking and her infectious energy makes her
+      a tour de force in the kitchen.  She has inspired my kids to cook and love food…
+      entertaining us all at her many culinary happenings.
+  - author: Ron Awotar
+    quote: |-
+      Charlotte has such a gentle casual way that she makes taking charge of your health a very pleasant experience.
+
+      Charlotte was one of my first cooking teachers and the first one to make me feel confident and unafraid of all the new foods and theories that just right for me as a beginner.
+
+      She inspired all the students with her cooking, compassion and understanding; she is not only teaching in her class, she is also hands on cooking including all students’ participation.
+
+      Charlotte’s Learn to Love Cooking Course helped me finally understand food and how to cook with love. Her teaching technique is so clear, easy and practical to understand, some of my favourite dishes are Fish Pie/ Risotto-Chicken/Mushroom and Leek/ Chocolate and Banana Cake and Chocolate Brownies.
 layout: my-book
 ---

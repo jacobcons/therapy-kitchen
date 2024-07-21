@@ -1,15 +1,15 @@
 .cols--2-1 {
-	columns: 2;
-	column-gap: 44px;
-	@media (max-width: $large) {
-		columns: 1;
-	}
+  columns: 2;
+  column-gap: 44px;
+  @media (max-width: $large) {
+    columns: 1;
+  }
 }
 
 .cols__cell {
-	display: inline-block;
-	margin: 0 0 calculate-rem(44px);
-	@media (max-width: $large) {
-		margin: 0;
-	}
+  display: inline-block;
+  margin: 0 0 calculate-rem(44px);
+  @media (max-width: $large) {
+    margin: 0;
+  }
 }
