@@ -5,21 +5,38 @@ position: 3
 banner:
   image: "/uploads/Colourwriting.jpg"
   position: bottom
-desc: |-
-  How it all began...
-  Some time during 2004 I began thinking about leaving my drama teaching job amid the curriculum changes that were disastrous for me and my neurodiverse students.  Their creative abilities stunted by an outdated syllabus of dry text, unsuitable (in my opinion) for any secondary classroom but for my dyslexic students was a tragic waste.  My own experience of school where I found myself struggling to focus and constantly in trouble trickled down my spine.  I knew I needed a new career where I could be myself, honour and enhance the creative spirit and feel useful.
-
-  “Love the hand that fate deals you and play it as your own” Marcus Aurelius
-
-  That evening as I looked hungrily in the fridge, I saw a meal appear which I remember felt delicious.  As I followed the feeling of making a dinner with what one has to hand, I remembered playing cards as a small child into my teens, with my wonderful Great Grandmother.  Each hand you are dealt you must play as it is, and that is where the seasoning of fun, luck and creative resource ignite your potential.  The key nutrients in this pass time are presence and attention - engaging fully in the process, setting the natural practicality of the human spirit free.  Play is vital for life. It is how we learn to feed and care for ourselves after all.
-
-  It was some years later that I trained as a psychotherapist and the idea for the ‘cooking cure’ took shape and gave the creative cookbook a new dimension.  My earlier studies in anthropology, my fascination with Carl Jung and depth psychology now fed into the cookbook that you can delve into today.  It is a long and evolving story which I hope will come alive in your hands…
-
-  An idea for a creative cookbook that could show the reader how to cook with intuition and instinct began to simmer.  A pack of playing cards who became a set of recipes, each with a character who showed you how, when and why to cook them, was on the boil.  The various salts and seeds of my personal and professional life combined into what would follow the journey of becoming a conscious cook.  Drama teaching had shown me how to practice physical theatre, personifying objects and allowing them to speak, the vital role of creative confidence and how to reach our unique potential.  The essence of love in each meal we make, however small or grand, formed the foundation of this project.  By enjoying the process of putting imagination, play and appetite together in the kitchen, we create a recipe for life.
-
-  It was some years later that I trained as a psychotherapist where the idea for the ‘cooking cure’ took shape and gave the creative cookbook a new dimension and direction.  My earlier studies in anthropology, my fascination with Carl Jung's depth psychology and philosophy now fed into the cookbook that you can delve into today.  It is a long and evolving story which I hope will come alive in your hands…
-
-  'Kitchen  Therapy - how to become a conscious cook', published summer 2024 with Ortus Press, an imprint of Free Association Books, is available from Amazon, or contact me direct to arrange a signed copy!
+desc: "Many moons ago I had an idea for a creative, intuitive, playful cookbook. And
+  finally it’s here and in print – KITCHEN THERAPY how to become a conscious cook,
+  published summer 2024 by Ortus Books.\nIt was twenty years ago, standing with my
+  hand on the open fridge door planning the family supper, that I began thinking about
+  leaving my job as a Drama Teacher, amid the curriculum changes that were disastrous
+  for me and my neurodiverse students. Their creative abilities stunted by an outdated
+  syllabus of dry text, unsuitable (in my opinion) for any secondary classroom but
+  for my dyslexic students was a tragic waste. My own experience of school where I
+  found myself struggling to focus and constantly in trouble trickled down my spine.
+  \nI knew then I needed a new career where I could be myself and be useful. \n“Love
+  the hand that fate deals you and play it as your own.” Marcus Aurelius \nThat evening
+  as I looked hungrily in the fridge, I pictured a meal appearing which I remember
+  felt delicious. As I followed the feeling of making a dinner with what one has to
+  hand, I recalled playing cards with my wonderful Great Grandmother. Each hand you
+  are dealt you must play as it is, and that is where the seasoning of fun, luck and
+  creative resource ignite your potential.\nAn idea was simmering, for a creative
+  cookbook that could show the reader how to cook with intuition and instinct. A plan
+  was on the boil, perhaps a pack of playing cards? That became a set of recipes,
+  each with a character who showed you how, when and why to cook them. The various
+  salts and seeds of my personal and professional life combined into what would become
+  Kitchen Therapy – how to become a conscious cook. \nI drew on what I had learnt
+  from teaching Drama: showing me how to practice physical theatre, personifying objects
+  and allowing them to speak. \nAnd the vital role of creative confidence and how
+  to reach our unique potential. \nThe essence of love in each meal we make, however
+  small or grand, formed the foundation of this project. By enjoying the process of
+  putting imagination and practical play together in the kitchen, we create a recipe
+  for life. B\nIn the years that followed, I trained as a Psychotherapist, and the
+  idea for the ‘cooking cure’ took shape and gave the creative cookbook a new dimension.
+  My earlier studies in anthropology, my fascination with Carl Jung and depth psychology
+  now fed into this cookbook Kitchen Therapy – how to become a conscious cook which
+  you can delve into today. \nIt is a long and evolving story which I hope will come
+  alive in your hands… BUY YOUR COPY HERE\n\n"
 images:
 - image: "/uploads/book-1.JPG"
 - image: "/uploads/book-2.jpg"
