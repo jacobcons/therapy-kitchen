@@ -1,0 +1,17 @@
+.primary-footer {
+	width: 90%;
+	max-width: calculate-rem(936px);
+	margin: calculate-rem(96px) auto;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	@media (max-width: $x-large) {
+		display: grid;
+		grid-row-gap: calculate-rem(36px);
+		justify-content: center;
+		margin:  0 auto calculate-rem(32px) auto;
+	}
+	@media (max-width: $small) {
+		
+	}
+}
