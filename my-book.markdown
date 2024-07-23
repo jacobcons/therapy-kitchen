@@ -3,7 +3,7 @@ title: My Book
 date: 2024-06-15 15:46:00 Z
 position: 3
 banner:
-  image: '/uploads/Colourwriting.jpg'
+  image: "/uploads/Colourwriting.jpg"
   position: bottom
 text: |-
   Many moons ago I had an idea for a creative, intuitive, playful cookbook. And finally it’s here and in print – **KITCHEN THERAPY how to become a conscious cook,** published summer 2024 by Ortus Books.
@@ -28,28 +28,27 @@ text: |-
 
   It is a long and evolving story which I hope will come alive in your hands… [BUY YOUR COPY HERE](https://www.amazon.co.uk/Kitchen-Therapy-Charlotte-Hastings/dp/1911383906)
 images:
-  - image: '/uploads/book-1.JPG'
-  - image: '/uploads/book-2.jpg'
-  - image: '/uploads/book-3.jpg'
+- image: "/uploads/book-1.JPG"
+- image: "/uploads/book-2.jpg"
+- image: "/uploads/book-3.jpg"
 testimonials:
-  - author: Andy Sturgeon
-    quote:
-      Charlotte exudes a passion for cooking and her infectious energy makes her
-      a tour de force in the kitchen.  She has inspired my kids to cook and love food…
-      entertaining us all at her many culinary happenings.
-  - author: Ron Awotar
-    quote: |-
-      Charlotte has such a gentle casual way that she makes taking charge of your health a very pleasant experience.
+- author: Andy Sturgeon
+  quote: Charlotte exudes a passion for cooking and her infectious energy makes her
+    a tour de force in the kitchen.  She has inspired my kids to cook and love food…
+    entertaining us all at her many culinary happenings.
+- author: Ron Awotar
+  quote: |-
+    Charlotte has such a gentle casual way that she makes taking charge of your health a very pleasant experience.
 
-      Charlotte was one of my first cooking teachers and the first one to make me feel confident and unafraid of all the new foods and theories that just right for me as a beginner.
+    Charlotte was one of my first cooking teachers and the first one to make me feel confident and unafraid of all the new foods and theories that just right for me as a beginner.
 
-      She inspired all the students with her cooking, compassion and understanding; she is not only teaching in her class, she is also hands on cooking including all students’ participation.
+    She inspired all the students with her cooking, compassion and understanding; she is not only teaching in her class, she is also hands on cooking including all students’ participation.
 
-      Charlotte’s Learn to Love Cooking Course helped me finally understand food and how to cook with love. Her teaching technique is so clear, easy and practical to understand, some of my favourite dishes are Fish Pie/ Risotto-Chicken/Mushroom and Leek/ Chocolate and Banana Cake and Chocolate Brownies.
-  - author: Andy Sturgeon
-    quote:
-      Charlotte exudes a passion for cooking and her infectious energy makes her
-      a tour de force in the kitchen.  She has inspired my kids to cook and love food…
-      entertaining us all at her many culinary happenings.
+    Charlotte’s Learn to Love Cooking Course helped me finally understand food and how to cook with love. Her teaching technique is so clear, easy and practical to understand, some of my favourite dishes are Fish Pie/ Risotto-Chicken/Mushroom and Leek/ Chocolate and Banana Cake and Chocolate Brownies.
+- author: Andy Sturgeon
+  quote: Charlotte exudes a passion for cooking and her infectious energy makes her
+    a tour de force in the kitchen.  She has inspired my kids to cook and love food…
+    entertaining us all at her many culinary happenings.
 layout: my-book
 ---
+
