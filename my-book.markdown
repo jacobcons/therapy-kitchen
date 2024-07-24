@@ -7,7 +7,10 @@ banner:
   position: bottom
 text: |-
   Many moons ago I had an idea for a creative, intuitive, playful cookbook. And finally it’s here and in print – **KITCHEN THERAPY how to become a conscious cook,** published summer 2024 by Ortus Books.
+
   ![IMG_7183_sml.jpg](/uploads/IMG_7183_sml.jpg)
+
+
   It was twenty years ago, standing with my hand on the open fridge door planning the family supper, that I began thinking about leaving my job as a Drama Teacher, amid the curriculum changes that were disastrous for me and my neurodiverse students. Their creative abilities stunted by an outdated syllabus of dry text, unsuitable (in my opinion) for any secondary classroom but for my dyslexic students was a tragic waste. My own experience of school where I found myself struggling to focus and constantly in trouble trickled down my spine.
 
   I knew then I needed a new career where I could be myself and be useful.
