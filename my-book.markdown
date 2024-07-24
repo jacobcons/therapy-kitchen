@@ -17,15 +17,21 @@ text: |-
 
   ***“Love the hand that fate deals you and play it as your own.” Marcus Aurelius***
 
+  ![booksign_sml.jpg](/uploads/booksign_sml.jpg)
+
   That evening as I looked hungrily in the fridge, I pictured a meal appearing which I remember felt delicious. As I followed the feeling of making a dinner with what one has to hand, I recalled playing cards with my wonderful Great Grandmother. Each hand you are dealt you must play as it is, and that is where the seasoning of fun, luck and creative resource ignite your potential.
 
   An idea was simmering, for a creative cookbook that could show the reader how to cook with intuition and instinct. A plan was on the boil, perhaps a pack of playing cards? That became a set of recipes, each with a character who showed you how, when and why to cook them. The various salts and seeds of my personal and professional life combined into what would become **[Kitchen Therapy – how to become a conscious cook](https://www.amazon.co.uk/Kitchen-Therapy-Charlotte-Hastings/dp/1911383906)**.
+
+  ![3ofus_sml.jpg](/uploads/3ofus_sml.jpg)
 
   I drew on what I had learnt from teaching Drama: showing me how to practice physical theatre, personifying objects and allowing them to speak.
 
   And the vital role of creative confidence and how to reach our unique potential.
 
-  The essence of love in each meal we make, however small or grand, formed the foundation of this project. By enjoying the process of putting imagination and practical play together in the kitchen, we create a recipe for life. B
+  The essence of love in each meal we make, however small or grand, formed the foundation of this project. By enjoying the process of putting imagination and practical play together in the kitchen, we create a recipe for life.
+
+  ![watching_sml.jpg](/uploads/watching_sml.jpg)
 
   In the years that followed, I trained as a Psychotherapist, and the idea for the ‘cooking cure’ took shape and gave the creative cookbook a new dimension. My earlier studies in anthropology, my fascination with Carl Jung and depth psychology now fed into this cookbook **[Kitchen Therapy – how to become a conscious cook](https://www.amazon.co.uk/Kitchen-Therapy-Charlotte-Hastings/dp/1911383906)** which you can delve into today.
 
