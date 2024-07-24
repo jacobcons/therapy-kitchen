@@ -26,6 +26,12 @@ slider-images:
   alt: 
 - image: "/uploads/IMG_0628-1a8fca.jpg"
   alt: 
+- image: "/uploads/cookery1_Charlotte%20Nettle%20session68454_sml.jpg"
+  alt: 
+- image: "/uploads/cookery2_Charlotte%20Nettle%20session68461_sml.jpg"
+  alt: 
+- image: "/uploads/cookery3_Charlotte%20Nettle%20session68366_sml.jpg"
+  alt: 
 what-is-it:
   title: What is it?
   desc: |-
