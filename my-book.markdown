@@ -39,7 +39,7 @@ text: |-
 images:
 - image: "/uploads/book-1.JPG"
 - image: "/uploads/book-2.jpg"
-- image: "/uploads/image-0eca15.png"
+- image: "/uploads/image-681d25.png"
 testimonials:
 - author: |-
     Jeremy Holmes
