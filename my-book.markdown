@@ -39,7 +39,7 @@ text: |-
 images:
 - image: "/uploads/book-1.JPG"
 - image: "/uploads/book-2.jpg"
-- image: "/uploads/eyJidWNrZXQiOiJzaXRlbGVhZi1jZG4iLCJrZXkiOiI1YjNiNDRhNDFkZWFhYjQ4NTE4OTY5M2IvYXNzZXRzLzY2YTE1YmI1YjgxMjVhNDc2YjkzYTZjYi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6MTIwMCwiZml0IjoiaW5zaWRlIn0sInRvRm9ybWF0Ijoid2VicCJ9fQ==-1.webp"
+- image: "/uploads/9a481efd-b1ed-474e-8dc3-6daae8e444f9.jpg"
 testimonials:
 - author: |-
     Jeremy Holmes
