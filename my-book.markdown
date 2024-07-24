@@ -41,23 +41,43 @@ images:
 - image: "/uploads/book-2.jpg"
 - image: "/uploads/book-3.jpg"
 testimonials:
-- author: Andy Sturgeon
-  quote: Charlotte exudes a passion for cooking and her infectious energy makes her
-    a tour de force in the kitchen.  She has inspired my kids to cook and love food…
-    entertaining us all at her many culinary happenings.
-- author: Ron Awotar
-  quote: |-
-    Charlotte has such a gentle casual way that she makes taking charge of your health a very pleasant experience.
-
-    Charlotte was one of my first cooking teachers and the first one to make me feel confident and unafraid of all the new foods and theories that just right for me as a beginner.
-
-    She inspired all the students with her cooking, compassion and understanding; she is not only teaching in her class, she is also hands on cooking including all students’ participation.
-
-    Charlotte’s Learn to Love Cooking Course helped me finally understand food and how to cook with love. Her teaching technique is so clear, easy and practical to understand, some of my favourite dishes are Fish Pie/ Risotto-Chicken/Mushroom and Leek/ Chocolate and Banana Cake and Chocolate Brownies.
-- author: Andy Sturgeon
-  quote: Charlotte exudes a passion for cooking and her infectious energy makes her
-    a tour de force in the kitchen.  She has inspired my kids to cook and love food…
-    entertaining us all at her many culinary happenings.
+- author: |-
+    Jeremy Holmes
+    Hon Professor of psychological therapies, University of Exeter, UK
+  quote: '"Contemporary ethno-anthropology tells us that, in contrast to our ape ancestors,
+    sharing food is central to what makes us human: company,  com panis, shared bread.  In
+    this original, honest, unputdownable and loveable book, Hastings shows how communal
+    cooking is both physiology and symbol, history and present moment, life support
+    and social bond, convention and creativity, pleasure and – with Klein, Bowlby
+    and Winnicott in the wings -  potentially novel form of therapy. Gnaw at it, enjoy
+    it, try its recipes – satisfaction guaranteed."'
+- author: Professor Brett Kahr is Senior Fellow at the Tavistock Institute of Medical
+    Psychology in London and, also, Visiting Professor of Psychoanalysis and Mental
+    Health at Regent’s University London.  He is Honorary Director of Research at
+    the Freud Museum London and the author of eighteen books on psychotherapy and
+    psychoanalysis
+  quote: "“Charlotte Hastings boasts a very original mind indeed!  In this truly unique
+    publication, she integrates her expertise in the two seemingly disparate fields
+    of psychotherapy and cooking with great creativity and optimism.  I deeply recommend
+    this extremely memorable book, based on a vast range of experience, to every single
+    human being.”"
+- author: |-
+    Lisa Marchiano, LCSW, NCPsyA
+    Writer, Jungian Analyst, Podcaster
+  quote: '"Kitchen Therapy brings a surprising, playful, and embodied new dimension
+    to psychotherapy. Food -- its preparation and consumption -- is replete with ancient,
+    communal meanings. What a wonderful pathway into psyche!"'
+  Key: 
+- author: Andrew Marriott
+  quote: "\t\n'Delightful and utterly engrossing.'\n\nKitchen Therapy should appeal
+    to a very wide readership. The domain of food becomes a place of enhancement where
+    we can take time to reflect on what makes our world go round and why. Charlotte
+    Hastings brings Zen and the Art of Motorcycle Maintenance into the kitchen but
+    dispels all the gloom through her magical creations and her daughter's charming
+    illustrations. You don't need to be a therapist or a cook to enjoy this book.
+    This is nutrition for the soul."
+  Key: 
+Field name: 
 layout: my-book
 ---
 
