@@ -35,7 +35,7 @@ text: |-
 
   In the years that followed, I trained as a Psychotherapist, and the idea for the ‘cooking cure’ took shape and gave the creative cookbook a new dimension. My earlier studies in anthropology, my fascination with Carl Jung and depth psychology now fed into this cookbook **[Kitchen Therapy – how to become a conscious cook](https://www.amazon.co.uk/Kitchen-Therapy-Charlotte-Hastings/dp/1911383906)** which you can delve into today.
 
-  It is a long and evolving story which I hope will come alive in your hands… [BUY YOUR COPY HERE](https://www.amazon.co.uk/Kitchen-Therapy-Charlotte-Hastings/dp/1911383906)
+  It is a long and evolving story which I hope will come alive in your hands… [BUY YOUR COPY HERE](https://www.amazon.co.uk/Kitchen-Therapy-Charlotte-Hastings/dp/1911383906)or email charlotte@therapykitchen.co.uk to buy direct.
 images:
 - image: "/uploads/book-1.JPG"
 - image: "/uploads/book-2.jpg"
