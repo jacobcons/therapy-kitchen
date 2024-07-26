@@ -68,7 +68,7 @@ testimonials:
     to psychotherapy. Food -- its preparation and consumption -- is replete with ancient,
     communal meanings. What a wonderful pathway into psyche!"'
   Key: 
-- author: Andrew Marriott
+- author: 'Andrew Marriott, MBE, PhD (Archeology), author, Army Veteran '
   quote: "\t\n'Delightful and utterly engrossing.'\n\nKitchen Therapy should appeal
     to a very wide readership. The domain of food becomes a place of enhancement where
     we can take time to reflect on what makes our world go round and why. Charlotte
