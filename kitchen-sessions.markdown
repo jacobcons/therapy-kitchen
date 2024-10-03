@@ -4,7 +4,7 @@ date: 2024-10-03 13:59:00 Z
 position: 3
 page-title: Kitchen Sessions
 banner:
-  image: '/uploads/kitchen-sessions.jpg'
+  image: "/uploads/kitchen-sessions.jpg"
 text: |-
   Kitchen sessions is a community interest company, providing
   * Social  nutrition
@@ -17,3 +17,4 @@ text: |-
   Website launching soon, send me an email for more info.
 layout: kitchen-sessions
 ---
+
