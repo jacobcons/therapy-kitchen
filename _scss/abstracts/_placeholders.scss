@@ -1,0 +1,14 @@
+%spacer {
+	margin: calculate-rem(72px) 0;
+	@media (max-width: $small) {
+		margin: calculate-rem(48px) 0;
+	}
+}
+
+%spacer-large {
+	margin: calculate-rem(136px) auto;
+	@media (max-width: $small) {
+		margin: calculate-rem(64px) auto;
+	}
+}
+
