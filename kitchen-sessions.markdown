@@ -7,10 +7,14 @@ banner:
   image: '/uploads/kitchen-sessions.jpg'
 text: |-
   Kitchen sessions is a community interest company, providing
-  ‘Social  nutrition’
-  ‘edible creativity’
-  ‘community casseroles’
-  ‘Natural spirituality’
+
+  * Social  nutrition
+
+  * Edible Creativity
+
+  * Community Casseroles
+
+  * Natural Spirituality
 
   In a campfire kitchen near you
 
