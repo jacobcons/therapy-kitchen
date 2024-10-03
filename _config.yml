@@ -52,6 +52,8 @@ menu:
     url: "/services/kitchen-therapy.html"
   - title: Cookery
     url: "/services/cookery.html"
+- title: Kitchen Sessions
+  url: "/kitchen-sessions.html"
 - title: My Book
   url: "/my-book.html"
 - title: Media
