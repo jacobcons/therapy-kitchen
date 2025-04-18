@@ -6,15 +6,15 @@ page-title: Kitchen Sessions
 banner:
   image: "/uploads/kitchen-sessions-2ce684.JPG"
 text: |-
-  Kitchen sessions is a community interest company, providing
+  Kitchen sessions is a Community Interest Company, providing
   * Social  nutrition
   * Edible Creativity
   * Community Casseroles
   * Natural Spirituality
 
-  In a campfire kitchen near you
+  In a campfire-kitchen near you
 
-  Website launching soon, send me an email for more info.
+  find out more at www.kitchensessions.org
 layout: kitchen-sessions
 ---
 
