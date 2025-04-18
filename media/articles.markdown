@@ -11,8 +11,8 @@ intro: 'Articles:'
 links:
 - name: An Introduction to Kitchen Therapy
   url: https://www.pesi.co.uk/Blog/2020/December/Kitchen-Therapy-An-Introduction
-- name: Treat Addiction with Kitchen Therapy
-  url: https://www.help4addiction.co.uk/make-love-not-fuel/
+- name: 'substack '
+  url: "https://charlotte448.substack.com/publish/home\n\n"
 - name: Kitchen Therapy - from Nursing Couple to Kitchen Table
   url: https://www.pesi.co.uk/Blog/2021/February/Kitchen-Therapy-From-Nursing-Couple-to-Kitchen-Tab
 - name: Couples' Kitchen Therapy Session Review
