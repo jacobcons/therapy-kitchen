@@ -12,7 +12,7 @@ text: |-
   * Community Casseroles
   * Natural Spirituality
 
-  In a campfire-kitchen near you
+  In a campfire-kitchen-classroom near you
 
   find out more at www.kitchensessions.org
 layout: kitchen-sessions
