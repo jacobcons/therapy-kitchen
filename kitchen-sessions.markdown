@@ -5,16 +5,13 @@ position: 3
 page-title: Kitchen Sessions
 banner:
   image: "/uploads/kitchen-sessions-2ce684.JPG"
-text: |-
-  Kitchen sessions is a Community Interest Company, providing
-  * Social  nutrition
-  * Edible Creativity
-  * Community Casseroles
-  * Natural Spirituality
-
-  In a campfire-kitchen-classroom near you
-
-  find out more at www.kitchensessions.org
+text: "Come and join our training day \n\n![Kitchen Therapy_Attachment Food and Connection
+  A6.jpg](/uploads/Kitchen%20Therapy_Attachment%20Food%20and%20Connection%20A6.jpg)\n\nKitchen
+  sessions is a Community Interest Company, providing\n* Social  nutrition\n* Edible
+  Creativity\n* Community Casseroles\n* Natural Spirituality\n\nIn a campfire-kitchen-classroom
+  near you\n\nfind out more at www.kitchensessions.org"
+Field name:
+- 
 layout: kitchen-sessions
 ---
 
