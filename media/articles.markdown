@@ -4,7 +4,7 @@ date: 2021-02-12 14:58:00 Z
 position: 2
 page-title: Articles -- Therapy Kitchen
 banner:
-  image: "/uploads/podcast.jpg"
+  image: "/uploads/KitchenTherapy_0320_bw.jpg"
   position: center
   has-brown-tint: true
 intro: 'Articles:'
