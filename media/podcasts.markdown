@@ -4,13 +4,13 @@ date: 2018-07-04 11:40:00 Z
 position: 0
 page-title: Podcasts -- Therapy Kitchen
 banner:
-  image: "/uploads/podcast.jpg"
+  image: "/uploads/KitchenTherapy_0187.jpg"
   position: center
   has-brown-tint: true
 intro: 'Other podcasts:'
 links:
 - name: kitchen sessions - previous episodes
-  url: https://soundcloud.com/kitchensessionspodcast
+  url: https://open.spotify.com/show/5WWZGD9he225R9bR4p0jMh
   Key: 
 - name: 'Start the Week - Food: From Bread Riots to Obesity - @bbcradio4'
   url: https://www.bbc.co.uk/programmes/b07h69n9
@@ -25,7 +25,8 @@ links:
 - name: Couples kitchen therapy session with Denise Van Outen and Eddie Boxshall -
     Before We Say " I Do"
   url: https://open.spotify.com/episode/2VJNeNOzgzBxsadtw1NOFR?si=Iv5wLVr_TiO9bDhRRefKxg
-Field name: 
+Field name: Local (Brighton) radio
+Radio Reverb 97.2 Food and Drink Show: https://www.radioreverb.com/show/food-drink-show-brightonradio/
 layout: podcasts
 ---
 
