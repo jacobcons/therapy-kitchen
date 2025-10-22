@@ -49,9 +49,9 @@ what-to-expect:
   - Sessions are as unique as you, the ingredients of cooking, conversation, dietary
     needs forming their specific recipe as required.
   table:
-  - cost: "£55"
-    for: Individuals
   - cost: "£75"
+    for: Individuals
+  - cost: "£95"
     for: Couples
   - cost: To be negotiated
     for: Group
@@ -117,6 +117,13 @@ who-is-it-for:
     - Enjoying making good food together gave a new basis for communication
     - By learning alongside one another, they were able to listen to each other again,
       re-establishing their relationship on a new, adult platform
+  Key: 'The workshops have been such a brilliant experience for me and my family —
+    we’ve learned loads about cooking healthy meals together, and it’s really boosted
+    our confidence in the kitchen. It’s not just about food, but about connection,
+    fun, and creativity. We always come away feeling inspired and nourished in every
+    sense!
+
+'
 testimonials:
 - author: Abigail
   quote-preview: 'Thank you Charlotte for a truly unique, delicious and educative
@@ -137,6 +144,7 @@ testimonials:
     with her self confidence. She made one of the recipes entirely on her own with
     just me reading out instructions. When she finished she said it tasted just perfect
     and said she was very proud of herself - it was delicious."
+  Key: 
 - author: Heidi
   quote-preview: Charlotte's enthusiasm and passion for life spills over into all
     her kitchen therapy classes
