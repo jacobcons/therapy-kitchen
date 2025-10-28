@@ -52,6 +52,14 @@ services:
     bg-opacity: 0.7
     url: '/services/cookery.html'
 testimonials:
+  - author: Heidi
+    quote-preview:
+      Charlotte's enthusiasm and passion for life spills over into all
+      her kitchen therapy classes
+    quote: |-
+      Charlotte's enthusiasm and passion for life spills over into all her kitchen therapy classes, rekindling an inner eagerness to enter the kitchen once again.
+      Her awareness of the emotions connected to our eating habits, healthy nutrition and cookery, offer skills in supporting self care and well being, playing an enormous role in our mental health today.
+      Nurturing kindness back to the self in nourishing ways can only build confidence and aliveness, deepening further relationships to family, social and community through fun, healthy and creative cookery which Charlotte's classes truly ignite.
   - author: Abigail
     quote-preview:
       'Thank you Charlotte for a truly unique, delicious and educative
@@ -73,14 +81,7 @@ testimonials:
       with her self confidence. She made one of the recipes entirely on her own with
       just me reading out instructions. When she finished she said it tasted just perfect
       and said she was very proud of herself - it was delicious."
-  - author: Heidi
-    quote-preview:
-      Charlotte's enthusiasm and passion for life spills over into all
-      her kitchen therapy classes
-    quote: |-
-      Charlotte's enthusiasm and passion for life spills over into all her kitchen therapy classes, rekindling an inner eagerness to enter the kitchen once again.
-      Her awareness of the emotions connected to our eating habits, healthy nutrition and cookery, offer skills in supporting self care and well being, playing an enormous role in our mental health today.
-      Nurturing kindness back to the self in nourishing ways can only build confidence and aliveness, deepening further relationships to family, social and community through fun, healthy and creative cookery which Charlotte's classes truly ignite.
+    Key:
   - author: 'Sarah '
     quote-preview:
       I was apprehensive about the kitchen therapy class but was immediately
@@ -128,6 +129,21 @@ testimonials:
       and interesting cooking in a different environment - the great outdoors.  Picking
       our ingredients was also a new experience which I loved.  My confidence has grown
       so much... inspiring me to grow my own vegetables and herbs to use at home.
+  - author: Recovery College Student, October '25
+    quote-preview: '"[Kitchen Therapy] ... has sparked a passion I longed for"'
+    quote:
+      "I have found attending Charlotte's course therapeutic and very helpful in
+      rediscovery of myself again\nThe collage of colours, flavours and smells that
+      have been created have strongly encouraged me to bring it to my kitchen ever since
+      it started\nIt has sparked a passion I longed for \U0001F60A\U0001F3C6\U0001F618"
+  - author: Family workshop participant
+    quote-preview: '"...a brilliant experience for me and my family..."'
+    quote:
+      The workshops have been such a brilliant experience for me and my family
+      — we’ve learned loads about cooking healthy meals together, and it’s really boosted
+      our confidence in the kitchen. It’s not just about food, but about connection,
+      fun, and creativity. We always come away feeling inspired and nourished in every
+      sense!
 book:
   title: My New Book
   desc:
