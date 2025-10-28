@@ -1,35 +1,35 @@
-@import 'abstracts/variables';
-@import 'abstracts/functions';
-@import 'abstracts/mixins';
-@import 'abstracts/placeholders';
+@use 'abstracts/variables';
+@use 'abstracts/functions';
+@use 'abstracts/mixins';
+@use 'abstracts/placeholders';
 
-@import 'base/base';
-@import 'base/fonts';
-@import 'base/helpers';
-@import 'base/typography';
+@use 'base/base';
+@use 'base/fonts';
+@use 'base/helpers';
+@use 'base/typography';
 
-@import 'components/book';
-@import 'components/box';
-@import 'components/btn';
-@import 'components/card';
-@import 'components/hamburger-menu';
-@import 'components/horizontal-list';
-@import 'components/input-field';
-@import 'components/modal';
-@import 'components/post';
-@import 'components/slider';
-@import 'components/social-media-icon';
-@import 'components/testimonial';
-@import 'components/timeline';
+@use 'components/book';
+@use 'components/box';
+@use 'components/btn';
+@use 'components/card';
+@use 'components/hamburger-menu';
+@use 'components/horizontal-list';
+@use 'components/input-field';
+@use 'components/modal';
+@use 'components/post';
+@use 'components/slider';
+@use 'components/social-media-icon';
+@use 'components/testimonial';
+@use 'components/timeline';
 
-@import 'layout/cols';
-@import 'layout/grid';
-@import 'layout/primary-footer';
-@import 'layout/primary-header';
-@import 'layout/primary-nav';
-@import 'layout/primary-section';
-@import 'layout/sub-nav';
+@use 'layout/cols';
+@use 'layout/grid';
+@use 'layout/primary-footer';
+@use 'layout/primary-header';
+@use 'layout/primary-nav';
+@use 'layout/primary-section';
+@use 'layout/sub-nav';
 
-@import 'vendor/tiny-slider';
+@use 'vendor/tiny-slider';
 
-@import 'vendor-extensions/tiny-slider';
+@use 'vendor-extensions/tiny-slider' as tiny-slider2;

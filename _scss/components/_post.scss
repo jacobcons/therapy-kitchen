@@ -1,17 +1,23 @@
+@use "abstracts/functions";
+@use "abstracts/variables";
+
+@use 'sass:math';
+
 .post ul {
-	padding-left: calculate-rem(24px);
+  padding-left: functions.calculate-rem(24px);
 }
 
 .post li p {
-	display: inline;
+  display: inline;
 }
 
 .post img {
-	$margin: 16px;
-	margin: calculate-rem($margin / 2) calculate-rem($margin) calculate-rem($margin / 2) 0;
-	max-width: 100%;
-	@media (max-width: $small) {
-		display: block;
-		margin: 0 0 calculate-rem($margin) 0;
-	}
+  $margin: 16px;
+  margin: functions.calculate-rem(math.div($margin, 2)) functions.calculate-rem($margin)
+    functions.calculate-rem(math.div($margin, 2)) 0;
+  max-width: 100%;
+  @media (max-width: variables.$small) {
+    display: block;
+    margin: 0 0 functions.calculate-rem($margin) 0;
+  }
 }

@@ -1,23 +1,26 @@
+@use "abstracts/mixins";
+@use "abstracts/variables";
+
 .input-field__text-input {
   border: none;
-  border-bottom: 1px solid $mid-gray;
+  border-bottom: 1px solid variables.$mid-gray;
   outline: none;
   height: 2rem;
   width: 100%;
   font-family: 'Gerogia', serif;
-  @include font-size(16px);
+  @include mixins.font-size(16px);
 }
 
 .input-field--active {
   .input-field__text-input {
-    border-color: $main-theme-color;
-    color: $main-theme-color;
+    border-color: variables.$main-theme-color;
+    color: variables.$main-theme-color;
   }
   .input-field__label {
-    color: $main-theme-color;
+    color: variables.$main-theme-color;
     transform: translateY(-10px);
     transform-origin: 0 0;
-    @include font-size(12px);
+    @include mixins.font-size(12px);
   }
 }
 
@@ -27,15 +30,15 @@ textarea.input-field__text-input {
 }
 
 .input-field__label {
-	color: $mid-gray;
-	@include font-size(15px);
+	color: variables.$mid-gray;
+	@include mixins.font-size(15px);
   transition: all .2s ease-out;
   display: inline-block;
 }
 
 .input-field__error {
-  color: $error-color;
-  @include font-size(12px);
+  color: variables.$error-color;
+  @include mixins.font-size(12px);
 }
 
 

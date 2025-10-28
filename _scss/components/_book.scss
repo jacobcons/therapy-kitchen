@@ -1,5 +1,7 @@
+@use "abstracts/mixins";
+
 .book__text {
-  @include font-size(20px);
+  @include mixins.font-size(20px);
 }
 
 .book__quote {
@@ -7,5 +9,5 @@
 }
 
 .book__link {
-  @include font-size(18px);
+  @include mixins.font-size(18px);
 }

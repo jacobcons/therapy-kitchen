@@ -1,3 +1,6 @@
+@use "abstracts/functions";
+@use "abstracts/variables";
+
 .sub-nav {
 	position: absolute;
 	top: 100%;
@@ -5,8 +8,8 @@
 	transform: translateX(-50%);
 	text-align: left;
 	white-space: nowrap;
-	background-color: $white;
-	padding: 0 calculate-rem(16px) calculate-rem(8px) calculate-rem(16px);
+	background-color: variables.$white;
+	padding: 0 functions.calculate-rem(16px) functions.calculate-rem(8px) functions.calculate-rem(16px);
 	display: none;
 	z-index: 2;
 }
@@ -18,6 +21,6 @@
 
 .sub-nav__link {
 	display: block;
-	margin: calculate-rem(16px) 0;
-	color: $mid-gray;
+	margin: functions.calculate-rem(16px) 0;
+	color: variables.$mid-gray;
 }

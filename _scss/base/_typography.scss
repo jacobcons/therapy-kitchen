@@ -1,57 +1,62 @@
+@use "abstracts/functions";
+@use "abstracts/mixins";
+@use "abstracts/variables";
+
+@use 'sass:math';
 .logo {
-	@include font-size(64px);
-	margin: 0.67em 0;
-	@media (max-width: $x-small) {
-		@include font-size(54px);
-	}
-	a {
-		color: $white;
-		text-decoration: none;
-	}
+  @include mixins.font-size(64px);
+  margin: 0.67em 0;
+  @media (max-width: variables.$x-small) {
+    @include mixins.font-size(54px);
+  }
+  a {
+    color: variables.$white;
+    text-decoration: none;
+  }
 }
 
 .text-wrapper {
-	width: 90%;
-	max-width: calculate-rem(860px);
-	margin: calculate-rem(24px) auto;
-	@include font-size(18px);
-	line-height: 1.612em;
-	@media (max-width: $small) {
-		@include font-size(16px)
-	}
+  width: 90%;
+  max-width: functions.calculate-rem(860px);
+  margin: functions.calculate-rem(24px) auto;
+  @include mixins.font-size(18px);
+  line-height: 1.612em;
+  @media (max-width: variables.$small) {
+    @include mixins.font-size(16px);
+  }
 }
 
 .contact-detail {
-	$base-size: 22px;
-	font-style: italic;
-	@include font-size($base-size);
-	@media (max-width: $small) {
-		$min-size: 12px;
-		$vw: (($base-size - $min-size) * (100 / 414px)) * 1vw;
-		font-size: calc(#{$min-size} + #{$vw});
-	}
+  $base-size: 22px;
+  font-style: italic;
+  @include mixins.font-size($base-size);
+  @media (max-width: variables.$small) {
+    $min-size: 12px;
+    $vw: (($base-size - $min-size) * math.div(100, 414px)) * 1vw;
+    font-size: calc(#{$min-size} + #{$vw});
+  }
 }
 
 .title {
-	@include font-size(48px);
-	margin: 0 0 calculate-rem(24px);
-	@media (max-width: $small) {
-		@include font-size(40px);
-	}
+  @include mixins.font-size(48px);
+  margin: 0 0 functions.calculate-rem(24px);
+  @media (max-width: variables.$small) {
+    @include mixins.font-size(40px);
+  }
 }
 
 .link {
-	text-decoration: underline;
-	color: $link-color;
-	cursor: pointer;
+  text-decoration: underline;
+  color: variables.$link-color;
+  cursor: pointer;
 }
 
 .long-link {
-	word-break: break-all;
-	@media (max-width: $small) {
-		@include font-size(14px)
-	}
-	@media (max-width: $x-small) {
-		@include font-size(13px)
-	}
+  word-break: break-all;
+  @media (max-width: variables.$small) {
+    @include mixins.font-size(14px);
+  }
+  @media (max-width: variables.$x-small) {
+    @include mixins.font-size(13px);
+  }
 }

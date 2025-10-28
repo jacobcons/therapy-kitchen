@@ -1,11 +1,13 @@
+@use "abstracts/variables";
+
 .primary-header {
-	text-align: center;
-	padding: calculate-rem(160px) calculate-rem(32px);
-	width: 100%;
-	display: flex;
-	flex-direction: column;
-	align-items: center;
-	background-size: cover;
-	color: $white;
-	background-color: $main-theme-color;
+  text-align: center;
+  padding: 6rem 2rem 8rem 2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-size: cover;
+  color: variables.$white;
+  background-color: variables.$main-theme-color;
 }

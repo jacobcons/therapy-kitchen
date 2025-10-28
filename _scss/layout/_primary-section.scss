@@ -1,3 +1,5 @@
+@use 'abstracts/placeholders';
+
 .primary-section {
-	@extend %spacer;
+  @extend %spacer;
 }

@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width" />
     <meta name="description" content="{{ page.meta-desc }}" />
 
-    <link rel="stylesheet" href="/main.css" />
+    <link rel="stylesheet" href="/assets/main.css" />
     <link
       rel="shortcut icon"
       href="/images/favicon.png"
@@ -36,7 +36,10 @@
     background-position: {{ page.banner.position }};
   "
     >
-      <h1 class="logo"><a href="/">{{ site.title }}</a></h1>
+      <a href="/"
+        ><img src="{{ site.logo }}" alt="" class="mb-8 w-[280px]"
+      /></a>
+
       <div class="hamburger-menu">
         <span class="hamburger-menu__line"></span>
       </div>
@@ -80,6 +83,6 @@
       </div>
     </footer>
 
-    <script src="/main.js"></script>
+    <script src="/assets/main.js"></script>
   </body>
 </html>

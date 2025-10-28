@@ -1,13 +1,17 @@
+@use "abstracts/functions";
+@use "abstracts/mixins";
+@use "abstracts/variables";
+
 .btn {
-	color: $main-theme-color;
-	border: 5px solid $main-theme-color;
-	@include font-size(32px);
+	color: variables.$main-theme-color;
+	border: 5px solid variables.$main-theme-color;
+	@include mixins.font-size(32px);
 	font-family: 'Playfair Display', serif;
 	font-style: italic;
 	text-align: center;
 	display: block;
 	padding: 1.5em 1.0625em;
-	max-width: calculate-rem(176px);
+	max-width: functions.calculate-rem(176px);
 	cursor: pointer;
 	margin: 0 auto;
 }

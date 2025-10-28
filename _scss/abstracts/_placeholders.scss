@@ -1,14 +1,17 @@
+@use "functions";
+@use "variables";
+
 %spacer {
-	margin: calculate-rem(72px) 0;
-	@media (max-width: $small) {
-		margin: calculate-rem(48px) 0;
+	margin: functions.calculate-rem(72px) 0;
+	@media (max-width: variables.$small) {
+		margin: functions.calculate-rem(48px) 0;
 	}
 }
 
 %spacer-large {
-	margin: calculate-rem(136px) auto;
-	@media (max-width: $small) {
-		margin: calculate-rem(64px) auto;
+	margin: functions.calculate-rem(136px) auto;
+	@media (max-width: variables.$small) {
+		margin: functions.calculate-rem(64px) auto;
 	}
 }
 

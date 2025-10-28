@@ -1,14 +1,20 @@
+@use "abstracts/functions";
+@use "abstracts/mixins";
+@use "abstracts/variables";
+
+@use 'sass:color';
+
 .social-media-icon {
-	margin: 0 calculate-rem(30px) 0 0;
-	svg {
-		@include square(calculate-rem(30px))
-		path {
-			transition: fill .2s;
-		}
-		&:hover {
-			path {
-				fill: darken($main-theme-color, 10%);
-			}
-		}
-	}
+  margin: 0 functions.calculate-rem(30px) 0 0;
+  svg {
+    @include mixins.square(functions.calculate-rem(30px));
+    path {
+      transition: fill 0.2s;
+    }
+    &:hover {
+      path {
+        fill: color.adjust(variables.$main-theme-color, $lightness: -10%);
+      }
+    }
+  }
 }

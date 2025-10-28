@@ -1,17 +1,24 @@
+@use "functions";
+
+@use 'sass:color';
+
 /* Colors */
 $white: #fff;
 $black: #000;
 $light-gray: rgba($black, 0.31);
 $mid-gray: rgba($black, 0.45);
 $dark-gray: rgba($black, 0.53);
-$main-theme-color: desaturate(#5c3317, 0%);//desaturate(#D6A94A, 10%);
+$main-theme-color: color.adjust(
+  #5c3317,
+  $saturation: 0%
+); //desaturate(#D6A94A, 10%);
 //\94d7d3
-$error-color: #D0021B;
-$link-color: rgba(#877EFF, 0.8);
+$error-color: #d0021b;
+$link-color: rgba(#877eff, 0.8);
 
 /* Breakpoints */
-$x-small: calculate-rem(320px); /* iphone 5/SE */
-$small: calculate-rem(414px); /* iphone 6/7/8 plus */
-$medium: calculate-rem(768px); /* ipad */
-$large: calculate-rem(900px);
-$x-large: calculate-rem(1140px);
+$x-small: functions.calculate-rem(320px); /* iphone 5/SE */
+$small: functions.calculate-rem(414px); /* iphone 6/7/8 plus */
+$medium: functions.calculate-rem(768px); /* ipad */
+$large: functions.calculate-rem(900px);
+$x-large: functions.calculate-rem(1140px);
