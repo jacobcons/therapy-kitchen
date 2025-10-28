@@ -4,54 +4,50 @@ date: 2018-07-04 11:24:00 Z
 position: 1
 page-title: Kitchen therapy -- Therapy Kitchen
 banner:
-  image: '/uploads/services-kitchentherapy-1.jpg'
+  image: "/uploads/services-kitchentherapy-1.jpg"
   position: center
   has-brown-tint: true
 what-is-it:
-  desc:
-    Kitchen therapy uses food and cooking to explore and enhance our relationships
+  desc: Kitchen therapy uses food and cooking to explore and enhance our relationships
     with ourselves, one another and our environment.  Looking at the importance of
     nurturing oneself and sharing food with others, helps us to connect with our creativity
     and passion, building positive feelings about ourselves and enabling helpful life
     changes.
   aspects:
-    - title: Self care
-      desc:
-        Our first experience of love in the world is through food. Supported in
-        the natural environment of the kitchen, we can rework our personal stories,
-        feelings and patterns as we explore our relationship with food.  Our mindfulness
-        around both the nutritional and emotional content of the food we make forms
-        the basis of self-care - how this has been, how it is today and how we intend
-        it to be.
-      bg-image: '/uploads/DSC_6898-78e395.jpg'
-      bg-opacity: 0.7
-    - title: Creativity and change
-      desc:
-        Cooking offers a direct connection with our unique human potential.  When
-        humans discovered how to make and use fire, they were given their first taste
-        of alchemy, one that ignited consciousness.  By bringing mindful attention to
-        the preparation of today's food, we can connect with our inner capacity for
-        change, agency and healing potential.
-      bg-image: '/uploads/IMG_0628.jpg'
-      bg-opacity: 0.7
-    - title: Campfire Con-panis
-      desc:
-        Our word company comes from the Latin, 'con-panis - with bread', reflecting
-        the importance of food in terms of communication, community and connection.  Kitchen
-        therapy looks to bring people together and increase our understanding of one
-        another, through our shared need of food and friendship.
-      bg-image: '/uploads/IMG_0779.jpg'
-      bg-opacity: 0.7
+  - title: Self care
+    desc: Our first experience of love in the world is through food. Supported in
+      the natural environment of the kitchen, we can rework our personal stories,
+      feelings and patterns as we explore our relationship with food.  Our mindfulness
+      around both the nutritional and emotional content of the food we make forms
+      the basis of self-care - how this has been, how it is today and how we intend
+      it to be.
+    bg-image: "/uploads/DSC_6898-78e395.jpg"
+    bg-opacity: 0.7
+  - title: Creativity and change
+    desc: Cooking offers a direct connection with our unique human potential.  When
+      humans discovered how to make and use fire, they were given their first taste
+      of alchemy, one that ignited consciousness.  By bringing mindful attention to
+      the preparation of today's food, we can connect with our inner capacity for
+      change, agency and healing potential.
+    bg-image: "/uploads/IMG_0628.jpg"
+    bg-opacity: 0.7
+  - title: Campfire Con-panis
+    desc: Our word company comes from the Latin, 'con-panis - with bread', reflecting
+      the importance of food in terms of communication, community and connection.  Kitchen
+      therapy looks to bring people together and increase our understanding of one
+      another, through our shared need of food and friendship.
+    bg-image: "/uploads/IMG_0779.jpg"
+    bg-opacity: 0.7
 what-to-expect:
   title: What to expect
   list:
-    - 1:1, couple and small group sessions are held in my garden studio, larger groups
-      require larger spaces!
-    - Sessions typically last 1-2 hours, during which time I will guide you through
-      using food, cooking and eating to explore your inner world, whilst making great
-      food for the table.
-    - Sessions are as unique as you, the ingredients of cooking, conversation, dietary
-      needs forming their specific recipe as required.
+  - 1:1, couple and small group sessions are held in my garden studio, larger groups
+    require larger spaces!
+  - Sessions typically last 1-2 hours, during which time I will guide you through
+    using food, cooking and eating to explore your inner world, whilst making great
+    food for the table.
+  - Sessions are as unique as you, the ingredients of cooking, conversation, dietary
+    needs forming their specific recipe as required.
   table:
   - cost: "£75"
     for: Individuals
@@ -60,22 +56,21 @@ what-to-expect:
   - cost: To be negotiated
     for: Group
 slider-images:
-  - image: '/uploads/DSC_6898-78e395.jpg'
-    alt:
-  - image: '/uploads/kt-2.jpg'
-    alt:
-  - image: '/uploads/kt-1.jpg'
-    alt:
-  - image: '/uploads/kt-3.jpg'
-    alt:
-  - image: '/uploads/IMG_0779.jpg'
-    alt:
-  - image: '/uploads/IMG_4764%203.jpeg'
-    alt:
+- image: "/uploads/DSC_6898-78e395.jpg"
+  alt: 
+- image: "/uploads/kt-2.jpg"
+  alt: 
+- image: "/uploads/kt-1.jpg"
+  alt: 
+- image: "/uploads/kt-3.jpg"
+  alt: 
+- image: "/uploads/IMG_0779.jpg"
+  alt: 
+- image: "/uploads/IMG_4764%203.jpeg"
+  alt: 
 who-is-it-for:
   title: Who is it for?
-  desc:
-    'Kitchen Therapy is for anyone looking for a practical and productive form
+  desc: 'Kitchen Therapy is for anyone looking for a practical and productive form
     of therapy, conducted in a friendly and relaxed environment. It is for anyone
     looking to explore personal issues in a creative and sensory way. Below are some
     examples of Kitchen therapy in practice:'
@@ -217,3 +212,4 @@ testimonials:
   Key: 
 layout: kitchen-therapy
 ---
+
