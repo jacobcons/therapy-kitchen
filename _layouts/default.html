@@ -36,10 +36,7 @@
     background-position: {{ page.banner.position }};
   "
     >
-      <a href="/"
-        ><img src="{{ site.logo }}" alt="" class="mb-8 w-[280px]"
-      /></a>
-
+      <h1 class="logo"><a href="/">{{ site.title }}</a></h1>
       <div class="hamburger-menu">
         <span class="hamburger-menu__line"></span>
       </div>
@@ -78,8 +75,9 @@
           classes="social-media-icon" %}</a
         >
       </div>
-      <div class="self-center">
-        <img src="/images/BACP-Logo.png" />
+      <div class="items-center flex flex-col gap-4">
+        <img src="/images/BACP-Logo.png" class="w-[130px]" />
+        <img src="{{ site.logo }}" alt="" class="w-[130px]" />
       </div>
     </footer>
 

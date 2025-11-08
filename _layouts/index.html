@@ -3,49 +3,13 @@ layout: default
 ---
 
 <section class="primary-section">
-  <div class="wrapper flex justify-center">
-    <iframe
-      width="728"
-      height="410"
-      src="{{ page.video-src }}"
-      title="YouTube video player"
-      frameborder="0"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-      referrerpolicy="strict-origin-when-cross-origin"
-      allowfullscreen
-    ></iframe>
-  </div>
-</section>
-
-<section class="primary-section">
   <p class="text-wrapper">{{ page.intro }}</p>
 </section>
-
 <section class="primary-section">
   <div class="wrapper">
     {% include 3-cards.html cards=page.services read-more=true %}
   </div>
 </section>
-
-<section class="primary-section">
-  <div class="wrapper">
-    <h2 class="title text-center">Testimonials</h2>
-    <div class="cols cols--2-1">
-      {% for testimonial in page.testimonials %}
-      <div class="testimonial cols__cell">
-        <p class="testimonial__quote">"{{ testimonial.quote-preview }}"</p>
-        <span class="testimonial__author">{{ testimonial.author }}</span>
-        <span
-          class="link testimonial__more js-testimonial-more"
-          data-full-quote="{{ testimonial.quote }}"
-          >Full quote</span
-        >
-      </div>
-      {% endfor %}
-    </div>
-  </div>
-</section>
-
 <section class="primary-section">
   <div class="wrapper grid grid--2-1">
     <div class="book">
