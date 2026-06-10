@@ -1,0 +1,16 @@
+@use "abstracts/functions";
+@use "abstracts/mixins";
+@use "abstracts/variables";
+
+.box__title {
+	@include mixins.font-size(36px);
+	margin: 0 0 functions.calculate-rem(8px);
+	text-decoration: underline;
+	@media (max-width: variables.$x-small) {
+		@include mixins.font-size(28px);
+	}
+}
+
+.box__list {
+	padding-left: functions.calculate-rem(24px);
+}

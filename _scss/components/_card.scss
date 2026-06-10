@@ -1,0 +1,96 @@
+@use "abstracts/functions";
+@use "abstracts/mixins";
+@use "abstracts/variables";
+
+.card {
+	padding: functions.calculate-rem(32px);
+	height: functions.calculate-rem(382px);
+	border-top: 6px solid variables.$main-theme-color;
+	box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+	@media (max-width: variables.$large) {
+		height: functions.calculate-rem(288px);
+	}
+	@media (max-width: variables.$small) {
+		height: 100%;
+	}
+	@media (max-width: variables.$x-small) {
+		padding: functions.calculate-rem(24px) functions.calculate-rem(16px);
+	}
+	background-size: cover;
+	position: relative;
+}
+
+.card__bg-image {
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	background: variables.$main-theme-color;
+	opacity: 0.6;
+}
+
+.card--small {
+	border: none;
+	padding: functions.calculate-rem(24px) functions.calculate-rem(32px);
+	.card__title {
+		@include mixins.font-size(28px);
+		@media (max-width: variables.$x-small) {
+			@include mixins.font-size(22px);
+		}
+	}
+	.card__more {
+		@include mixins.font-size(24px);
+		@media (max-width: variables.$x-small) {
+			@include mixins.font-size(16px);
+		}
+	}
+}
+
+.card__content {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	position: relative;
+	height: 100%;
+}
+
+.card__title {
+	color: variables.$white;
+	@include mixins.font-size(36px);
+  display: inline;
+  background-image: linear-gradient(to right, variables.$white 0%, variables.$white 100%);
+  background-position: 0 1.18em;
+  background-repeat: repeat-x;
+  background-size: 8px 1px;
+	@media (max-width: variables.$x-small) {
+		@include mixins.font-size(24px)
+	}
+}
+
+.card__text {
+	color: variables.$white;
+	margin: functions.calculate-rem(8px) 0 0;
+	@media (max-width: variables.$small) {
+		margin: functions.calculate-rem(8px) 0 functions.calculate-rem(24px);
+	}
+}
+
+.card__more {
+	color: variables.$white;
+	text-decoration: underline;
+	display: block;
+	@include mixins.font-size(28px);
+	font-family: 'Playfair display', serif;
+	@media (max-width: variables.$x-small) {
+		@include mixins.font-size(18px)
+	}
+}
+
+.card__date {
+	color: variables.$white;
+	@include mixins.font-size(16px);
+	@media (max-width: variables.$x-small) {
+		@include mixins.font-size(14px);
+	}
+}

@@ -1,0 +1,79 @@
+@use "abstracts/functions";
+@use "abstracts/mixins";
+@use "abstracts/variables";
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  color: variables.$mid-gray;
+  font-family: Georgia, serif;
+  margin: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Playfair Display', serif;
+  color: variables.$main-theme-color;
+  margin: 0 0 functions.calculate-rem(8px);
+}
+
+p {
+  line-height: 1.5em;
+  @include mixins.font-size(16px);
+  @media (max-width: variables.$small) {
+    @include mixins.font-size(15px);
+  }
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  li:before {
+    content: '-';
+  }
+}
+
+li {
+  margin: functions.calculate-rem(29px) 0;
+}
+
+a {
+  color: variables.$link-color;
+}
+
+path {
+  fill: variables.$main-theme-color;
+}
+
+img {
+  max-width: 100%;
+}
+
+table {
+  width: 100%;
+  max-width: functions.calculate-rem(450px);
+}
+
+th {
+  text-align: left;
+  padding: functions.calculate-rem(16px) 0 functions.calculate-rem(8px) functions.calculate-rem(8px);
+  background-color: variables.$main-theme-color;
+  color: variables.$white;
+  @include mixins.font-size(24px);
+  font-family: 'Playfair display', serif;
+}
+
+td {
+  padding: functions.calculate-rem(16px) 0 functions.calculate-rem(16px) functions.calculate-rem(16px);
+  background-color: rgba(variables.$black, 0.03);
+  @include mixins.font-size(18px);
+}

@@ -1,0 +1,13 @@
+@use "abstracts/mixins";
+
+.book__text {
+  @include mixins.font-size(20px);
+}
+
+.book__quote {
+  font-weight: bold;
+}
+
+.book__link {
+  @include mixins.font-size(18px);
+}

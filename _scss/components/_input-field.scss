@@ -1,0 +1,44 @@
+@use "abstracts/mixins";
+@use "abstracts/variables";
+
+.input-field__text-input {
+  border: none;
+  border-bottom: 1px solid variables.$mid-gray;
+  outline: none;
+  height: 2rem;
+  width: 100%;
+  font-family: 'Gerogia', serif;
+  @include mixins.font-size(16px);
+}
+
+.input-field--active {
+  .input-field__text-input {
+    border-color: variables.$main-theme-color;
+    color: variables.$main-theme-color;
+  }
+  .input-field__label {
+    color: variables.$main-theme-color;
+    transform: translateY(-10px);
+    transform-origin: 0 0;
+    @include mixins.font-size(12px);
+  }
+}
+
+textarea.input-field__text-input {
+	min-height: 5rem;
+  resize: none;
+}
+
+.input-field__label {
+	color: variables.$mid-gray;
+	@include mixins.font-size(15px);
+  transition: all .2s ease-out;
+  display: inline-block;
+}
+
+.input-field__error {
+  color: variables.$error-color;
+  @include mixins.font-size(12px);
+}
+
+

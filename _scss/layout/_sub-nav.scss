@@ -1,0 +1,26 @@
+@use "abstracts/functions";
+@use "abstracts/variables";
+
+.sub-nav {
+	position: absolute;
+	top: 100%;
+	left: 50%;
+	transform: translateX(-50%);
+	text-align: left;
+	white-space: nowrap;
+	background-color: variables.$white;
+	padding: 0 functions.calculate-rem(16px) functions.calculate-rem(8px) functions.calculate-rem(16px);
+	display: none;
+	z-index: 2;
+}
+
+.sub-nav--indent {
+	transform: translateX(0);
+	left: 0;
+}
+
+.sub-nav__link {
+	display: block;
+	margin: functions.calculate-rem(16px) 0;
+	color: variables.$mid-gray;
+}

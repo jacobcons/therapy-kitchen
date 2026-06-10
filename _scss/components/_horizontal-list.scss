@@ -1,0 +1,6 @@
+@use "abstracts/functions";
+
+.horizontal-list__item {
+	display: inline-block;
+	margin: functions.calculate-rem(8px);
+}

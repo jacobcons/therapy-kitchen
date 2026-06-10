@@ -1,0 +1,22 @@
+@use "sass:string";
+@use 'sass:math';
+
+@function calculate-rem($size) {
+  $rem-size: math.div($size, 16px);
+  @return #{$rem-size}rem;
+}
+
+@function str-replace($string, $search, $replace: '') {
+  $index: string.index($string, $search);
+
+  @if $index {
+    @return string.slice($string, 1, $index - 1) + $replace +
+      str-replace(
+        string.slice($string, $index + string.length($search)),
+        $search,
+        $replace
+      );
+  }
+
+  @return $string;
+}

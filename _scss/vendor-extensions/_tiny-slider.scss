@@ -1,0 +1,43 @@
+@use "abstracts/mixins";
+@use "abstracts/variables";
+
+.tns-outer {
+  position: relative;
+  z-index: 1;
+}
+
+.tns-controls {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  z-index: 2;
+}
+  
+.tns-controls button {
+  background: variables.$white;
+  outline: none;
+  border: none;
+  padding: 0;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  @include mixins.font-size(16px);
+  @include mixins.square(3.125em);
+  svg {
+    @include mixins.square(2em);
+  }
+  @media (max-width: variables.$medium) {
+    @include mixins.font-size(12px);
+  }
+  @media (max-width: variables.$x-small) {
+    @include mixins.font-size(11px);
+  }
+}  
+
+.tns-controls button[data-controls="prev"] {
+  
+}
+
+.tns-controls button[data-controls="next"] {
+  
+}
