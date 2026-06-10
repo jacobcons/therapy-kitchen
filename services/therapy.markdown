@@ -33,28 +33,26 @@ text-boxes:
 areas-of-specialism:
   title: Areas of specialism
   list:
-  - Learning / behavioural / cognitive issues
-  - Childhood trauma
-  - Relationship issues.
-  - Social anxiety and phobias
-  - Addictions - substance, behavioural and emotional
+  - 'neurodivergence '
+  - addiction and obsessional behaviours
+  - spiritual inquiry
+  - life cycle questions, existential questions
   - Developing self care, acceptance and compassion
   - Only Child experiences
   - Dietary/ nutritional and health Concerns
   - Bereavement and loss
   - Depression, low mood and loss of motivation
   - Life cycle, existential and spiritual questions
-  - Developmental conflicts
   - Understanding Borderline Personality, Bi-polar and Narcissistic conditions, for
     individuals and their families
-  - Trauma, compound trauma and PTSD
   - 'General mental health, mentoring and well being '
 what-to-expect:
   title: What to expect
-  text-box: |-
-    An initial phone conversation to introduce ourselves and understand how I can help.  I offer a half hour assessment, costing £15, to establish whether I am the right counsellor for your needs.
-
-    We will normally agree to work on a weekly basis as the most effective schedule, in either a short term or open ended time span.  However each therapeutic relationship is unique and we will agree working patterns accordingly, within a flexible framework.
+  text-box: "An initial 20 minute, online conversation to introduce ourselves and
+    understand how I can help.  \n\nWe will normally agree to work on a weekly basis
+    as the most effective schedule, in either a short term or open ended time span.
+    \ However each therapeutic relationship is unique and we will agree working patterns
+    accordingly, within a flexible framework."
   table:
   - cost: "£55"
     for: Individuals
