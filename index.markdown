@@ -11,13 +11,13 @@ banner:
   position: top
   has-brown-tint: false
 intro: "At the heart of Therapy Kitchen is the practice of loving kindness - an invitation
-  to meet yourself with curiosity, compassion and care.  Here, life's challenges are
-  not seen as problems to fix but natural pathways to healing.  A voyage as personal
-  as it is universal, as heroic as it is everyday.  Food can offer a unique way into
-  this exploration with a shared language that speaks to our instinctive need for
-  nurture, growth and joy.\n\nFinding a fluid blend of conversation, cooking and reflection
-  that engages the whole self on a voyage towards a deeper connection, understanding
-  what it means to walk  your human path.\n\n\n\n \n"
+  to meet yourself with curiosity, compassion and thought.  Here, life's challenges
+  are not seen as problems to fix but natural pathways to healing.  A voyage as personal
+  as it is universal, as courageous as it is collaborative.  Food can offer a unique
+  way into this exploration with a shared language that speaks to our instinctive
+  need for nurture, growth and joy.\n\nFinding a fluid blend of conversation, cooking
+  and reflection that engages the whole self on a voyage towards a deeper connection,
+  understanding what it means to walk  your human path.\n\n\n\n \n"
 services:
 - title: Therapy
   desc: Therapy offers a unique space to explore personal and relational issues. The
