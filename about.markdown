@@ -41,9 +41,14 @@ text-boxes:
     Counselling and Psychotherapy (BACP) explores power of Nature to unite us all
     in time and space."
 qualifications:
+- title: published 'Kitchen Therapy, how to become a conscious cook'
+  year: 2024
+- title: founded Kitchen Sessions CIC training organisation
+  year: 2024
+- title: BACP Spiritual Division executive committee member
+  year: 2024
 - title: Accredited Member British Association of Counselling and Psychotherapy (BACP)
   year: 2016
-  Title: joined BACP spiritual division committee
 - title: Foundation in Systemic Family Therapy, St Georges’ University Hospital, Tooting
   year: 2014
 - title: Psycho-dynamic Therapeutic Counselling PG Dip, Brighton University
@@ -55,14 +60,6 @@ qualifications:
   year: 2000
 - title: BA (Hons) Anthropology and Sociology
   year: 1991
-- title: 
-  year: 
-- title: published 'Kitchen Therapy, how to become a conscious cook'
-  year: 2024
-- title: founded Kitchen Sessions CIC training organisation
-  year: 2024
-- title: BACP Spiritual Division executive committee member
-  year: 2024
 portfolio-image:
   image: "/uploads/KitchenTherapy_0370%20A.jpg"
   alt: 
