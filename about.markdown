@@ -18,7 +18,7 @@ text-boxes:
     potential to unfold.\n\nThrough teaching, learning, cooking, therapy and play,
     I explore the power of honest communication.  A deep interest is in reconnecting
     with our instinctual life, trusting our intuition, allowing self expression to
-    flourish, for the benefit of all.  "
+    flourish, for the sustainable benefit of all.  "
 - title: Career path
   body-copy: After a first degree in Anthropology, I completed teacher training, that
     I was later able to fit around my family.  Landing a job as drama specialist at
@@ -37,12 +37,14 @@ text-boxes:
     of reality.  To this end, my book, 'Kitchen Therapy, how to become a conscious
     cook', takes us on a culinary adventure to the inner workings of the human mind.
     \n\nI have now founded a non-profit, training organisation, Kitchen Sessions CIC,
-    to promote the therapeutic potential of food for the benefit of all.  My current
-    role in the Spiritual Division committee for the British Association for Counselling
-    and Psychotherapy (BACP) explores power of Nature to unite us all in time and
-    space.\n\nWriting is a constant companion for both personal and professional development,
-    so my my regular column in Threshold's journal which I look forward to including
-    on my substack platform (work in progress!) represents a long held dream.  \n\n"
+    to promote the therapeutic potential of food in all areas of life.  My role in
+    the spirituality division of the BACP helps explore Mother Nature, as a unifying,
+    divine guide.\n\nWriting is a constant companion for both personal and professional
+    development; I always have an article in mind and am delighted to have a regular
+    column in Thresholds, \n\n\nWriting is a constant companion for both personal
+    and professional development, so my my regular column in Threshold's journal which
+    I look forward to including on my substack platform (work in progress!) represents
+    a long held dream.  \n\n"
 qualifications:
 - title: published 'Kitchen Therapy, how to become a conscious cook'
   year: 2024
