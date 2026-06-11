@@ -32,14 +32,17 @@ text-boxes:
     quickly became apparent.
 - title: Currently
   body-copy: "I am passionate about bringing possibility, potential and pleasure centre
-    stage, abandoning notions of perfection, that get in the way life, love and good
-    cooking.  To this end, my book, 'Kitchen Therapy, how to become a conscious cook',
-    takes us on a culinary adventure to the inner workings of the human mind. \n\nI
-    have now founded a non-profit, training organisation, Kitchen Sessions CIC, to
-    promote the therapeutic potential of food across the welfare professions.  My
+    stage, abandoning notions of perfection, to make way for the transformative power
+    of reality.  To this end, my book, 'Kitchen Therapy, how to become a conscious
+    cook', takes us on a culinary adventure to the inner workings of the human mind.
+    \n\nI have now founded a non-profit, training organisation, Kitchen Sessions CIC,
+    to promote the therapeutic potential of food across the welfare professions.  My
     current role in the Spiritual Division committee for the British Association for
     Counselling and Psychotherapy (BACP) explores power of Nature to unite us all
-    in time and space."
+    in time and space.\n\nWriting is a constant companion for both personal and professional
+    development, so my my regular column in Threshold's journal which I look forward
+    to including on my substack platform (work in progress!) represents a long held
+    dream.  \n\n"
 qualifications:
 - title: published 'Kitchen Therapy, how to become a conscious cook'
   year: 2024
