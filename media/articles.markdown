@@ -38,6 +38,8 @@ links:
   url: https://www.bacp.co.uk/bacp-journals/thresholds/october-2023/food-for-the-future/
 - name: Pysche, the online magazine, explores how to use kitchen therapy...
   url: https://psyche.co/guides/how-to-use-kitchen-therapy-to-nourish-your-sense-of-self
+- name: my latest column, The Alchemy of Attention in BACP's Thresholds journal
+  url: https://www.bacp.co.uk/media/25759/bacp-thresholds-april-2026.pdf
 layout: media-links
 ---
 
