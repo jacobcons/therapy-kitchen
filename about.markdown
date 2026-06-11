@@ -55,9 +55,16 @@ qualifications:
   year: 2000
 - title: BA (Hons) Anthropology and Sociology
   year: 1991
-  Key: 
+- title: 
+  year: 
+- title: published 'Kitchen Therapy, how to become a conscious cook'
+  year: 2024
+- title: founded Kitchen Sessions CIC training organisation
+  year: 2024
+- title: BACP Spiritual Division executive committee member
+  year: 2024
 portfolio-image:
-  image: "/uploads/portrait%20copy%20(1).jpg"
+  image: "/uploads/KitchenTherapy_0370%20A.jpg"
   alt: 
 Field name: 
 layout: about
