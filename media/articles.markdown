@@ -36,6 +36,8 @@ links:
     article first appeared in the January 2023 issue of Thresholds, published by the
     British Association for Counselling and Psychotherapy. ©BACP 2023.’ '
   url: https://www.bacp.co.uk/bacp-journals/thresholds/october-2023/food-for-the-future/
+- name: Pysche, the online magazine, explores how to use kitchen therapy...
+  url: https://psyche.co/guides/how-to-use-kitchen-therapy-to-nourish-your-sense-of-self
 layout: media-links
 ---
 
