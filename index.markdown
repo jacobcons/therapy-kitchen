@@ -4,7 +4,7 @@ date: 2018-07-03 09:46:00 Z
 position: 0
 page-title: Therapy Kitchen - space for connection, creativity and compassionate human-exploration
 meta-desc: Offering talk therapy and creative, food-based therapeutic work, for a
-  healing adventure  with individuals, couples and groups.  Reconnecting with your
+  healing experience  with individuals, couples and groups.  Reconnecting with your
   instinctive, intuitive, authentic sense of self.
 banner:
   image: "/uploads/cakes-and-hot-chocolate-banner.jpg"
@@ -15,7 +15,7 @@ intro: "At the heart of Therapy Kitchen is the practice of loving kindness - an 
   are not seen as problems to fix but natural pathways to healing.  A voyage as personal
   as it is universal, as courageous as it is collaborative.  Food can offer a unique
   way into this exploration with a shared language that speaks to our instinctive
-  need for nurture, growth and joy.\n\nFinding a fluid blend of conversation, cooking
+  need for nurture, growth and joy.\n\nFinding the best blend of conversation, cooking
   and reflection that engages the whole self on a voyage towards a deeper connection,
   understanding what it means to walk  your human path.\n\n\n\n \n"
 services:
