@@ -9,16 +9,16 @@ banner:
   has-brown-tint: true
 intro: 'Articles:'
 links:
-- name: "Culinary Communication \n(This article first appeared in the April '26 issue
-    of Thresholds, published by the British Association for Counselling and Psychotherapy.
-    ©BACP 2023.)"
+- name: "Kitchen Reflections column - Culinary Communication \n(This article first
+    appeared in the April '26 issue of Thresholds, published by the British Association
+    for Counselling and Psychotherapy. ©BACP 2023.)"
   url: https://drive.google.com/file/d/1eaactucqbKbQdjGKsxawPH9wZWsZ9BW9/view?usp=share_link
-- name: "Meaningful magic \n(This article first appeared in the January '26  issue
-    of Thresholds, published by the British Association for Counselling and Psychotherapy.
-    ©BACP 2023.)"
+- name: "Kitchen Reflections column - Meaningful magic \n(This article first appeared
+    in the January '26  issue of Thresholds, published by the British Association
+    for Counselling and Psychotherapy. ©BACP 2023.)"
   url: https://drive.google.com/file/d/15x_n1lUHLzPzlIq61FjCIqv1DMVmbd6s/view?usp=share_link
 - name: |-
-    Tea making
+    Kitchen Reflections column - Tea making - the alchemy of attention
     (This article first appeared in the January 2023 issue of Thresholds, published by the British Association for Counselling and Psychotherapy. ©BACP 2023.)
   url: https://drive.google.com/file/d/1nMs-tcZeHzRotSbBUHo2CujFiEGVkg7y/view?usp=share_link
 - name: An Introduction to Kitchen Therapy
