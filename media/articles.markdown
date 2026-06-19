@@ -9,7 +9,17 @@ banner:
   has-brown-tint: true
 intro: 'Articles:'
 links:
-- name: 'thresholds 1 '
+- name: |2-
+
+    (This article first appeared in the October '25  issue of Thresholds, published by the British Association for Counselling and Psychotherapy. ©BACP 2023.)
+  url: https://drive.google.com/file/d/15x_n1lUHLzPzlIq61FjCIqv1DMVmbd6s/view?usp=share_link
+- name: |-
+    thresholds 2
+    (This article first appeared in the January 2023 issue of Thresholds, published by the British Association for Counselling and Psychotherapy. ©BACP 2023.)
+  url: https://drive.google.com/file/d/1eaactucqbKbQdjGKsxawPH9wZWsZ9BW9/view?usp=share_link
+- name: "thresholds 1 \n(This article first appeared in the January 2023 issue of
+    Thresholds, published by the British Association for Counselling and Psychotherapy.
+    ©BACP 2023.)"
   url: https://drive.google.com/file/d/1nMs-tcZeHzRotSbBUHo2CujFiEGVkg7y/view?usp=share_link
 - name: An Introduction to Kitchen Therapy
   url: https://www.pesi.co.uk/Blog/2020/December/Kitchen-Therapy-An-Introduction
@@ -34,17 +44,15 @@ links:
   url: https://www.pesi.co.uk/blog/2022/february/kitchen-therapy-for-eating-disorders-a-relational
 - name: Kitchen therapy and Neurodivergence
   url: https://www.pesi.co.uk/blog/2022/april/kitchen-therapy-with-neurodivergent-clients-autism
-- name: 'Food for the Future, the spiritual and therapeutic value of food.  ‘This
+- name: "Food for the Future, the spiritual and therapeutic value of food.  \n(This
     article first appeared in the January 2023 issue of Thresholds, published by the
-    British Association for Counselling and Psychotherapy. ©BACP 2023.’ '
+    British Association for Counselling and Psychotherapy. ©BACP 2023.)"
   url: https://www.bacp.co.uk/bacp-journals/thresholds/october-2023/food-for-the-future/
 - name: Pysche, the online magazine, explores how to use kitchen therapy...
   url: https://psyche.co/guides/how-to-use-kitchen-therapy-to-nourish-your-sense-of-self
 - name: my latest column, 'The Alchemy of Attention' in BACP's Thresholds journal,
     April '26
   url: https://www.bacp.co.uk/media/25759/bacp-thresholds-april-2026.pdf
-- name: thresholds 2
-  url: https://drive.google.com/file/d/1eaactucqbKbQdjGKsxawPH9wZWsZ9BW9/view?usp=share_link
 layout: media-links
 ---
 
