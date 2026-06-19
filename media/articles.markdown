@@ -41,7 +41,8 @@ links:
 - name: my latest column, 'The Alchemy of Attention' in BACP's Thresholds journal,
     April '26
   url: https://www.bacp.co.uk/media/25759/bacp-thresholds-april-2026.pdf
-  Key: "/Users/charlottehastings/Desktop/BC554 Thresholds April 2026_Hastings.pdf"
+- name: 'thresholds 1 '
+  url: https://drive.google.com/file/d/1nMs-tcZeHzRotSbBUHo2CujFiEGVkg7y/view?usp=share_link
 layout: media-links
 ---
 
