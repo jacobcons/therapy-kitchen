@@ -9,6 +9,8 @@ banner:
   has-brown-tint: true
 intro: 'Articles:'
 links:
+- name: 'thresholds 1 '
+  url: https://drive.google.com/file/d/1nMs-tcZeHzRotSbBUHo2CujFiEGVkg7y/view?usp=share_link
 - name: An Introduction to Kitchen Therapy
   url: https://www.pesi.co.uk/Blog/2020/December/Kitchen-Therapy-An-Introduction
 - name: 'substack '
@@ -41,8 +43,8 @@ links:
 - name: my latest column, 'The Alchemy of Attention' in BACP's Thresholds journal,
     April '26
   url: https://www.bacp.co.uk/media/25759/bacp-thresholds-april-2026.pdf
-- name: 'thresholds 1 '
-  url: https://drive.google.com/file/d/1nMs-tcZeHzRotSbBUHo2CujFiEGVkg7y/view?usp=share_link
+- name: thresholds 2
+  url: https://drive.google.com/file/d/1eaactucqbKbQdjGKsxawPH9wZWsZ9BW9/view?usp=share_link
 layout: media-links
 ---
 
