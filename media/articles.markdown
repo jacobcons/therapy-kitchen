@@ -23,16 +23,16 @@ links:
   url: https://drive.google.com/file/d/15x_n1lUHLzPzlIq61FjCIqv1DMVmbd6s/view?usp=share_link
 - name: An Introduction to Kitchen Therapy
   url: https://www.pesi.co.uk/Blog/2020/December/Kitchen-Therapy-An-Introduction
-- name: 'substack '
+- name: substack - just experimenting here so far...
   url: "https://charlotte448.substack.com/publish/home\n\n"
 - name: Kitchen Therapy - from Nursing Couple to Kitchen Table
   url: https://www.pesi.co.uk/Blog/2021/February/Kitchen-Therapy-From-Nursing-Couple-to-Kitchen-Tab
+- name: Series of blogs with Cacao.Co
+  url: https://drink.cacaoco.co.uk/blogs/news/cacao-kitchen-episode-4
 - name: Couples' Kitchen Therapy Session Review
   url: https://uk.style.yahoo.com/how-cooking-can-reveal-more-about-your-personality-070826611.html
 - name: 'Kitchen Therapy: Working with Addiction'
   url: https://www.pesi.co.uk/blog/2021/april/kitchen-therapy-working-with-addiction
-- name: Daily Mail 6th May 2021
-  url: https://www.dailymail.co.uk/femail/article-9546853/The-recipe-happy-marriage-Cooking-therapy.html
 - name: Edible narrative therapy
   url: https://www.pesi.co.uk/blog/2021/june/kitchen-therapy-edible-narrative-therapy
 - name: Attachment, Relationships and Food - from Cradle to Kitchen - Cooking for
@@ -50,9 +50,8 @@ links:
   url: https://www.bacp.co.uk/bacp-journals/thresholds/october-2023/food-for-the-future/
 - name: Pysche, the online magazine, explores how to use kitchen therapy...
   url: https://psyche.co/guides/how-to-use-kitchen-therapy-to-nourish-your-sense-of-self
-- name: my latest column, 'The Alchemy of Attention' in BACP's Thresholds journal,
-    April '26
-  url: https://www.bacp.co.uk/media/25759/bacp-thresholds-april-2026.pdf
+- name: Daily Mail 6th May 2021
+  url: https://www.dailymail.co.uk/femail/article-9546853/The-recipe-happy-marriage-Cooking-therapy.html
 layout: media-links
 ---
 
